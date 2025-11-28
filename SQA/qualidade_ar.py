@@ -21,9 +21,9 @@ def conectar_banco():
     Ajuste os parâmetros de conexão com o seu MySQL aqui.
     """
     conexao = mysql.connector.connect(
-        host="localhost",
-        user="seu_usuario",      # <-- troque
-        password="sua_senha",    # <-- troque
+        host="localhost",  # <-- troque
+        user="root",      # <-- troque
+        password="",    # <-- troque
         database="qualidade_ar"  # <-- crie esse database ou troque o nome
     )
     return conexao
