@@ -21,6 +21,7 @@ DB_CONFIG = {
     "user": os.getenv("DB_USER", "root"),
     "password": os.getenv("DB_PASSWORD", ""),
     "database": os.getenv("DB_NAME", "qualidade_ar"),
+    "port": int(os.getenv("DB_PORT", 3306)),
 }
 
 
@@ -28,7 +29,7 @@ def conectar_banco():
     try:
         return mysql.connector.connect(**DB_CONFIG)
     except Error as exc:
-        print(f"Erro ao conectar no MySQL: {exc}")
+        print(f"Erro ao conectar no MySQL ({DB_CONFIG['host']}:{DB_CONFIG['port']}): {exc}")
         raise
 
 
