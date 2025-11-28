@@ -2,7 +2,7 @@
     "type": "MySQLNotebook",
     "version": "1.0",
     "caption": "DB Notebook",
-    "content": "CREATE DATABASE IF NOT EXISTS qualidade_ar\r\n  DEFAULT CHARACTER SET utf8mb4\r\n  COLLATE utf8mb4_unicode_ci;\r\nUSE qualidade_ar;\r\nCREATE TABLE IF NOT EXISTS medidas_iqa (\r\n  id INT AUTO_INCREMENT PRIMARY KEY,\r\n  data_hora DATETIME NOT NULL,\r\n  pm10 FLOAT, pm25 FLOAT, o3 FLOAT, co FLOAT, no2 FLOAT, so2 FLOAT,\r\n  i_pm10 FLOAT, i_pm25 FLOAT, i_o3 FLOAT, i_co FLOAT, i_no2 FLOAT, i_so2 FLOAT,\r\n  iqa_max FLOAT,\r\n  qualidade VARCHAR(20),\r\n  efeito TEXT\r\n);\r\nSELECT id, data_hora, pm10, pm25, o3, co, no2, so2, iqa_max, qualidade\r\nFROM medidas_iqa\r\nORDER BY id DESC\r\nLIMIT 20;\r\n\r\n",
+    "content": "CREATE DATABASE IF NOT EXISTS qualidade_ar\r\n  DEFAULT CHARACTER SET utf8mb4\r\n  COLLATE utf8mb4_unicode_ci;\r\nUSE qualidade_ar;\r\nCREATE TABLE IF NOT EXISTS medidas_iqa (\r\n  id INT AUTO_INCREMENT PRIMARY KEY,\r\n  data_hora DATETIME NOT NULL,\r\n  pm10 FLOAT, pm25 FLOAT, o3 FLOAT, co FLOAT, no2 FLOAT, so2 FLOAT,\r\n  i_pm10 FLOAT, i_pm25 FLOAT, i_o3 FLOAT, i_co FLOAT, i_no2 FLOAT, i_so2 FLOAT,\r\n  iqa_max FLOAT,\r\n  qualidade VARCHAR(20),\r\n  efeito TEXT\r\n);\r\nSELECT id, data_hora, pm10, pm25, o3, co, no2, so2, iqa_max, qualidade\r\nFROM medidas_iqa\r\nORDER BY id DESC\r\nLIMIT 20;\r\n",
     "options": {
         "tabSize": 4,
         "insertSpaces": true,
@@ -15,12 +15,12 @@
             {
                 "inSelectionMode": false,
                 "selectionStart": {
-                    "lineNumber": 19,
-                    "column": 1
+                    "lineNumber": 17,
+                    "column": 10
                 },
                 "position": {
-                    "lineNumber": 19,
-                    "column": 1
+                    "lineNumber": 17,
+                    "column": 10
                 }
             }
         ],
@@ -137,12 +137,12 @@
         {
             "state": {
                 "start": 14,
-                "end": 18,
+                "end": 17,
                 "language": "mysql",
                 "result": {
                     "type": "resultIds",
                     "list": [
-                        "8e651976-9215-4308-e416-2d7e8dbaa735"
+                        "b4f35d37-61f2-4ee8-eaaf-8bd640daa3c7"
                     ]
                 },
                 "currentHeight": 114.59375,
@@ -152,7 +152,7 @@
                         "delimiter": ";",
                         "span": {
                             "start": 0,
-                            "length": 115
+                            "length": 114
                         },
                         "contentStart": 0,
                         "state": 3
@@ -161,8 +161,8 @@
             },
             "data": [
                 {
-                    "tabId": "eb862177-38a5-4c15-9b22-1df4fb30e357",
-                    "resultId": "8e651976-9215-4308-e416-2d7e8dbaa735",
+                    "tabId": "65e9aa94-2a49-4510-fd1c-df110bf2c215",
+                    "resultId": "b4f35d37-61f2-4ee8-eaaf-8bd640daa3c7",
                     "rows": [
                         {
                             "0": 2,
@@ -405,8 +405,8 @@
         },
         {
             "state": {
-                "start": 19,
-                "end": 19,
+                "start": 18,
+                "end": 18,
                 "language": "mysql",
                 "currentSet": 1,
                 "statements": [
