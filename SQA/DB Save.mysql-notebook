@@ -2,7 +2,7 @@
     "type": "MySQLNotebook",
     "version": "1.0",
     "caption": "DB Notebook",
-    "content": "CREATE DATABASE IF NOT EXISTS qualidade_ar\r\n  DEFAULT CHARACTER SET utf8mb4\r\n  COLLATE utf8mb4_unicode_ci;\r\nUSE qualidade_ar;\r\nCREATE TABLE IF NOT EXISTS medidas_iqa (\r\n  id INT AUTO_INCREMENT PRIMARY KEY,\r\n  data_hora DATETIME NOT NULL,\r\n  pm10 FLOAT, pm25 FLOAT, o3 FLOAT, co FLOAT, no2 FLOAT, so2 FLOAT,\r\n  i_pm10 FLOAT, i_pm25 FLOAT, i_o3 FLOAT, i_co FLOAT, i_no2 FLOAT, i_so2 FLOAT,\r\n  iqa_max FLOAT,\r\n  qualidade VARCHAR(20),\r\n  efeito TEXT\r\n);\r\nSELECT id, data_hora, pm10, pm25, o3, co, no2, so2, iqa_max, qualidade\r\nFROM medidas_iqa\r\nORDER BY id DESC\r\nLIMIT 20;\r\n",
+    "content": "CREATE DATABASE IF NOT EXISTS qualidade_ar\r\n  DEFAULT CHARACTER SET utf8mb4\r\n  COLLATE utf8mb4_unicode_ci;\r\nCREATE TABLE IF NOT EXISTS medidas_iqa (\r\n  id INT AUTO_INCREMENT PRIMARY KEY,\r\n  data_hora DATETIME NOT NULL,\r\n  pm10 FLOAT, pm25 FLOAT, o3 FLOAT, co FLOAT, no2 FLOAT, so2 FLOAT,\r\n  i_pm10 FLOAT, i_pm25 FLOAT, i_o3 FLOAT, i_co FLOAT, i_no2 FLOAT, i_so2 FLOAT,\r\n  iqa_max FLOAT,\r\n  qualidade VARCHAR(20),\r\n  efeito TEXT\r\n);\r\nSELECT\r\n  id,\r\n  DATE_FORMAT(data_hora, '%Y-%m-%d %H:%i:%s') AS data_hora,\r\n  pm10, pm25, o3, co, no2, so2, iqa_max, qualidade\r\nFROM medidas_iqa\r\nORDER BY id DESC\r\nLIMIT 20;\r\n",
     "options": {
         "tabSize": 4,
         "insertSpaces": true,
@@ -15,11 +15,11 @@
             {
                 "inSelectionMode": false,
                 "selectionStart": {
-                    "lineNumber": 17,
+                    "lineNumber": 19,
                     "column": 10
                 },
                 "position": {
-                    "lineNumber": 17,
+                    "lineNumber": 19,
                     "column": 10
                 }
             }
@@ -49,8 +49,8 @@
                         {
                             "type": 2,
                             "index": 0,
-                            "resultId": "536139a5-8318-4e02-c211-42ee8c13fac9",
-                            "content": "OK, 1 row affected in 2.54ms"
+                            "resultId": "1e196302-a49b-4ff9-f07e-4355d4b08b02",
+                            "content": "OK, 1 row affected in 1.694ms"
                         }
                     ]
                 },
@@ -73,7 +73,7 @@
         {
             "state": {
                 "start": 4,
-                "end": 4,
+                "end": 12,
                 "language": "mysql",
                 "result": {
                     "type": "text",
@@ -81,40 +81,8 @@
                         {
                             "type": 2,
                             "index": 0,
-                            "resultId": "de50ae84-5af8-4361-90ba-bde63ff6f6bc",
-                            "content": "OK, 0 records retrieved in 0.843ms"
-                        }
-                    ]
-                },
-                "currentHeight": 28,
-                "currentSet": 1,
-                "statements": [
-                    {
-                        "delimiter": ";",
-                        "span": {
-                            "start": 0,
-                            "length": 17
-                        },
-                        "contentStart": 0,
-                        "state": 0
-                    }
-                ]
-            },
-            "data": []
-        },
-        {
-            "state": {
-                "start": 5,
-                "end": 13,
-                "language": "mysql",
-                "result": {
-                    "type": "text",
-                    "text": [
-                        {
-                            "type": 2,
-                            "index": 0,
-                            "resultId": "baf191f4-4681-4c0f-d7e2-54b7c3a10a15",
-                            "content": "OK, 0 records retrieved in 2.864ms"
+                            "resultId": "9801864d-02eb-4e26-d384-ace6801dbeed",
+                            "content": "OK, 0 records retrieved in 2.532ms"
                         }
                     ]
                 },
@@ -128,6 +96,15 @@
                             "length": 315
                         },
                         "contentStart": 0,
+                        "state": 0
+                    },
+                    {
+                        "delimiter": ";",
+                        "span": {
+                            "start": 315,
+                            "length": 0
+                        },
+                        "contentStart": 316,
                         "state": 3
                     }
                 ]
@@ -136,13 +113,13 @@
         },
         {
             "state": {
-                "start": 14,
-                "end": 17,
+                "start": 13,
+                "end": 19,
                 "language": "mysql",
                 "result": {
                     "type": "resultIds",
                     "list": [
-                        "b4f35d37-61f2-4ee8-eaaf-8bd640daa3c7"
+                        "11fe265b-22de-426e-8336-90cef66afa2a"
                     ]
                 },
                 "currentHeight": 114.59375,
@@ -152,7 +129,7 @@
                         "delimiter": ";",
                         "span": {
                             "start": 0,
-                            "length": 114
+                            "length": 167
                         },
                         "contentStart": 0,
                         "state": 3
@@ -161,8 +138,8 @@
             },
             "data": [
                 {
-                    "tabId": "65e9aa94-2a49-4510-fd1c-df110bf2c215",
-                    "resultId": "b4f35d37-61f2-4ee8-eaaf-8bd640daa3c7",
+                    "tabId": "4a6c05ee-dd72-4a5e-fab1-87443fb5a429",
+                    "resultId": "11fe265b-22de-426e-8336-90cef66afa2a",
                     "rows": [
                         {
                             "0": 2,
@@ -206,16 +183,21 @@
                                     "INT4"
                                 ]
                             },
-                            "inPK": true,
+                            "inPK": false,
                             "nullable": false,
-                            "autoIncrement": true
+                            "autoIncrement": false
                         },
                         {
                             "title": "data_hora",
                             "field": "1",
                             "dataType": {
-                                "type": 26,
-                                "dateTimePrecision": 8,
+                                "type": 17,
+                                "characterMaximumLength": 65535,
+                                "flags": [
+                                    "BINARY",
+                                    "ASCII",
+                                    "UNICODE"
+                                ],
                                 "needsQuotes": true,
                                 "parameterFormatType": "OneOrZero"
                             },
@@ -240,9 +222,8 @@
                                 ]
                             },
                             "inPK": false,
-                            "nullable": true,
-                            "autoIncrement": false,
-                            "default": null
+                            "nullable": false,
+                            "autoIncrement": false
                         },
                         {
                             "title": "pm25",
@@ -261,9 +242,8 @@
                                 ]
                             },
                             "inPK": false,
-                            "nullable": true,
-                            "autoIncrement": false,
-                            "default": null
+                            "nullable": false,
+                            "autoIncrement": false
                         },
                         {
                             "title": "o3",
@@ -282,9 +262,8 @@
                                 ]
                             },
                             "inPK": false,
-                            "nullable": true,
-                            "autoIncrement": false,
-                            "default": null
+                            "nullable": false,
+                            "autoIncrement": false
                         },
                         {
                             "title": "co",
@@ -303,9 +282,8 @@
                                 ]
                             },
                             "inPK": false,
-                            "nullable": true,
-                            "autoIncrement": false,
-                            "default": null
+                            "nullable": false,
+                            "autoIncrement": false
                         },
                         {
                             "title": "no2",
@@ -324,9 +302,8 @@
                                 ]
                             },
                             "inPK": false,
-                            "nullable": true,
-                            "autoIncrement": false,
-                            "default": null
+                            "nullable": false,
+                            "autoIncrement": false
                         },
                         {
                             "title": "so2",
@@ -345,9 +322,8 @@
                                 ]
                             },
                             "inPK": false,
-                            "nullable": true,
-                            "autoIncrement": false,
-                            "default": null
+                            "nullable": false,
+                            "autoIncrement": false
                         },
                         {
                             "title": "iqa_max",
@@ -366,9 +342,8 @@
                                 ]
                             },
                             "inPK": false,
-                            "nullable": true,
-                            "autoIncrement": false,
-                            "default": null
+                            "nullable": false,
+                            "autoIncrement": false
                         },
                         {
                             "title": "qualidade",
@@ -385,28 +360,27 @@
                                 "parameterFormatType": "OneOrZero"
                             },
                             "inPK": false,
-                            "nullable": true,
-                            "autoIncrement": false,
-                            "default": null
+                            "nullable": false,
+                            "autoIncrement": false
                         }
                     ],
                     "executionInfo": {
-                        "text": "OK, 2 records retrieved in 0.83ms"
+                        "text": "OK, 2 records retrieved in 0.625ms"
                     },
                     "totalRowCount": 2,
                     "hasMoreRows": false,
                     "currentPage": 0,
                     "index": 0,
-                    "sql": "SELECT id, data_hora, pm10, pm25, o3, co, no2, so2, iqa_max, qualidade\nFROM medidas_iqa\nORDER BY id DESC\nLIMIT 20;\n",
-                    "updatable": true,
-                    "fullTableName": "medidas_iqa"
+                    "sql": "SELECT\n  id,\n  DATE_FORMAT(data_hora, '%Y-%m-%d %H:%i:%s') AS data_hora,\n  pm10, pm25, o3, co, no2, so2, iqa_max, qualidade\nFROM medidas_iqa\nORDER BY id DESC\nLIMIT 20;",
+                    "updatable": false,
+                    "fullTableName": ""
                 }
             ]
         },
         {
             "state": {
-                "start": 18,
-                "end": 18,
+                "start": 20,
+                "end": 20,
                 "language": "mysql",
                 "currentSet": 1,
                 "statements": [
@@ -417,7 +391,7 @@
                             "length": 0
                         },
                         "contentStart": 0,
-                        "state": 3
+                        "state": 0
                     }
                 ]
             },
