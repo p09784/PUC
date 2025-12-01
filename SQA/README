@@ -1,0 +1,3 @@
+PS C:\DEV\PUC\SQA> & C:/DEV/PUC/SQA/.venv/Scripts/Activate.ps1
+(.venv) PS C:\DEV\PUC\SQA> & .\.venv\Scripts\Activate.ps1
+>> python .\qualidade_ar.py

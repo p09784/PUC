@@ -1,5 +1,7 @@
 import os
 from datetime import datetime
+from typing import Any, Dict, Iterable, List, Optional, Tuple
+
 import mysql.connector
 from mysql.connector import Error
 
@@ -16,7 +18,7 @@ faixas = {
     "SO2": [(0, 20, 0, 40), (21, 40, 41, 80), (41, 365, 81, 120), (366, 800, 121, 200), (801, 1600, 201, 300)],
 }
 
-DB_CONFIG = {
+DB_CONFIG: Dict[str, Any] = {
     "host": os.getenv("DB_HOST", "localhost"),
     "user": os.getenv("DB_USER", "root"),
     "password": os.getenv("DB_PASSWORD", "senha123"),
@@ -33,8 +35,9 @@ def conectar_banco():
         raise
 
 
-def criar_tabela(conexao):
-    with conexao.cursor() as cursor:
+def criar_tabela(conexao: Any) -> None:
+    cursor = conexao.cursor()
+    try:
         cursor.execute(
             """
             CREATE TABLE IF NOT EXISTS medidas_iqa (
@@ -58,11 +61,14 @@ def criar_tabela(conexao):
             )
             """
         )
+    finally:
+        cursor.close()
     conexao.commit()
 
 
-def salvar_medida(conexao, dados):
-    with conexao.cursor() as cursor:
+def salvar_medida(conexao: Any, dados: Dict[str, Any]) -> None:
+    cursor = conexao.cursor()
+    try:
         cursor.execute(
             """
             INSERT INTO medidas_iqa
@@ -92,17 +98,42 @@ def salvar_medida(conexao, dados):
                 dados["efeito"],
             ),
         )
+    finally:
+        cursor.close()
     conexao.commit()
 
+    try:
+        return cursor.lastrowid
+    except Exception:
+        return None
 
-def calcular_iqa(valor, tabela):
+
+def buscar_por_id(conexao: Any, registro_id: int) -> Optional[Tuple[Any, ...]]:
+    cursor = conexao.cursor()
+    try:
+        cursor.execute(
+            """
+            SELECT id, data_hora, pm10, pm25, o3, co, no2, so2,
+                   i_pm10, i_pm25, i_o3, i_co, i_no2, i_so2,
+                   iqa_max, qualidade, efeito
+            FROM medidas_iqa
+            WHERE id = %s
+            """,
+            (registro_id,)
+        )
+        return cursor.fetchone()
+    finally:
+        cursor.close()
+
+
+def calcular_iqa(valor: float, tabela: Iterable[Tuple[float, float, float, float]]) -> float:
     for (cl, ch, il, ih) in tabela:
         if cl <= valor <= ch:
             return ((ih - il) / (ch - cl)) * (valor - cl) + il
     return 300
 
 
-def ler_valor(rotulo):
+def ler_valor(rotulo: str) -> float:
     while True:
         try:
             return float(input(f"{rotulo}: "))
@@ -117,7 +148,7 @@ def main():
         return
 
     criar_tabela(conexao)
-    resultados = []
+    resultados: List[float] = []
 
     try:
         while True:
@@ -174,7 +205,7 @@ def main():
             print(f"Qualidade do ar: {qualidade}")
             print(f"Efeitos a saude: {efeito}")
 
-            dados_medida = {
+            dados_medida: Dict[str, Any] = {
                 "data_hora": datetime.now(),
                 "pm10": pm10,
                 "pm25": pm25,
@@ -192,10 +223,42 @@ def main():
                 "qualidade": qualidade,
                 "efeito": efeito,
             }
-            salvar_medida(conexao, dados_medida)
-            print(">> Medicao salva no banco de dados.\n")
+            novo_id = salvar_medida(conexao, dados_medida)
+            if novo_id:
+                print(f">> Medicao salva no banco de dados. ID gerado: {novo_id}\n")
+            else:
+                print(">> Medicao salva no banco de dados.\n")
 
-            if input("\nCalcular de novo? (s/n): ").lower() != "s":
+
+            sair = False
+            while True:
+                escolha = input("\nCalcular de novo? (s/n/b - buscar por ID): ").strip().lower()
+                if escolha == "s":
+                    break
+                if escolha == "n":
+                    sair = True
+                    break
+                if escolha == "b":
+                    try:
+                        id_str = input("Informe o ID do registro para buscar: ").strip()
+                        registro_id = int(id_str)
+                    except ValueError:
+                        print("ID invalido. Deve ser um numero inteiro.")
+                        continue
+                    registro = buscar_por_id(conexao, registro_id)
+                    if registro:
+                        (rid, data_hora, pm10_r, pm25_r, o3_r, co_r, no2_r, so2_r,
+                         i_pm10_r, i_pm25_r, i_o3_r, i_co_r, i_no2_r, i_so2_r,
+                         iqa_max_r, qualidade_r, efeito_r) = registro
+                        print(f"\nRegistro ID {rid} em {data_hora}:")
+                        print(f"  PM10={pm10_r}, PM2.5={pm25_r}, O3={o3_r}, CO={co_r}, NO2={no2_r}, SO2={so2_r}")
+                        print(f"  i_PM10={i_pm10_r:.1f}, i_PM2.5={i_pm25_r:.1f}, i_O3={i_o3_r:.1f}, i_CO={i_co_r:.1f}, i_NO2={i_no2_r:.1f}, i_SO2={i_so2_r:.1f}")
+                        print(f"  IQA={iqa_max_r:.1f} -> {qualidade_r} | {efeito_r}\n")
+                    else:
+                        print(f"Registro com ID {registro_id} nao encontrado.")
+                    continue
+                print("Opcao invalida. Digite 's' para sim, 'n' para nao ou 'b' para buscar por ID.")
+            if sair:
                 break
 
         print("\n=== Resultado Final ===")

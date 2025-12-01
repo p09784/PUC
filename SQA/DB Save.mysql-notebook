@@ -15,22 +15,22 @@
             {
                 "inSelectionMode": false,
                 "selectionStart": {
-                    "lineNumber": 19,
-                    "column": 10
+                    "lineNumber": 12,
+                    "column": 3
                 },
                 "position": {
-                    "lineNumber": 19,
-                    "column": 10
+                    "lineNumber": 12,
+                    "column": 3
                 }
             }
         ],
         "viewState": {
             "scrollLeft": 0,
             "firstPosition": {
-                "lineNumber": 1,
+                "lineNumber": 3,
                 "column": 1
             },
-            "firstPositionDeltaTop": 0
+            "firstPositionDeltaTop": -8
         },
         "contributionsState": {
             "editor.contrib.folding": {},
@@ -104,7 +104,7 @@
                             "start": 315,
                             "length": 0
                         },
-                        "contentStart": 316,
+                        "contentStart": 315,
                         "state": 3
                     }
                 ]
@@ -119,10 +119,10 @@
                 "result": {
                     "type": "resultIds",
                     "list": [
-                        "11fe265b-22de-426e-8336-90cef66afa2a"
+                        "baec34de-a2ad-4b57-dc83-8aaab2ff3170"
                     ]
                 },
-                "currentHeight": 114.59375,
+                "currentHeight": 201.1875,
                 "currentSet": 1,
                 "statements": [
                     {
@@ -138,9 +138,45 @@
             },
             "data": [
                 {
-                    "tabId": "4a6c05ee-dd72-4a5e-fab1-87443fb5a429",
-                    "resultId": "11fe265b-22de-426e-8336-90cef66afa2a",
+                    "tabId": "3f8179a5-5f73-45fe-d152-5cdfa81289f9",
+                    "resultId": "baec34de-a2ad-4b57-dc83-8aaab2ff3170",
                     "rows": [
+                        {
+                            "0": 5,
+                            "1": "2025-12-01 18:32:54",
+                            "2": 10,
+                            "3": 5,
+                            "4": 1,
+                            "5": 3,
+                            "6": 7,
+                            "7": 9,
+                            "8": 30,
+                            "9": "Boa"
+                        },
+                        {
+                            "0": 4,
+                            "1": "2025-12-01 18:28:08",
+                            "2": 2,
+                            "3": 3,
+                            "4": 4,
+                            "5": 5,
+                            "6": 6,
+                            "7": 6,
+                            "8": 41,
+                            "9": "Moderada"
+                        },
+                        {
+                            "0": 3,
+                            "1": "2025-11-28 09:02:01",
+                            "2": 3,
+                            "3": 10,
+                            "4": 12,
+                            "5": 16,
+                            "6": 20,
+                            "7": 15,
+                            "8": 201,
+                            "9": "Pessima"
+                        },
                         {
                             "0": 2,
                             "1": "2025-11-28 03:17:13",
@@ -365,9 +401,9 @@
                         }
                     ],
                     "executionInfo": {
-                        "text": "OK, 2 records retrieved in 0.625ms"
+                        "text": "OK, 5 records retrieved in 1.614ms"
                     },
-                    "totalRowCount": 2,
+                    "totalRowCount": 5,
                     "hasMoreRows": false,
                     "currentPage": 0,
                     "index": 0,
