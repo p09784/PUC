@@ -1,0 +1,9 @@
+# Aula 4 - 04/03/2026
+![alt text](IMG_5637.jpeg)
+![alt text](IMG_5638.jpeg)
+![alt text](IMG_5639.jpeg)
+![alt text](IMG_5640.jpeg)
+![alt text](IMG_5641.jpeg)
+![alt text](IMG_5642.jpeg)
+![alt text](IMG_5643.jpeg)
+![alt text](IMG_5644.jpeg)

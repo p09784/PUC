@@ -1,5 +1,5 @@
-# Aula 5 - 26/03/2023
+# Aula 5 - 26/02/2026
 ## Comandos
-### python -n venv .venv
+### python -m venv .venv
 ### Set-ExecutionPolicy RemoteSigned
 ### pip install pandas
