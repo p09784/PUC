@@ -1,1 +1,3 @@
-# Aula 6
+# Exercício 1
+
+## Campinas acaba de ser palco de um crime brutal — um assassinato de grande repercussão ocorrido no dia 02/02/2026, na Rua Maria Monteiro, nº 452, no bairro Cambuí, onde a vítima foi alvejada no acesso à garagem de um edifício e testemunhas relataram ter ouvido estampidos e visto um veículo saindo em alta velocidade — e você é o detetive designado para desvendar o mistério. A investigação conta com um volume massivo de dados brutos armazenados em um diretório repleto de arquivos CSV Download dados brutos armazenados em um diretório repleto de arquivos CSV, e sua missão é investigar o caso usando exclusivamente o Python, Numpy e Pandas.

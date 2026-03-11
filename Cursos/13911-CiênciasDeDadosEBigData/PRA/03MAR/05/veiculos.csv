@@ -1,0 +1,4001 @@
+nome,placa,marca,cor
+Vitória Mesquita Araujo,BFB2E73,VW,Cinza
+Victor Vieira Senzaki,CCA9D75,Hyundai,Branco
+Thiago Alves Campos,CFE3A76,Chevrolet,Prata
+Sofia Martins da Costa,CBF4C60,VW,Preto
+Daniel Santana Castilho,AED8A41,Hyundai,Vermelho
+Miguel Cristine Melo,ADC4C88,Hyundai,Vermelho
+Victor Franco Camargo,DDC2D41,Fiat,Preto
+Erik Matos Senzaki,AEA4E84,Toyota,Preto
+Mariana Queiroz Camargo,CAA8C49,VW,Branco
+Rafael Ponciano Araujo,ACD4E14,VW,Prata
+Guilherme Paschoalino Pereira,FCD4E57,VW,Preto
+Larissa Matos Mengue,FAD0B20,Fiat,Branco
+Giovanna Ferreira Ribeiro,EDC0C22,Toyota,Vermelho
+Beatriz Gomes Melo,FCA6D38,Honda,Cinza
+André Matos Silva,DDE7B97,Chevrolet,Branco
+Maria Ferreira Pinto,EEB4B17,Honda,Prata
+Samuel Queiroz Soares,CAF8A99,VW,Prata
+Henrique Bellini Castilho,EEF5B75,Fiat,Cinza
+Samuel Alves Pinto,FBD1E48,Fiat,Branco
+Rafael Alves dos Santos,BAD4A62,Toyota,Prata
+Vitória Ferreira Camargo,CCA6E18,Fiat,Preto
+Livia Amorim da Costa,AEB0C69,Hyundai,Prata
+Matheus Martins Dias,BDE4A31,Toyota,Preto
+Yasmin Ponciano Machado,CAF6E70,Chevrolet,Azul Claro
+Rafael Alves Campos,FAA6C41,Toyota,Cinza
+Giovanna Santana Mendes,BCC3B63,Toyota,Preto
+Guilherme Fernandes Pereira,ECB9A10,Hyundai,Azul Claro
+Pedro da Silva Rodrigues,DDD3C99,Hyundai,Branco
+Livia Martins Campos,DAB9C21,VW,Branco
+Sofia Matos dos Santos,ADB4A17,Honda,Vermelho
+Sofia Bellini Domingues,FCA3B11,Toyota,Branco
+Matheus Mesquita Ribeiro,DAE5B61,Hyundai,Vermelho
+Eduardo Mesquita Athayde,CAE3E97,VW,Cinza
+Daniel da Silva Domingues,DDD9A96,VW,Branco
+André Queiroz Mengue,DFA4B61,Chevrolet,Azul Claro
+Livia de Almeida Mengue,CDB4B65,Toyota,Branco
+Eduardo da Silva Amancio,DDD3B94,Toyota,Azul Claro
+Henrique Queiroz Campos,CFE9D27,Fiat,Branco
+Samuel Vieira Senzaki,FBD9C86,Fiat,Azul Claro
+André Nascimento Soares,CDA8B80,Hyundai,Cinza
+Gabriel de Oliveira Mendes,EFF8B84,VW,Cinza
+Beatriz Paschoalino Dias,ACD1D10,Chevrolet,Azul Claro
+Gabriel Queiroz Soares,EFB2E55,Hyundai,Branco
+Maria Santana Mendonça,ECB7E67,Fiat,Azul Claro
+Pedro Braz Ribeiro,DBE8A46,Honda,Prata
+Victor de Oliveira Sanches,AEA4C65,Hyundai,Branco
+Matheus Cristine Mendonça,EDB0E45,Toyota,Prata
+Daniel Ponciano Silva,FFF3E89,VW,Branco
+Erik Ferreira Ribeiro,CEB7D62,Hyundai,Azul Claro
+Rafael Amorim Melo,DBB5E62,VW,Branco
+Mariana Ponciano Lopes,CCC7E56,Chevrolet,Cinza
+Vinícius da Silva Pereira,DEF7D88,Hyundai,Preto
+Guilherme Mesquita Araujo,AFD5A32,Fiat,Azul Claro
+Matheus Nascimento Melo,AFE1D80,Hyundai,Azul Claro
+Guilherme de Oliveira Amancio,FFA5D57,VW,Branco
+Henrique Gomes Lopes,DBD7A81,VW,Azul Claro
+Beatriz de Oliveira Machado,CFC3A93,Fiat,Vermelho
+Pedro Gomes da Costa,DFC3D10,VW,Preto
+Beatriz Cruz Ribeiro,FFF8D59,Fiat,Azul Claro
+Felipe Martins Mengue,DEC1B29,VW,Preto
+Yasmin Martins Senzaki,EBC5D27,VW,Vermelho
+Victor Cruz Dias,BBE9B98,Fiat,Preto
+Henrique Fernandes Soares,DDF2D74,Toyota,Preto
+Pedro Martins Domingues,FBD1D34,Hyundai,Azul Claro
+Giovanna de Medeiros Camargo,CAB3A24,Chevrolet,Branco
+Samuel Amorim Pinto,ABB9D24,Hyundai,Vermelho
+Miguel Ferreira Campos,FBD2A90,Chevrolet,Prata
+Larissa Bellini Lopes,EEA6B79,VW,Prata
+Daniel da Silva da Costa,DDC3A78,Chevrolet,Cinza
+Guilherme de Oliveira Amancio,DEE4C37,Chevrolet,Cinza
+Mariana Matos Rodrigues,FCC6A63,Toyota,Preto
+Daniel Franco Trindade,AAC5A42,Toyota,Prata
+Pedro Mesquita Melo,CCA3E40,Honda,Cinza
+Samuel Gomes Mengue,FDE2A73,Chevrolet,Vermelho
+Felipe Braz Senzaki,ACB8E82,Toyota,Branco
+Daniel Alves Trindade,BFD4B89,Hyundai,Azul Claro
+André Braz da Costa,FAE1C46,VW,Prata
+Victor Bellini Mendonça,AFB3B72,Hyundai,Prata
+Daniel Amorim Soares,CCC1C84,Honda,Branco
+Yasmin Amorim Dias,FBF0B25,Toyota,Branco
+Eduardo Ponciano dos Santos,ECB4C34,Hyundai,Branco
+Clara de Medeiros Machado,FFF7D99,VW,Azul Claro
+Victor Bellini Castilho,AAC9B76,Fiat,Cinza
+Sofia Amorim Lima,DAB7B14,Fiat,Branco
+Henrique Alves Lopes,DFD9E92,Honda,Preto
+Sofia de Medeiros Sanches,CDC3B39,Hyundai,Cinza
+Vitória Cristine Senzaki,EEA2E12,Honda,Vermelho
+Guilherme Paschoalino Dias,CAF3D72,Toyota,Cinza
+Samuel Ferreira Trindade,EBA5B12,Chevrolet,Branco
+Eduardo de Oliveira Amaral,DEA1B98,Chevrolet,Prata
+Henrique Santana Sanches,AAF2B19,Toyota,Preto
+Miguel Franco Ribeiro,FDD1C71,Toyota,Prata
+Felipe Alves Campos,CFF8D31,Honda,Preto
+Clara Matos Castilho,EEB2E76,VW,Vermelho
+Henrique Cristine Trindade,DEA4D97,VW,Azul Claro
+Larissa Mesquita Lima,BDE7D13,VW,Cinza
+Maria de Almeida Domingues,FBF8A95,Chevrolet,Prata
+Vitória de Medeiros Sanches,ADD1E58,Hyundai,Vermelho
+Vitória Cruz Mengue,AAF1D84,Fiat,Prata
+Gabriel de Oliveira Dias,AAC5A71,VW,Azul Claro
+Vitória Nascimento Pinto,ABA0A47,VW,Azul Claro
+Mariana Martins Pereira,EBC7B83,VW,Vermelho
+Pedro Matos Sanches,DDD5B61,Toyota,Preto
+Eduardo Cristine Amaral,ACE9B65,VW,Prata
+Henrique Bellini dos Santos,AEF3E10,Toyota,Preto
+Gabriel de Medeiros Dias,EFF6C52,Chevrolet,Azul Claro
+Matheus Nascimento da Costa,CEC9E35,Hyundai,Preto
+Guilherme Cruz Soares,ABB8A45,Chevrolet,Cinza
+Samuel Ponciano Ribeiro,FDF4E62,Fiat,Prata
+Matheus Alves Lopes,AAB0C54,Toyota,Branco
+Rafael Cruz Domingues,DEE9B31,Honda,Preto
+Gabriel Franco Soares,FFE2E13,Fiat,Azul Claro
+Rafael Vieira Machado,FBE0E90,Honda,Prata
+Miguel de Medeiros Domingues,DCF6E52,VW,Preto
+Mariana Gomes Pereira,CBA6A38,Toyota,Vermelho
+Thiago Martins Melo,FBA0C67,VW,Preto
+Erik Ponciano Mengue,BBE3B89,Toyota,Vermelho
+Yasmin Amorim Domingues,BAF4D27,Chevrolet,Cinza
+Miguel Nascimento Dias,FDB4C68,VW,Vermelho
+Pedro Amorim Rodrigues,DFF6B60,VW,Azul Claro
+Rafael de Medeiros Camargo,FAB6D10,Toyota,Preto
+Giovanna Gomes Melo,CDC9C10,Honda,Preto
+Gabriel Cristine Pinto,DCF6B12,Honda,Cinza
+Rafael Gomes Rodrigues,ECF8A85,Honda,Azul Claro
+Beatriz Mesquita Sanches,BFA6D22,Honda,Branco
+Pedro Cruz Mendonça,CCD8B65,Hyundai,Azul Claro
+Guilherme Alves Camargo,DCF6D74,Fiat,Cinza
+Vinícius Bellini Campos,BCF9E45,Fiat,Azul Claro
+Miguel de Almeida Trindade,ADB7B64,Fiat,Cinza
+Maria de Oliveira Senzaki,DDF5B58,Hyundai,Branco
+Mariana Bellini Lopes,CAA9E75,Fiat,Cinza
+Larissa Fernandes Mendonça,EFC9D66,Honda,Vermelho
+Thiago Ferreira Soares,EAB5E55,Hyundai,Prata
+Vinícius Bellini Mendonça,EBB5B63,VW,Preto
+João Matos Mendes,CBA8B54,Honda,Cinza
+Guilherme Vieira Silva,EBF3A85,VW,Prata
+Guilherme Bellini Mendes,DFA9C73,Honda,Azul Claro
+Mariana Franco Lima,AFC1C70,Fiat,Preto
+Maria Amorim Athayde,ADF0D88,Fiat,Azul Claro
+Matheus Ponciano Melo,BAF5E37,Honda,Vermelho
+Gabriel Gomes Araujo,BFF1B10,VW,Prata
+Gabriel de Medeiros Soares,EAF7C88,Honda,Cinza
+Victor Fernandes Pinto,CAB6C44,Toyota,Branco
+Henrique Queiroz Soares,DAE0B12,Toyota,Branco
+Rafael Vieira Silva,FAF9E58,Fiat,Vermelho
+Pedro da Silva Machado,EDA3A10,Fiat,Preto
+Maria Amorim da Costa,FAF8D16,Fiat,Azul Claro
+Victor Nascimento Sanches,BDD9E87,Honda,Azul Claro
+Gabriel Cruz dos Santos,AEF0D16,Honda,Vermelho
+André Queiroz Castilho,BEC6E34,Toyota,Cinza
+Vitória de Oliveira Rodrigues,CFB0E63,Toyota,Preto
+Henrique de Almeida Senzaki,BAF1E51,Chevrolet,Vermelho
+Guilherme Ponciano Pereira,FDF2E50,Chevrolet,Vermelho
+Guilherme Braz Campos,FAD1D44,VW,Cinza
+Livia Cristine Pereira,DCD6C56,Honda,Cinza
+Miguel Gomes Senzaki,EDF0E11,Honda,Vermelho
+Clara Braz Domingues,ACA9E31,Chevrolet,Vermelho
+Eduardo Paschoalino Castilho,BBE5E23,Hyundai,Vermelho
+Henrique Amorim Rodrigues,BDB1B63,VW,Branco
+Livia Nascimento Domingues,EFD7D10,Honda,Vermelho
+Vitória Queiroz Lopes,CFF6E37,VW,Branco
+Henrique Nascimento Rodrigues,FEA6D85,Hyundai,Prata
+Erik Paschoalino Pinto,CFD6B50,Toyota,Cinza
+Livia Queiroz Amaral,ABD0E23,Honda,Cinza
+Thiago Mesquita Soares,DED4C20,VW,Cinza
+André de Almeida Pereira,DDB7D84,VW,Azul Claro
+Clara de Almeida Rodrigues,FFF5A63,Fiat,Azul Claro
+Thiago Alves Amaral,FCE2E29,Honda,Preto
+Matheus Ponciano Dias,DAB4A11,VW,Azul Claro
+Victor Vieira Lima,EFF7D53,VW,Cinza
+Victor Nascimento Soares,DBF6C33,VW,Branco
+Vitória Braz Senzaki,CEA0A43,Fiat,Vermelho
+Mariana Amorim da Costa,DAC6E81,Honda,Preto
+Henrique Alves Dias,AAB3B33,Hyundai,Prata
+Livia Martins Soares,ECB9A26,Chevrolet,Prata
+João Franco Lima,EBC2C54,Honda,Azul Claro
+Daniel Alves Soares,CEB3D42,Hyundai,Prata
+Pedro de Oliveira Senzaki,BAA2B25,Honda,Branco
+Sofia Alves Campos,DCA0A82,Fiat,Azul Claro
+Thiago Amorim Dias,DCF1B40,Hyundai,Prata
+Guilherme Nascimento Pereira,ADA9A96,Honda,Azul Claro
+Sofia de Almeida Castilho,EBA5D10,Hyundai,Prata
+Daniel Paschoalino Ribeiro,DCF8B43,VW,Cinza
+Samuel Cristine Senzaki,BAC6E78,Chevrolet,Preto
+Livia Ferreira Athayde,BED5D49,VW,Cinza
+Guilherme Fernandes Castilho,FEF8E50,Fiat,Azul Claro
+Sofia Alves Athayde,CFB4E35,Fiat,Prata
+Beatriz Ponciano Campos,FAB1B28,Fiat,Vermelho
+Livia Ferreira dos Santos,BAE1C13,Chevrolet,Vermelho
+Pedro Queiroz Silva,DBF3D54,Fiat,Prata
+Rafael de Oliveira Amaral,BFF3D78,Hyundai,Cinza
+Matheus Franco Araujo,AFC4E32,Toyota,Cinza
+André de Medeiros Domingues,FFE7B70,Hyundai,Vermelho
+Giovanna Nascimento Trindade,CEF8B60,Chevrolet,Vermelho
+Eduardo Bellini Araujo,FCD5C84,Toyota,Cinza
+Beatriz Martins Athayde,DDB2A81,Chevrolet,Azul Claro
+Mariana de Medeiros Amancio,CFE5C42,Fiat,Preto
+Maria Amorim Domingues,ADA2D39,Toyota,Branco
+João da Silva Mendonça,FBA7A11,Fiat,Preto
+Gabriel de Oliveira da Costa,AED5A86,Fiat,Vermelho
+Henrique Gomes Pinto,DAA4A30,Toyota,Prata
+Gabriel Franco Araujo,DBF4D72,Chevrolet,Vermelho
+Gabriel Paschoalino Lima,EDA2E52,Honda,Vermelho
+Yasmin Ponciano dos Santos,CBE5C67,Honda,Preto
+Vitória Queiroz Castilho,AFE4C67,Honda,Prata
+Maria de Almeida Rodrigues,FCC2D68,Fiat,Branco
+Larissa Ponciano Castilho,BFA4C67,Chevrolet,Prata
+Vitória de Medeiros Trindade,DAC2C42,Fiat,Cinza
+Eduardo Matos Rodrigues,FCE8B50,Honda,Vermelho
+Yasmin Nascimento Pereira,CFD2C56,Hyundai,Vermelho
+Rafael Mesquita Rodrigues,BFA9E84,Honda,Cinza
+Mariana Cruz Sanches,FDC0B86,Hyundai,Preto
+Samuel Alves Barbosa,FFE0E79,Honda,Prata
+Victor Gomes Mendes,BDA3B30,Fiat,Preto
+Vitória Cruz Sanches,ABA6C22,Fiat,Prata
+Miguel de Medeiros Athayde,FFE0B62,VW,Prata
+João Gomes Amancio,FEF1C35,Honda,Branco
+Eduardo Queiroz Castilho,CBF1E13,Toyota,Cinza
+Clara Nascimento Mengue,BAF4B94,Hyundai,Branco
+Vitória da Silva Lopes,ADD9D85,VW,Vermelho
+Giovanna Braz Amaral,CEB3C59,VW,Prata
+Erik Gomes Soares,DEB7D97,Fiat,Branco
+André Ponciano Senzaki,FAA9B65,Honda,Prata
+Rafael Matos Soares,DEE7B86,VW,Branco
+Beatriz Mesquita Machado,FFD7C89,Honda,Azul Claro
+Henrique Fernandes Mendes,FFA6D94,VW,Branco
+Beatriz Franco Machado,CBD0E27,Hyundai,Preto
+Beatriz Nascimento Pinto,BDE3D79,VW,Prata
+Vitória Vieira Machado,BFB8A66,Honda,Branco
+Thiago Ponciano Athayde,BFE1B80,VW,Branco
+Gabriel Queiroz Pinto,EED6D70,Chevrolet,Branco
+Maria Vieira Amancio,CBE2C52,Hyundai,Cinza
+Gabriel Franco Dias,FBB2C90,Fiat,Branco
+Erik Alves Lopes,FFB3C42,Honda,Branco
+Vinícius de Almeida Soares,DBB1B37,Chevrolet,Vermelho
+Felipe Queiroz Sanches,EBA7A51,Honda,Azul Claro
+Yasmin Ferreira Athayde,ABC0E79,Honda,Preto
+Sofia Ferreira Athayde,AAC5E20,VW,Prata
+Clara Cristine Mendes,AED9C40,Fiat,Vermelho
+Felipe de Medeiros Athayde,DBD4E71,Toyota,Preto
+Yasmin Amorim Ribeiro,BCF9D58,Chevrolet,Prata
+Matheus Martins Lima,ADB8D98,VW,Azul Claro
+Livia Santana Lopes,ECC3B67,Fiat,Branco
+Larissa de Medeiros Araujo,CAF8D90,Toyota,Cinza
+Miguel Martins Machado,CCF5B63,Toyota,Cinza
+Giovanna Santana Campos,BDA1E30,VW,Preto
+Vitória Alves da Costa,ABE0D94,Hyundai,Branco
+Erik Vieira Sanches,CFF9C91,Honda,Preto
+Guilherme Nascimento Domingues,BAA2D34,Hyundai,Branco
+Victor Santana Soares,FEB2D45,Honda,Vermelho
+Clara Alves Soares,BFA4A12,Fiat,Cinza
+Livia Cruz Mendonça,CFA4E89,VW,Preto
+João Queiroz Castilho,FCA2E12,Honda,Azul Claro
+Yasmin da Silva Amaral,BFE4E74,VW,Azul Claro
+Beatriz Cristine Silva,CCA0E90,Chevrolet,Cinza
+Daniel Santana Rodrigues,BEC6C17,Fiat,Preto
+Erik Ferreira Rodrigues,BED2B31,Honda,Vermelho
+Guilherme Santana Melo,FFE7B17,Hyundai,Preto
+Thiago Vieira Silva,AAF6E80,Honda,Branco
+Thiago Gomes Domingues,AFA1E64,Honda,Azul Claro
+Eduardo Vieira Mendonça,ACE1A74,VW,Preto
+Vitória Gomes Lopes,CAC1B54,Toyota,Vermelho
+Vinícius Amorim Mendonça,BAC8E64,Toyota,Cinza
+Beatriz Fernandes Melo,BCD6D80,Toyota,Cinza
+Vitória Martins Domingues,FDF9E82,Fiat,Prata
+Pedro Cruz Melo,CFB6E77,Toyota,Preto
+Miguel Braz Domingues,ACA7D35,Hyundai,Cinza
+Pedro Gomes Athayde,BCF4E78,VW,Branco
+João Alves Soares,EBD4C77,Chevrolet,Branco
+Yasmin Bellini dos Santos,CDD9D95,VW,Vermelho
+Gabriel de Almeida Rodrigues,FAD8C99,Fiat,Vermelho
+Miguel de Almeida Barbosa,EBB0C57,Fiat,Branco
+Sofia Ponciano Amancio,BAE3E50,Toyota,Azul Claro
+Pedro Matos Sanches,FDC9A44,Fiat,Prata
+Miguel Cruz Pinto,AAB3C49,Chevrolet,Azul Claro
+Sofia Mesquita Lopes,ADB5E67,Toyota,Preto
+Livia da Silva Dias,CAD3D68,Honda,Branco
+Eduardo Cruz da Costa,CDA1B64,Fiat,Cinza
+Vitória Fernandes Amancio,CEB9C39,Fiat,Prata
+Gabriel Cristine Lopes,EFD9B69,VW,Azul Claro
+Vitória Amorim Machado,DCD5A57,Chevrolet,Vermelho
+Samuel Ferreira Araujo,BDD8A99,Honda,Azul Claro
+Mariana Amorim Domingues,CBC3C18,Toyota,Vermelho
+Daniel de Medeiros Sanches,BCE4D18,Chevrolet,Cinza
+Gabriel Braz Lima,DFF1E78,Chevrolet,Preto
+Giovanna de Almeida Dias,DCC8A20,Chevrolet,Preto
+Mariana Nascimento Campos,BCC4D91,Toyota,Vermelho
+Vitória Santana Amancio,DEF7B13,Chevrolet,Cinza
+Beatriz da Silva Castilho,FCE6A20,Chevrolet,Prata
+Matheus Amorim Amaral,CCE0D10,Toyota,Azul Claro
+Miguel Bellini Barbosa,CDE3C44,Fiat,Azul Claro
+Maria de Oliveira Sanches,BDE7A23,Fiat,Cinza
+Larissa de Medeiros Silva,ADE1E37,Fiat,Azul Claro
+Sofia Paschoalino Mengue,DDC9C93,Hyundai,Vermelho
+Victor Santana Machado,ADE2D73,Honda,Prata
+Vinícius de Medeiros dos Santos,ADE8A42,Toyota,Branco
+Samuel Braz Domingues,DAD4E12,Chevrolet,Vermelho
+Felipe Paschoalino Senzaki,CFB8D18,Hyundai,Branco
+André Santana Camargo,CDB4B12,VW,Vermelho
+Miguel Santana Domingues,ACD2E80,VW,Cinza
+Miguel Ferreira Mendes,AEA7E10,VW,Cinza
+Daniel Santana dos Santos,CDD4B99,Toyota,Cinza
+Gabriel Martins Domingues,FEA0A80,Chevrolet,Vermelho
+Gabriel Mesquita Senzaki,AEF2E65,Honda,Vermelho
+Miguel Martins Ribeiro,CEC2E45,Fiat,Branco
+Erik Alves Amancio,ABB3C56,Fiat,Cinza
+Maria Braz Lopes,ABE5B67,VW,Preto
+Giovanna Vieira Senzaki,BCC5D79,Hyundai,Preto
+Rafael Cruz da Costa,BEF6E72,Chevrolet,Preto
+Vitória Mesquita Mengue,BAC8C98,Honda,Vermelho
+Vinícius Cristine Lima,EFD0B60,Toyota,Cinza
+Pedro Ferreira Mendonça,AED5A37,VW,Vermelho
+Vinícius Queiroz Rodrigues,BFD2B34,Fiat,Vermelho
+Erik Amorim Ribeiro,DDC6D60,Toyota,Preto
+Guilherme Braz Lopes,FFB0D96,Toyota,Preto
+Giovanna Gomes Senzaki,AEB0A61,Honda,Branco
+Larissa Alves Domingues,DFC5A42,Honda,Prata
+Miguel da Silva Soares,DFC3D28,Honda,Cinza
+Yasmin Paschoalino Lopes,EEB9C14,Toyota,Cinza
+Samuel Matos Trindade,CAF4E37,Honda,Vermelho
+Yasmin Cruz Machado,DEC9E16,VW,Branco
+Maria da Silva Castilho,BAF2A57,Hyundai,Branco
+João Paschoalino Camargo,CAA2C73,Fiat,Prata
+Maria Franco Silva,CBC4E19,Hyundai,Vermelho
+Livia Franco Pereira,ABC1A13,Toyota,Prata
+Henrique da Silva Silva,AAA0B64,Honda,Prata
+Samuel Santana Domingues,BBB8A35,Honda,Prata
+Yasmin Ferreira Soares,EED1D11,Hyundai,Preto
+Maria Braz Mengue,BFE0A26,Honda,Prata
+Henrique Paschoalino Pereira,FDC6B24,Fiat,Branco
+Sofia Martins Senzaki,FFA2D50,Chevrolet,Vermelho
+Felipe Vieira Trindade,EAC8D30,VW,Vermelho
+Victor Gomes Machado,FCC6E72,Toyota,Preto
+Matheus Ferreira Lima,FAB4D20,Honda,Vermelho
+Guilherme de Almeida Sanches,FEA4B44,Honda,Azul Claro
+Vinícius Ponciano Pereira,EAC6A93,Toyota,Vermelho
+Samuel Mesquita Mendonça,BCE1A16,Toyota,Vermelho
+Erik de Oliveira Mendes,BAE5A11,Chevrolet,Cinza
+Thiago Fernandes Amaral,CBC9B83,Honda,Azul Claro
+Yasmin Fernandes Dias,EAD9B94,VW,Cinza
+Eduardo Paschoalino dos Santos,FBE8C32,Honda,Prata
+Matheus Alves dos Santos,ACD9D38,Hyundai,Preto
+Erik de Almeida Domingues,BAE0E52,Chevrolet,Branco
+Felipe Nascimento Dias,BAC6C60,Honda,Preto
+João Nascimento Lopes,BBF3B72,Fiat,Cinza
+Henrique Franco Amaral,CEE2B84,Toyota,Vermelho
+Rafael Matos Amaral,AFB8A98,Honda,Preto
+André Ferreira Camargo,DFE5D49,Hyundai,Prata
+Thiago Amorim Silva,ABD4C34,Honda,Prata
+Larissa Cristine Senzaki,BFD1C41,Chevrolet,Vermelho
+Miguel de Medeiros Amancio,CEB7B77,VW,Branco
+Larissa Nascimento Campos,DBF6D45,Hyundai,Vermelho
+Clara Franco Barbosa,CAD1D82,Hyundai,Cinza
+Erik Fernandes Soares,BCA7A37,VW,Prata
+André Fernandes Amancio,BBE2B44,Fiat,Vermelho
+Maria Ferreira Ribeiro,FBF2D73,Hyundai,Cinza
+Thiago Gomes Senzaki,BEB5E43,VW,Cinza
+Giovanna Ferreira Domingues,DBE2A92,Hyundai,Prata
+Larissa Cristine Sanches,DAD7B54,Toyota,Cinza
+Rafael Cruz Ribeiro,DBB0A25,Fiat,Cinza
+Gabriel de Medeiros Melo,DDA3A68,Honda,Azul Claro
+Pedro Nascimento Ribeiro,BAE3E56,VW,Branco
+Samuel Bellini Domingues,AFF6B54,Toyota,Cinza
+Beatriz Amorim Lima,BCA5D96,Honda,Branco
+Vinícius Matos Amancio,DCE7A64,Chevrolet,Branco
+Vinícius Santana Pinto,AEF8D69,Honda,Preto
+Sofia Alves Mendonça,BCC6D26,Honda,Preto
+Giovanna Braz Senzaki,FBE3D18,Fiat,Cinza
+Maria Cristine Machado,ADB8D67,Honda,Preto
+Erik Bellini Pereira,FAF2D68,Honda,Preto
+Rafael Ferreira Castilho,EDE2C89,Fiat,Vermelho
+Eduardo Bellini Athayde,DEC7C75,Fiat,Prata
+Sofia Franco Rodrigues,FAA9C37,Honda,Prata
+Sofia Ponciano Pereira,BAA2A23,VW,Branco
+Eduardo Queiroz Lima,EDD3D69,Fiat,Cinza
+Pedro Nascimento Amancio,DEE8B28,Toyota,Prata
+Victor Gomes Lima,CCB5E96,Honda,Prata
+Larissa da Silva Amaral,FDE9A74,Fiat,Preto
+Clara Amorim Castilho,AAE3B56,Fiat,Prata
+Giovanna Cruz Mendonça,EEC8C21,Fiat,Cinza
+Vinícius Cruz Amaral,ADB3A82,VW,Vermelho
+Pedro Cruz Castilho,DBE2C30,Hyundai,Cinza
+Clara de Medeiros Athayde,DCF5D51,Hyundai,Preto
+Henrique da Silva Sanches,BED6A73,Honda,Branco
+Giovanna de Oliveira Mengue,DBB3A64,Honda,Branco
+Eduardo Martins Campos,ADD2D20,VW,Vermelho
+Erik Nascimento Ribeiro,DAF8B49,Fiat,Vermelho
+Beatriz de Medeiros Senzaki,FEB8A28,Hyundai,Prata
+Guilherme Martins Pinto,CAF4C38,Fiat,Vermelho
+Sofia Queiroz Pereira,ADB7D17,Toyota,Prata
+Beatriz de Almeida Melo,BDE7D24,Fiat,Azul Claro
+Samuel Fernandes da Costa,DEA0E30,Chevrolet,Azul Claro
+André Bellini Machado,FEE8A45,VW,Prata
+Beatriz Mesquita Ribeiro,AAB6A45,Fiat,Azul Claro
+Pedro Cruz Amancio,BFF9B42,VW,Preto
+Sofia Mesquita Mendonça,BCB3A89,Chevrolet,Azul Claro
+Beatriz Ferreira Araujo,EFF0A60,VW,Vermelho
+Maria Nascimento Domingues,CAD0D43,VW,Preto
+Gabriel Nascimento Pinto,CFF9B40,Toyota,Preto
+Rafael Vieira Mendes,CDD6D88,Toyota,Preto
+Clara Martins Mendes,FCF3B70,Hyundai,Branco
+Rafael Braz Araujo,DFD2B39,Toyota,Branco
+André Vieira Ribeiro,AEF5D67,Honda,Prata
+Giovanna Braz Machado,CDF3A53,VW,Prata
+Gabriel Queiroz Melo,BDC7E25,Honda,Preto
+Thiago Franco Trindade,CCB7E38,Hyundai,Cinza
+Eduardo de Almeida Dias,BEE0B65,Toyota,Vermelho
+Matheus Alves Domingues,FDE4D57,Chevrolet,Branco
+Yasmin Braz da Costa,FDC1D58,Chevrolet,Vermelho
+Erik Bellini Mendonça,CBE3E85,Chevrolet,Vermelho
+Clara Mesquita Mendes,ACB7B27,Hyundai,Azul Claro
+Eduardo Bellini Sanches,ADD3D28,Chevrolet,Preto
+Vitória Cruz Senzaki,CAB2E66,VW,Vermelho
+André Martins Lima,CBA2B41,Honda,Prata
+Rafael Amorim Silva,BFA3C44,Hyundai,Branco
+Livia Santana Trindade,DFA1E47,Hyundai,Cinza
+João da Silva Domingues,EFD1D30,Fiat,Azul Claro
+Mariana da Silva Athayde,AFD2B17,Hyundai,Vermelho
+Yasmin Ponciano Ribeiro,FFB8B74,Chevrolet,Vermelho
+Henrique Gomes Lima,FFE2C11,Fiat,Cinza
+Mariana Bellini Sanches,BBD5E99,Fiat,Prata
+André Braz Amaral,AAC9B16,Chevrolet,Azul Claro
+Miguel Paschoalino Araujo,BDA9A57,Chevrolet,Preto
+Miguel Vieira Dias,BAD7B35,VW,Azul Claro
+Pedro Ferreira da Costa,FEB6C71,Honda,Branco
+Clara de Oliveira Dias,DFE5B92,Chevrolet,Azul Claro
+Erik Vieira Araujo,AFD8B76,Hyundai,Preto
+Mariana de Almeida Pinto,DDC9B24,Honda,Branco
+Rafael Ferreira Melo,ECF3C35,Chevrolet,Branco
+Daniel Bellini Ribeiro,ECB9D36,VW,Prata
+Matheus Cristine Campos,FDB5D61,Chevrolet,Cinza
+Maria Martins Castilho,FBD7D99,Chevrolet,Prata
+Beatriz da Silva Mendes,EBE5D84,Honda,Branco
+Felipe Ferreira Domingues,EBB8E36,Honda,Azul Claro
+Clara Vieira Melo,FAB3A41,Fiat,Preto
+Samuel Cristine Dias,FED6C41,Fiat,Preto
+Larissa Cristine Athayde,EAA9C50,Honda,Cinza
+Vitória Vieira Dias,BCD7C23,Chevrolet,Prata
+Samuel da Silva Senzaki,BCA2D88,Chevrolet,Azul Claro
+Vitória Ponciano Amancio,FFB8B32,Honda,Prata
+Miguel Queiroz Lima,BBC9E24,Fiat,Preto
+Clara Martins Mendonça,DAB0B67,Honda,Branco
+Guilherme Matos Trindade,BBA7C43,VW,Vermelho
+Guilherme Fernandes Amaral,FFF5D71,Fiat,Azul Claro
+Samuel Ferreira Camargo,EDA3A98,Hyundai,Vermelho
+Samuel Paschoalino Senzaki,DEC7A40,VW,Prata
+Rafael de Medeiros Machado,EDE3D73,Chevrolet,Preto
+Pedro Santana dos Santos,EAD3D38,Honda,Cinza
+Eduardo Amorim Machado,ABD9C38,Chevrolet,Azul Claro
+Clara Gomes Amaral,FEC9A92,Toyota,Vermelho
+Guilherme Paschoalino Machado,CAD1A49,Chevrolet,Vermelho
+Larissa Ponciano Pinto,BFF6D25,Chevrolet,Preto
+Miguel de Medeiros Dias,CAC6D54,Hyundai,Vermelho
+Livia Ferreira Senzaki,BDD4D41,Honda,Vermelho
+Yasmin Ferreira Sanches,CEF1D68,Fiat,Azul Claro
+Erik Ferreira Domingues,DDA7A22,Fiat,Azul Claro
+Matheus Amorim Amancio,DEA2A34,Chevrolet,Prata
+Yasmin Cristine Mendonça,BBC3B33,Hyundai,Branco
+Maria Franco Mengue,DDB8D98,Toyota,Vermelho
+João Santana Mendonça,CEB3D13,Toyota,Cinza
+Erik Braz Rodrigues,CAD5E87,Hyundai,Cinza
+Matheus Santana Melo,AAA5D74,Chevrolet,Vermelho
+Felipe Queiroz Trindade,CAF4C69,Hyundai,Vermelho
+Pedro Cruz Pinto,EDF5A92,Fiat,Branco
+Matheus Ferreira Sanches,DCD8E22,Chevrolet,Prata
+Larissa Cristine da Costa,ABA6C25,VW,Vermelho
+Mariana da Silva Rodrigues,DCB7D33,Fiat,Azul Claro
+Henrique Gomes Senzaki,ABE3E41,Honda,Vermelho
+Thiago Queiroz Barbosa,BEA6A87,VW,Prata
+Mariana Bellini da Costa,FDC0E89,Honda,Vermelho
+Vinícius Ponciano Amancio,EFA5E81,Chevrolet,Vermelho
+Thiago Alves Senzaki,AEA7C82,Toyota,Azul Claro
+Samuel Cristine Rodrigues,CCE8D74,Chevrolet,Prata
+Yasmin Alves Soares,BAD4D51,Hyundai,Azul Claro
+Vinícius Bellini Pinto,CBA1E96,VW,Azul Claro
+Vitória Cristine Barbosa,EFE1E37,Toyota,Preto
+Vitória Gomes Melo,FBC0B76,Chevrolet,Cinza
+Vinícius da Silva Silva,CCD9C37,VW,Preto
+Daniel Paschoalino Rodrigues,AEA8D45,VW,Preto
+Erik Ferreira Trindade,AEF1B40,Hyundai,Branco
+Thiago Matos Campos,FEB3A61,Chevrolet,Vermelho
+João Matos da Costa,EDA1D73,Fiat,Preto
+Samuel Vieira Melo,DBA6A23,Chevrolet,Vermelho
+Rafael da Silva Amancio,ECA6A49,VW,Cinza
+João Gomes Athayde,ACC8B10,VW,Azul Claro
+Yasmin Ferreira Dias,CCC8D37,Hyundai,Preto
+Maria Cruz Amancio,BCD6A41,Hyundai,Branco
+Vinícius Fernandes Machado,EBE8B34,Fiat,Branco
+Eduardo Alves Mengue,EFF8B40,VW,Vermelho
+Clara Mesquita Amancio,BED4D10,Fiat,Azul Claro
+Sofia Gomes Ribeiro,FCB5C98,Hyundai,Azul Claro
+Beatriz Fernandes Senzaki,BCA0E90,Chevrolet,Azul Claro
+Eduardo Santana Silva,FFC0B86,Toyota,Branco
+Mariana Paschoalino Ribeiro,FCF9C56,VW,Branco
+Henrique Martins Machado,CDD3A20,Toyota,Cinza
+Matheus Amorim Dias,CDD2B81,Chevrolet,Cinza
+João Cristine Soares,EAD3E27,Fiat,Prata
+Sofia Nascimento Senzaki,DCB1D37,Honda,Preto
+Miguel da Silva Silva,AAB9E27,Honda,Branco
+Sofia Santana Barbosa,CDC1E98,VW,Preto
+Yasmin Ponciano Barbosa,CAD0C74,Honda,Azul Claro
+Vitória de Almeida Mendonça,AFA4D62,Honda,Cinza
+Maria Nascimento Barbosa,CDF1A97,Toyota,Vermelho
+Guilherme Amorim Rodrigues,CDE7C22,VW,Prata
+André Franco Ribeiro,BBA9C41,VW,Vermelho
+Daniel Bellini Lima,FFA6D14,Hyundai,Cinza
+Felipe Braz Amancio,AFE9E17,VW,Azul Claro
+Henrique Gomes Domingues,FCB2E54,Toyota,Preto
+Eduardo Gomes Campos,EBD4B26,Toyota,Branco
+Felipe Franco Domingues,BBC7D83,VW,Cinza
+Henrique de Oliveira Rodrigues,BCC6B16,VW,Azul Claro
+Vinícius Fernandes Campos,BAE4B66,Hyundai,Azul Claro
+Vinícius de Almeida Lopes,CDA3B44,Hyundai,Cinza
+Miguel Matos Silva,BFF3B11,Chevrolet,Cinza
+Maria Matos Dias,FAA7C66,Fiat,Azul Claro
+Rafael Mesquita Pereira,DFE2B98,Fiat,Cinza
+Daniel de Oliveira Campos,DDF5D61,Fiat,Cinza
+Henrique Paschoalino Lima,FFB2C99,VW,Azul Claro
+Livia Queiroz Melo,BCE9A21,Honda,Preto
+Yasmin Bellini Trindade,CDC8D82,Fiat,Cinza
+Thiago Bellini Mendonça,EFF0A68,Hyundai,Cinza
+Felipe de Almeida Melo,DBC5E30,Chevrolet,Azul Claro
+Matheus Queiroz Senzaki,FEC5A71,Honda,Azul Claro
+Guilherme Alves Amancio,EED5A31,Toyota,Cinza
+Mariana Paschoalino Senzaki,ACB9A13,Fiat,Vermelho
+Livia de Almeida Silva,ABD2D32,Honda,Azul Claro
+Beatriz Paschoalino dos Santos,FCB8C11,Honda,Prata
+Giovanna Cristine dos Santos,CCD8E23,Honda,Prata
+Guilherme Ponciano Rodrigues,DED9E65,Toyota,Cinza
+Guilherme Bellini dos Santos,CDB9A89,VW,Azul Claro
+Mariana Nascimento Silva,CAD7D31,Chevrolet,Vermelho
+Victor Alves da Costa,CFD9D26,Fiat,Preto
+Erik Mesquita Rodrigues,EAF1B49,Toyota,Azul Claro
+Maria Vieira Soares,EDB5C60,Fiat,Vermelho
+Matheus Braz da Costa,BFE7C37,Fiat,Cinza
+Livia Ponciano Mendes,DBB7A34,VW,Branco
+Vinícius Nascimento Dias,FDF2A36,Toyota,Vermelho
+Miguel Matos Castilho,BFF6C40,Toyota,Branco
+Pedro Martins Silva,FEA0E29,VW,Cinza
+Mariana Gomes Rodrigues,DEE7B45,Hyundai,Branco
+Guilherme Braz Trindade,CFF1C94,Fiat,Cinza
+Erik Queiroz Dias,DEF9E59,Toyota,Preto
+Daniel Cruz Domingues,CBD9E48,Hyundai,Azul Claro
+Livia Bellini Lopes,FDB1E39,Honda,Preto
+Daniel Braz Silva,DBA9D66,Chevrolet,Vermelho
+Maria Franco Rodrigues,DBF3D67,Honda,Branco
+Felipe Paschoalino Trindade,ADF5E60,Hyundai,Preto
+Miguel Queiroz Araujo,FDF2B35,Fiat,Vermelho
+Beatriz Mesquita Soares,CBF5E86,VW,Azul Claro
+Rafael Nascimento Mendonça,BBD9B45,Fiat,Preto
+Giovanna de Oliveira Trindade,CEF5D74,VW,Prata
+Erik Santana Amaral,CAC8A59,VW,Azul Claro
+Giovanna de Medeiros Mengue,BBE4C93,Honda,Vermelho
+Yasmin Martins Camargo,EBF4C45,Fiat,Prata
+Guilherme Paschoalino Castilho,BEB3E77,Hyundai,Preto
+Vitória Fernandes Pereira,EEF6E69,Hyundai,Branco
+Larissa de Almeida Camargo,CCA3A44,Chevrolet,Branco
+Pedro de Almeida Amaral,DCA3D10,VW,Branco
+Larissa Fernandes Dias,EDA4A62,Fiat,Vermelho
+Vitória Santana Lima,EFB2E32,Fiat,Preto
+Gabriel Vieira Domingues,AEC8A82,Honda,Prata
+Vitória Fernandes Melo,AAD1A81,Hyundai,Prata
+João de Almeida Amaral,AAB5C85,Hyundai,Vermelho
+Matheus Fernandes Mengue,BDD8D52,VW,Cinza
+Henrique Fernandes Pereira,DEB7B73,Toyota,Prata
+Daniel Cruz Soares,CEC7C16,Toyota,Cinza
+João Gomes Castilho,FDB0C23,Hyundai,Vermelho
+Gabriel de Almeida Amancio,CCD1B92,Hyundai,Vermelho
+Clara Paschoalino Barbosa,EBA4C62,Honda,Branco
+Felipe Ferreira Amancio,AFB5B82,Chevrolet,Prata
+André Vieira Lopes,EAD4D66,Honda,Prata
+Maria Martins Castilho,EED2B94,Toyota,Prata
+Pedro Matos Castilho,FCE5B60,Honda,Branco
+Maria Franco Araujo,DFD5B66,Honda,Preto
+Larissa Bellini Ribeiro,DBC1C24,Honda,Azul Claro
+Beatriz Mesquita Mengue,CDE2B53,Toyota,Vermelho
+Livia Matos Athayde,BFB9C64,Hyundai,Preto
+Felipe Paschoalino dos Santos,DAD5A90,Honda,Branco
+Giovanna Queiroz Mengue,BCF3D20,Honda,Prata
+João Ferreira Camargo,ADA9C42,VW,Cinza
+Erik Alves Castilho,EBD3A20,Honda,Azul Claro
+André Franco Ribeiro,FAD0A71,Honda,Prata
+Yasmin de Medeiros Araujo,DDB4D97,Hyundai,Branco
+Mariana Gomes da Costa,DFC1C61,Hyundai,Branco
+Mariana Vieira Araujo,FAE0C39,Fiat,Preto
+Livia Franco Soares,ABE3D84,Hyundai,Prata
+Gabriel Martins Araujo,FEE2D70,Honda,Preto
+Mariana Gomes Sanches,BED7A59,Honda,Preto
+Miguel Fernandes da Costa,EAF3C97,Toyota,Preto
+Clara Cruz Silva,BEC5D84,Toyota,Preto
+Eduardo de Medeiros Soares,EEC3E19,Chevrolet,Cinza
+Gabriel Cruz Mengue,ABE0C21,Chevrolet,Azul Claro
+Eduardo Paschoalino Amancio,CBC0C17,Hyundai,Vermelho
+Pedro Paschoalino Barbosa,AFB9D20,Hyundai,Preto
+Daniel Braz Campos,BCF5C75,Honda,Vermelho
+Beatriz Paschoalino Lima,DEE9A68,Fiat,Preto
+Miguel de Almeida Pereira,CEF5C80,Toyota,Vermelho
+Sofia Matos Mendes,AFA9C44,Honda,Cinza
+Rafael Paschoalino Lima,FDC4D10,Hyundai,Azul Claro
+Eduardo de Oliveira Pinto,FCE3A21,Honda,Azul Claro
+João Franco Melo,CCE9A59,Honda,Azul Claro
+Sofia da Silva Mendes,FEA0C69,Honda,Prata
+João Bellini Amancio,FFD3A36,VW,Cinza
+Pedro Cruz Mendonça,CBB0E54,Fiat,Azul Claro
+Livia Vieira Lima,DFD4B85,Chevrolet,Prata
+Larissa da Silva Camargo,DEC6A99,Chevrolet,Cinza
+André Matos Amaral,FAE8E27,Hyundai,Preto
+Samuel Bellini da Costa,CCA2D55,VW,Preto
+Livia Vieira Campos,EDA2A11,VW,Cinza
+Livia Braz Camargo,DCE5C53,Hyundai,Cinza
+Clara Santana Lima,DFF6C38,VW,Preto
+Maria Amorim Barbosa,FAF4A95,Honda,Preto
+Guilherme de Medeiros Mengue,AAA2E29,Fiat,Azul Claro
+Yasmin Ferreira Araujo,AFF3E43,Fiat,Prata
+Pedro Martins Amaral,FBF4C30,Hyundai,Vermelho
+Clara Gomes dos Santos,DCB6A95,Chevrolet,Vermelho
+Daniel Alves Amaral,EFA6C11,Chevrolet,Prata
+Rafael Amorim Pinto,FDF0E31,Honda,Cinza
+Henrique Queiroz Camargo,CCE9D98,Fiat,Azul Claro
+Yasmin Queiroz Araujo,CCA8B44,Honda,Preto
+Eduardo de Oliveira Rodrigues,DDB5E61,Toyota,Branco
+Matheus de Oliveira Lima,FEE3A39,Chevrolet,Preto
+Victor Cruz Pinto,DDD7E88,Fiat,Preto
+Felipe de Oliveira Melo,CBE0E54,Toyota,Prata
+Daniel Queiroz Domingues,CAA5A67,VW,Branco
+Mariana Ferreira Melo,EFF3D62,Chevrolet,Vermelho
+Daniel Ferreira Soares,CCF7B53,Chevrolet,Preto
+Clara Martins dos Santos,FCA9A31,Fiat,Vermelho
+Maria Matos Silva,CAF8C64,Chevrolet,Cinza
+Clara Alves Lopes,FEC4C58,Fiat,Cinza
+Mariana Ponciano Sanches,EFA8D56,Fiat,Azul Claro
+Matheus Martins Sanches,DFC8E69,Honda,Azul Claro
+Gabriel Ferreira Pinto,BAD3C50,Fiat,Cinza
+Sofia Gomes Domingues,ACD9B28,Hyundai,Cinza
+Clara Gomes Camargo,DBC0A53,Fiat,Branco
+Clara Amorim Barbosa,CDD6D42,Honda,Cinza
+Livia de Oliveira Amaral,DCD3B61,Fiat,Vermelho
+Livia de Almeida Amaral,BDB6D16,Hyundai,Preto
+Giovanna de Medeiros Castilho,FAD5A44,Fiat,Vermelho
+Clara Cristine Lima,ADD4E14,Honda,Branco
+Yasmin Santana Mendes,CDA7C56,Toyota,Vermelho
+Yasmin Cruz Domingues,BAF3C47,Toyota,Preto
+Mariana Queiroz Machado,CFF1B12,Fiat,Prata
+Sofia Braz Barbosa,AEC6A84,VW,Preto
+Felipe Cruz Soares,EAF0D52,Chevrolet,Vermelho
+Miguel Matos Pinto,ACF5E23,Honda,Branco
+Matheus Bellini Amancio,ABE9C21,Toyota,Cinza
+Gabriel Santana Araujo,BDB9A62,Chevrolet,Vermelho
+Victor Ferreira Machado,BBF0E26,Honda,Vermelho
+Vitória Santana Ribeiro,CAA4E15,Toyota,Prata
+Henrique Paschoalino Pereira,DDD6B51,Honda,Preto
+Sofia Martins Domingues,ECE6D24,Honda,Branco
+Samuel de Almeida Senzaki,DDA3E32,Honda,Azul Claro
+Clara Vieira Pereira,DAE1A53,Hyundai,Branco
+João Mesquita Camargo,ADA1A75,Fiat,Prata
+Livia Martins Araujo,DDB3D89,VW,Branco
+Sofia Mesquita Mendes,EAF4E34,Toyota,Prata
+Beatriz Mesquita Camargo,CDF2C27,Chevrolet,Cinza
+Erik de Medeiros Pereira,EFD0C71,Chevrolet,Branco
+Mariana Matos Machado,ACA4B64,Fiat,Prata
+Matheus Braz Pinto,DAC9B51,VW,Branco
+Rafael Santana Soares,FDA7D59,Honda,Cinza
+João Vieira Dias,DBD5D22,VW,Preto
+Larissa Alves Camargo,DEE8B82,Honda,Cinza
+Victor Ferreira Ribeiro,CFC0D44,Chevrolet,Vermelho
+Livia Ferreira Amaral,BAB3D68,Hyundai,Prata
+Matheus Gomes Dias,ADA0D95,Honda,Azul Claro
+Erik Nascimento Camargo,AAA8B34,Honda,Azul Claro
+Henrique Ponciano Campos,BEF3E24,Toyota,Preto
+Maria Braz Amaral,BFE4E95,Chevrolet,Cinza
+Rafael Cristine Domingues,EFD6B72,Chevrolet,Cinza
+Gabriel Queiroz Lima,DBE5A33,Toyota,Azul Claro
+Sofia Franco Rodrigues,FAA4D29,VW,Vermelho
+Maria Braz Melo,CBE4D58,Toyota,Cinza
+Clara de Medeiros Amaral,CBE4B68,VW,Preto
+Clara Fernandes Campos,BFA5B51,Toyota,Branco
+Guilherme Franco Mendes,DCD1E27,Honda,Cinza
+Felipe Franco Mendes,FFE9B75,Chevrolet,Azul Claro
+João Ponciano Domingues,ECC5C20,Fiat,Vermelho
+Larissa Bellini Machado,BDD8D17,Honda,Branco
+Larissa Mesquita Rodrigues,DDE4B98,Fiat,Azul Claro
+Vinícius Cruz Melo,AEF4A34,VW,Preto
+Erik Paschoalino Athayde,DFB3A78,Honda,Branco
+Daniel Nascimento da Costa,DFA8D78,VW,Cinza
+Thiago Franco Soares,FAB7C75,Hyundai,Branco
+Thiago Ferreira Mengue,BCF4B77,Chevrolet,Branco
+Clara Cruz Amaral,BDD2E55,Hyundai,Prata
+Victor Alves Machado,FAC1C99,Chevrolet,Prata
+Mariana Queiroz Athayde,AEF0A77,VW,Preto
+Yasmin Alves Sanches,BBC0A26,Chevrolet,Preto
+Pedro Matos Sanches,EBA1A73,VW,Azul Claro
+Daniel de Medeiros Mendes,CFF5B56,Fiat,Prata
+André Cruz Soares,AAD9D73,Honda,Prata
+Vinícius Amorim Mengue,DAC1B27,Hyundai,Cinza
+Gabriel Vieira Mendes,FDD1D48,VW,Cinza
+André de Medeiros Ribeiro,FDF3E43,Toyota,Preto
+Henrique Ponciano Sanches,FBC1B61,VW,Vermelho
+Henrique de Medeiros Machado,BFD7B86,VW,Preto
+Guilherme Franco Pinto,CDE9A15,Honda,Cinza
+Henrique Matos Castilho,ACF8D27,Chevrolet,Azul Claro
+Rafael de Almeida dos Santos,FAB7B89,VW,Vermelho
+Guilherme Ferreira Soares,CCE2E14,Toyota,Azul Claro
+André Braz Pereira,DFF3B98,Chevrolet,Azul Claro
+Livia Cristine Rodrigues,EBE1D85,Toyota,Vermelho
+Beatriz Amorim Melo,CBF4D22,Toyota,Vermelho
+Victor Santana Melo,DCC1E34,VW,Prata
+Rafael Vieira Athayde,AAB4B71,Fiat,Preto
+João de Almeida Melo,BEB9A39,Chevrolet,Branco
+André Nascimento da Costa,BDE0B88,Chevrolet,Azul Claro
+Vinícius Gomes Amancio,DFC8B46,Toyota,Cinza
+Giovanna de Oliveira Araujo,CEF2B34,VW,Cinza
+André de Almeida dos Santos,DBE6B72,Chevrolet,Cinza
+Pedro Queiroz Campos,CAB8C46,Honda,Preto
+Victor Martins da Costa,DBF9E16,Hyundai,Cinza
+Erik Bellini Dias,AAB8A67,Honda,Preto
+Matheus Amorim Trindade,AEE8A42,Fiat,Cinza
+Matheus Franco Dias,FEB7D99,Fiat,Branco
+Mariana Amorim Pinto,EEF2C30,Hyundai,Branco
+Miguel da Silva Araujo,AED3C74,Toyota,Azul Claro
+Livia Amorim Dias,EBC0C85,Honda,Cinza
+Miguel Santana Campos,CDE1A14,Chevrolet,Prata
+Matheus Queiroz Amancio,CFC3D30,Honda,Preto
+Victor Ferreira Mengue,ACD8E94,Hyundai,Cinza
+Guilherme Bellini Lopes,DCB0C39,Honda,Vermelho
+Vinícius Alves dos Santos,DEC4E68,Honda,Prata
+Felipe Amorim Soares,EDF3E20,Toyota,Azul Claro
+Felipe Vieira Senzaki,AAE2A16,Hyundai,Cinza
+Daniel Paschoalino Athayde,BCA1B43,Hyundai,Azul Claro
+Clara Alves Soares,DDF2D42,Toyota,Branco
+Henrique da Silva Melo,FBC6A29,Toyota,Preto
+Sofia Paschoalino Ribeiro,FEB1A98,Honda,Vermelho
+Daniel Fernandes Ribeiro,CBF6A83,Chevrolet,Cinza
+Vitória Matos Soares,AFC0A87,Toyota,Branco
+Henrique Paschoalino Mendonça,ACF3B71,Honda,Cinza
+Gabriel Cruz Araujo,BEE0B85,Fiat,Vermelho
+Vitória Fernandes Mendonça,BDD5C64,Chevrolet,Cinza
+Larissa Amorim Machado,EFB0C80,VW,Vermelho
+Vitória Cristine Athayde,CEC3D47,Fiat,Prata
+Mariana Mesquita Mendonça,AFB5D27,Toyota,Prata
+João da Silva Camargo,EFC8E77,Chevrolet,Preto
+Beatriz Cruz Lima,BAA3D23,Honda,Azul Claro
+André Cruz Barbosa,BCE2B34,Chevrolet,Prata
+Eduardo Alves Campos,ECE2A90,VW,Branco
+Daniel Amorim Sanches,FAF3B68,Chevrolet,Preto
+Giovanna Alves Castilho,BFF3A21,Fiat,Prata
+Guilherme Franco Araujo,CCB6D21,Hyundai,Vermelho
+Pedro Santana Campos,CFC5C48,Fiat,Prata
+Thiago Cristine Machado,FFE9A37,Fiat,Azul Claro
+Vinícius Queiroz Pereira,CDA6E88,Chevrolet,Prata
+Matheus Braz Amaral,DCD6E73,Honda,Prata
+André Martins Silva,EDA9B74,VW,Prata
+João Ferreira Ribeiro,FCA3D19,Hyundai,Vermelho
+Thiago Queiroz Domingues,FCE7A60,Toyota,Vermelho
+Henrique Bellini Lima,EDA3A43,Hyundai,Preto
+Thiago Nascimento Ribeiro,FDB2A93,VW,Vermelho
+Erik Mesquita Amancio,DFA4A45,VW,Cinza
+André Ponciano Athayde,FDC4A94,VW,Prata
+Samuel Matos Lima,BBF0D32,VW,Prata
+Guilherme Nascimento Mendonça,CAC5B41,Chevrolet,Cinza
+Rafael Amorim Soares,DFE7A53,VW,Azul Claro
+Samuel Martins Mendes,EED5B22,Fiat,Vermelho
+Victor Cruz Domingues,EAE6B32,Honda,Cinza
+Miguel Queiroz Lopes,CCC0A20,Chevrolet,Preto
+Vitória Queiroz Trindade,CBB3E84,Hyundai,Cinza
+Giovanna Santana Camargo,BEB6D49,Hyundai,Preto
+Matheus Santana Mengue,AEA3B30,Honda,Preto
+Giovanna Ponciano Rodrigues,BFE2C92,Hyundai,Prata
+Larissa Vieira Pereira,AAF6C88,Chevrolet,Branco
+Pedro Matos Soares,EBC2B65,Hyundai,Vermelho
+Guilherme Mesquita Machado,FFA1A64,Chevrolet,Branco
+Gabriel Gomes Mendonça,CEF0E21,Hyundai,Branco
+Daniel Fernandes Araujo,AEB5A99,Chevrolet,Branco
+Miguel Franco Ribeiro,EBB3C91,Fiat,Vermelho
+Rafael Ferreira Ribeiro,ABB7B11,Honda,Vermelho
+Livia de Almeida Araujo,CDD0C23,Chevrolet,Cinza
+Erik Fernandes Castilho,BAD1A48,Honda,Prata
+Mariana Gomes Amancio,FBB5E75,VW,Prata
+Yasmin Cristine Trindade,ADB7E40,VW,Branco
+Daniel Cruz Camargo,BCD1A84,Honda,Prata
+Victor de Almeida Dias,FFB2A65,Fiat,Azul Claro
+Yasmin Braz Lopes,FAA7B85,Toyota,Azul Claro
+João Bellini Castilho,CED0B75,Hyundai,Azul Claro
+Pedro Santana Rodrigues,ECB1C60,Fiat,Azul Claro
+Beatriz de Medeiros Dias,BFD5E77,Toyota,Azul Claro
+Giovanna Cruz Silva,EEC3D95,Hyundai,Azul Claro
+João Queiroz Silva,AED6C14,Chevrolet,Azul Claro
+Beatriz Paschoalino Trindade,BAA2D31,Chevrolet,Preto
+Victor Queiroz Pereira,CBE2B45,Toyota,Prata
+Daniel Gomes Mendonça,BAF6C15,Fiat,Vermelho
+Yasmin Amorim Machado,DAC9D24,Hyundai,Azul Claro
+Maria de Medeiros Pinto,EDF3D66,VW,Azul Claro
+Rafael Fernandes Pinto,CCF1A95,Hyundai,Prata
+Gabriel Ponciano Araujo,FBD4C92,Chevrolet,Prata
+Yasmin Gomes Trindade,DDB8E36,Chevrolet,Cinza
+Yasmin Alves Pereira,CCD8D50,Chevrolet,Cinza
+Sofia Ponciano Mendes,CFE0C54,VW,Cinza
+Sofia Queiroz Sanches,FBB8E74,Chevrolet,Azul Claro
+Felipe Ferreira Silva,EDB5A94,Toyota,Prata
+Thiago Paschoalino Mendonça,FAD1D11,Hyundai,Branco
+Beatriz Amorim Campos,FFD7C60,VW,Cinza
+Vitória Amorim Barbosa,EFC5E79,Chevrolet,Azul Claro
+Sofia Ponciano Camargo,AFC8A59,Hyundai,Vermelho
+André de Oliveira Mendonça,ECD0A45,VW,Prata
+Beatriz Bellini Lopes,CBC1B51,Toyota,Vermelho
+Samuel Santana Athayde,BDD4C50,VW,Cinza
+Maria de Almeida Senzaki,BEB7E72,Fiat,Cinza
+Mariana Vieira Castilho,BFC8C56,Honda,Cinza
+Guilherme Braz Lima,EEC6B12,Hyundai,Prata
+Vinícius Bellini Barbosa,DAA9E58,Honda,Branco
+Gabriel Amorim Soares,DEE4B98,Fiat,Branco
+Livia de Almeida Rodrigues,BFC0B95,Hyundai,Prata
+Beatriz Gomes Amancio,BFA8B76,VW,Preto
+Giovanna Queiroz Lima,FEB0C93,Toyota,Preto
+Matheus da Silva Athayde,FFE0A12,VW,Prata
+Clara Ponciano Senzaki,FAE5E40,Hyundai,Prata
+André Vieira Camargo,DEB3E29,Honda,Cinza
+Matheus Queiroz Amancio,BBC3A80,Fiat,Vermelho
+Maria Vieira Ribeiro,CFC9B54,Toyota,Vermelho
+Vitória Vieira da Costa,FBD5D18,Toyota,Preto
+Larissa Cruz da Costa,DCD8C54,Fiat,Branco
+Sofia Paschoalino Machado,FDA6E31,Hyundai,Prata
+Larissa Franco Dias,CAD7C60,Chevrolet,Preto
+Victor Queiroz da Costa,BBE6D40,Chevrolet,Azul Claro
+André Amorim Araujo,FAF4B55,Fiat,Prata
+Gabriel Nascimento Rodrigues,DDF5B69,Hyundai,Prata
+André de Medeiros Castilho,BAE1D95,Fiat,Vermelho
+Henrique Queiroz Senzaki,BBF3C18,Honda,Preto
+Pedro Santana Barbosa,BFD2A25,Toyota,Preto
+Eduardo Martins Amancio,DFD0D65,VW,Azul Claro
+Rafael Mesquita Soares,EAD7A84,Toyota,Branco
+Clara Mesquita Barbosa,CCF1C93,Hyundai,Preto
+André Mesquita Lopes,DBC9A96,VW,Prata
+Vitória Braz Melo,EFF5C18,Chevrolet,Cinza
+Gabriel Vieira Lopes,FEE0A50,Honda,Branco
+Clara de Oliveira da Costa,BBB0C94,VW,Cinza
+Vitória Nascimento Silva,BFE2C66,Fiat,Vermelho
+Guilherme de Almeida Rodrigues,BCC1E20,Chevrolet,Prata
+Henrique Gomes Mendes,BCB2A52,Honda,Prata
+Felipe Queiroz Pinto,BBF0E50,Honda,Cinza
+Vinícius Mesquita Castilho,EEE9B71,Chevrolet,Branco
+Larissa Cristine Amancio,DAE8E60,Fiat,Preto
+André Braz Domingues,FDB5B84,Honda,Azul Claro
+Eduardo Mesquita Mengue,CEA3C99,Chevrolet,Vermelho
+Yasmin Bellini Dias,ECE9C60,Toyota,Branco
+Sofia Cruz Senzaki,AEE3E62,Chevrolet,Vermelho
+Guilherme Martins Mendonça,BDF3C49,Honda,Branco
+Beatriz Santana Amancio,DDF6C26,Chevrolet,Branco
+Gabriel Fernandes Campos,ABC2A40,Chevrolet,Branco
+Daniel Alves Rodrigues,EBE7D94,Toyota,Branco
+Eduardo Alves dos Santos,DFA9B12,Chevrolet,Cinza
+Mariana Ferreira Campos,EBA6A37,Toyota,Branco
+Rafael Nascimento Pereira,CCC9B44,Chevrolet,Vermelho
+Thiago Mesquita Dias,FBB5A75,Toyota,Branco
+Eduardo Mesquita Mendonça,FEC1C84,Honda,Branco
+Matheus de Medeiros Amaral,BFC0A69,Chevrolet,Preto
+Rafael Amorim Dias,EEC4D66,Hyundai,Vermelho
+Matheus Nascimento Barbosa,BFB3E85,Fiat,Preto
+Beatriz Vieira Athayde,FEA3D49,Honda,Preto
+Miguel Ferreira Domingues,EDE5C32,Fiat,Preto
+Felipe Ponciano Pereira,FAE3D95,Chevrolet,Cinza
+Rafael Alves dos Santos,FAE5D15,Hyundai,Azul Claro
+Livia Nascimento Camargo,ACB9C17,Fiat,Cinza
+Guilherme Alves Domingues,FBE3E62,Toyota,Vermelho
+João Ponciano Amancio,CAC0D60,Honda,Azul Claro
+Samuel Amorim Mengue,DEB2B29,Toyota,Cinza
+Guilherme Braz Sanches,CCD4B87,Chevrolet,Branco
+Pedro de Oliveira dos Santos,AFE1E97,Fiat,Azul Claro
+Clara Vieira Araujo,CAB2B87,VW,Branco
+Larissa Ferreira Mendes,ABD0E90,Chevrolet,Cinza
+Giovanna Vieira Domingues,CFB9A63,Fiat,Branco
+Beatriz de Almeida da Costa,BCB3E66,Chevrolet,Azul Claro
+Eduardo Cruz da Costa,AEC1B83,Hyundai,Cinza
+Erik Alves Lima,ADE0D61,Hyundai,Preto
+Mariana da Silva Athayde,BAC9E39,Fiat,Cinza
+Larissa Mesquita Castilho,ECC2B26,Hyundai,Branco
+Mariana de Medeiros dos Santos,AAD9A41,Honda,Cinza
+Beatriz de Medeiros Pinto,DEF5E12,Hyundai,Vermelho
+Henrique Alves Lima,AEB3D59,Chevrolet,Preto
+Thiago Gomes Soares,ADF8A19,Chevrolet,Vermelho
+Daniel Gomes Amancio,CCA9B18,Hyundai,Cinza
+Matheus Cruz Amancio,EFD9E73,VW,Branco
+Thiago Vieira Dias,FBC9D46,Fiat,Preto
+Larissa de Oliveira Barbosa,CEF5D94,VW,Preto
+Beatriz Vieira Campos,DED6E25,VW,Vermelho
+Vinícius de Oliveira Silva,BCA7D12,Hyundai,Prata
+Vitória Mesquita Sanches,FBC1E95,Hyundai,Prata
+Miguel Queiroz Domingues,BEF0A31,Toyota,Preto
+Gabriel Alves da Costa,ACB8B42,Fiat,Prata
+Giovanna Gomes Lima,CBE5A84,Toyota,Cinza
+Sofia Franco Castilho,EEA3B63,Honda,Preto
+Vitória da Silva Lima,FCD0A89,Chevrolet,Azul Claro
+Larissa Braz Silva,BBC4A58,Fiat,Cinza
+Samuel Gomes Pinto,AAB6B94,Toyota,Vermelho
+Eduardo Matos Melo,FFD7B15,Toyota,Preto
+Samuel Braz Pereira,AFE5C58,Toyota,Prata
+Mariana Matos Domingues,BFB1D41,Honda,Branco
+Rafael Fernandes Pereira,AEE3B83,VW,Preto
+Guilherme Ponciano Amancio,ACB4A33,Fiat,Preto
+Matheus Cristine Trindade,DFF1C58,Hyundai,Preto
+Vinícius Santana Ribeiro,BFB5A29,Toyota,Prata
+Henrique Braz Mendes,ACA5C76,Fiat,Preto
+Daniel Ponciano Mendonça,CBE1C98,Toyota,Azul Claro
+Clara Braz Amaral,DFE3A43,VW,Azul Claro
+João de Almeida Mengue,CFB7D77,Toyota,Branco
+Giovanna Queiroz Pereira,BEF0A29,VW,Vermelho
+Guilherme Vieira dos Santos,EFB7E12,Fiat,Cinza
+Victor Gomes Silva,FBC2A22,Honda,Cinza
+Guilherme Nascimento Mendes,FBF7B18,Hyundai,Azul Claro
+Felipe Alves Mendes,DDB7B41,Chevrolet,Azul Claro
+Pedro Cruz dos Santos,BCE5D48,Fiat,Cinza
+Vitória Queiroz Dias,BCE9D33,Toyota,Prata
+João Ponciano Senzaki,BCB0A39,Chevrolet,Azul Claro
+Vinícius de Almeida Sanches,ACB2D53,Toyota,Branco
+Daniel Cruz Lima,ADB9E17,Chevrolet,Prata
+Maria da Silva Araujo,DFA0E48,Toyota,Prata
+Pedro Cristine Pereira,BFA5C17,Hyundai,Branco
+Felipe Mesquita Dias,ECE9E10,VW,Cinza
+Maria Matos Melo,DEF6D28,Hyundai,Azul Claro
+Vinícius Santana Pereira,CBA5C89,Fiat,Prata
+Samuel Matos Domingues,FDA3E98,Hyundai,Prata
+Henrique Amorim Camargo,DBD5D87,Chevrolet,Prata
+Victor Vieira Soares,FDB4C12,Hyundai,Branco
+Yasmin da Silva Athayde,BAC4C55,Fiat,Cinza
+Eduardo Mesquita Pinto,DFC4A31,Hyundai,Preto
+Pedro Cruz Amancio,BAA8E31,Fiat,Preto
+Beatriz Mesquita Sanches,ABC6C58,Chevrolet,Preto
+Vinícius Matos Senzaki,FBB0E35,Toyota,Branco
+André Cruz Mengue,ADB6E61,Toyota,Vermelho
+Erik Queiroz Camargo,CEB5B63,Toyota,Vermelho
+Vinícius Amorim Mendes,DFB5D97,Hyundai,Azul Claro
+André de Medeiros Barbosa,BCE4C69,Chevrolet,Azul Claro
+Sofia de Medeiros Machado,DDB6B31,Hyundai,Vermelho
+Eduardo Ferreira Sanches,CCB2A56,Chevrolet,Vermelho
+Livia de Medeiros Amaral,EEF9B44,Fiat,Prata
+Livia Vieira Mendes,DFC7E26,Toyota,Azul Claro
+Gabriel Cristine Trindade,CCE1A55,Hyundai,Azul Claro
+Matheus Martins Pereira,FEB7E88,Chevrolet,Azul Claro
+João Queiroz Soares,ABE0C90,Honda,Azul Claro
+Clara Braz Pinto,ABC9B71,Toyota,Prata
+Gabriel Braz Lima,ECC2A55,Honda,Vermelho
+Larissa Gomes Athayde,CBC9A98,Chevrolet,Branco
+Livia de Medeiros Amancio,ABB1B71,Fiat,Vermelho
+Beatriz Ferreira Mendonça,FBA1E67,VW,Cinza
+Felipe Cruz Mendes,EEA3A66,Honda,Branco
+Samuel Ponciano Domingues,BDC9C29,Toyota,Preto
+Daniel Nascimento Lopes,ADE2D59,Chevrolet,Branco
+Larissa Amorim da Costa,FEB9A80,Chevrolet,Branco
+Yasmin Bellini Camargo,BAB8A23,VW,Azul Claro
+Rafael Braz dos Santos,ACD4E59,Chevrolet,Prata
+Daniel de Almeida Lopes,AEF7C67,VW,Cinza
+Maria de Almeida Silva,BAC5C67,Chevrolet,Azul Claro
+Daniel Mesquita Lopes,EBA7B49,VW,Vermelho
+Victor Ferreira Athayde,BEC7B75,Chevrolet,Vermelho
+Sofia Gomes Ribeiro,AFA2A24,VW,Prata
+Henrique de Oliveira Sanches,EFE5E34,VW,Azul Claro
+Victor Fernandes Lopes,BAB2C49,Fiat,Vermelho
+Matheus de Oliveira Rodrigues,FCE1A95,VW,Vermelho
+Thiago Mesquita Lopes,CFA5B58,Chevrolet,Vermelho
+Maria Amorim Ribeiro,AAB8D74,Fiat,Cinza
+Gabriel Nascimento Amancio,EEB3B53,Hyundai,Vermelho
+Yasmin Franco Camargo,DAD5D66,Hyundai,Cinza
+Mariana Franco Sanches,CAC8B71,Hyundai,Prata
+Gabriel Nascimento Dias,AFA8C74,Honda,Vermelho
+Beatriz Fernandes Silva,EDC0D94,Honda,Cinza
+Clara Mesquita Lima,FAC7B60,Honda,Prata
+Clara de Oliveira Silva,DCE3E82,VW,Preto
+Felipe Ferreira Dias,AFF7D95,Toyota,Prata
+Maria Alves Silva,CAB9B80,Hyundai,Preto
+Clara Santana Camargo,ACF6E97,Chevrolet,Azul Claro
+Matheus Mesquita Melo,DBC3A97,Honda,Vermelho
+Beatriz Cruz Senzaki,CDD6E72,Chevrolet,Prata
+Erik Amorim Soares,FED6E77,Hyundai,Prata
+Yasmin Franco Machado,CAD5B83,Fiat,Vermelho
+Guilherme Matos Silva,CDF0E32,Fiat,Prata
+Samuel de Medeiros Pinto,BEF3D92,VW,Branco
+Miguel Ferreira Araujo,ECC9E38,Toyota,Cinza
+Mariana Ponciano Ribeiro,CCD8E10,VW,Cinza
+Daniel Paschoalino Pereira,EEE8B30,VW,Branco
+André Queiroz Sanches,EAE2C53,Fiat,Branco
+Daniel Vieira Mendonça,CDC2E49,Honda,Preto
+Miguel Amorim Camargo,EFE3D21,VW,Cinza
+Vinícius Queiroz Araujo,AEF8D14,Hyundai,Prata
+Pedro Nascimento Araujo,ADF9E69,Honda,Preto
+Henrique Queiroz Machado,AFA5D92,Hyundai,Cinza
+Henrique Ferreira Barbosa,FFB2D88,Chevrolet,Preto
+Livia Cruz Silva,FFF2B10,Honda,Prata
+João de Medeiros Campos,FAE1A56,Hyundai,Prata
+Thiago da Silva Machado,AFA9C44,Toyota,Cinza
+Pedro Amorim Soares,EDC0A13,Honda,Prata
+Pedro Vieira Lima,DAA4C44,Toyota,Azul Claro
+Clara Paschoalino Dias,BAB9D69,Honda,Azul Claro
+Felipe Franco dos Santos,EFE0A61,Fiat,Cinza
+Erik Cristine Soares,BAB5D95,Toyota,Vermelho
+Gabriel Nascimento Rodrigues,AAB9D48,VW,Azul Claro
+Rafael Ferreira Dias,FAA3D90,Toyota,Branco
+Beatriz Vieira Lima,EBD4D40,Chevrolet,Azul Claro
+Victor de Medeiros Campos,BEE6B65,Toyota,Vermelho
+Eduardo Amorim da Costa,EFC3B79,Chevrolet,Preto
+Daniel Matos Machado,CAE2A61,Chevrolet,Prata
+Felipe Cruz Machado,DEB0E55,Toyota,Prata
+Mariana de Oliveira Rodrigues,CEE2E55,Chevrolet,Cinza
+João de Almeida Dias,CEC1A67,Honda,Cinza
+Giovanna Fernandes Castilho,AEC4C46,Hyundai,Vermelho
+Matheus Nascimento Sanches,FDF7C27,Hyundai,Branco
+Felipe de Almeida Amaral,CBA6B67,Chevrolet,Azul Claro
+Vitória Bellini Araujo,EBB7C59,Honda,Prata
+Thiago de Medeiros Pereira,BCE5B86,VW,Branco
+Beatriz Nascimento Araujo,FAA1D74,VW,Azul Claro
+Miguel Cruz Amancio,BFE8B74,Fiat,Vermelho
+Beatriz de Medeiros Mendes,AFA6B68,Honda,Vermelho
+Matheus Santana Melo,FBB9A44,Toyota,Vermelho
+André Gomes Castilho,FDA6A46,Chevrolet,Azul Claro
+Henrique Nascimento Soares,FAF3B82,Honda,Vermelho
+Mariana Matos Campos,ADD2B34,Honda,Prata
+Mariana Nascimento Camargo,ECE5D92,Fiat,Vermelho
+Livia Braz Barbosa,DDB5D74,Honda,Cinza
+Gabriel Bellini da Costa,DAA8E50,Honda,Branco
+Erik Matos Lopes,ADB9D92,Chevrolet,Preto
+Victor Paschoalino Lopes,BDD0A51,Chevrolet,Azul Claro
+André Ponciano Mengue,ABD9D82,Chevrolet,Azul Claro
+Victor Fernandes Amancio,EAB4C11,Hyundai,Cinza
+Mariana Franco Amaral,EAF7C59,Honda,Cinza
+Miguel Martins Rodrigues,CBD1E17,Honda,Azul Claro
+Livia Martins Lima,BAB8E64,VW,Preto
+Pedro Alves Lopes,DDE4A80,Fiat,Vermelho
+Thiago Queiroz Camargo,DBE0A58,Fiat,Branco
+Samuel Martins Amaral,DCD1E59,Honda,Preto
+Gabriel Queiroz Dias,DAF3C12,Fiat,Vermelho
+Mariana de Oliveira Mengue,EDB4B82,Honda,Preto
+Mariana Fernandes Mengue,CEA8A32,Toyota,Branco
+Pedro Alves Barbosa,ECD1D24,Fiat,Prata
+Vitória da Silva Athayde,BAA1D42,Hyundai,Azul Claro
+Rafael Amorim Mendonça,ACE4A40,Fiat,Prata
+Erik Amorim Soares,FBC2E34,Fiat,Vermelho
+Sofia Cristine Mendonça,CDA5D30,VW,Cinza
+Mariana Ferreira Dias,ECB2D37,Hyundai,Branco
+Guilherme Queiroz Silva,BCF3E54,Honda,Branco
+Clara Franco Araujo,BEA4E49,Fiat,Branco
+João Vieira Lopes,DEE5D53,Chevrolet,Prata
+Vinícius Mesquita Rodrigues,DFC5C94,Hyundai,Branco
+Miguel Amorim Silva,CDC0C93,Chevrolet,Vermelho
+Thiago Nascimento Campos,CAE2E82,Honda,Prata
+Vinícius de Almeida Mendes,BEC5B89,Chevrolet,Branco
+Clara Braz Mengue,BAF5B66,Honda,Prata
+Miguel Fernandes Soares,AEE0C50,Fiat,Prata
+Maria Nascimento dos Santos,ACE4B69,Hyundai,Azul Claro
+Daniel de Oliveira da Costa,ECF5D25,VW,Vermelho
+Sofia Gomes Mengue,ADD1B48,Hyundai,Cinza
+Felipe Martins Trindade,FCA6C38,Fiat,Branco
+Rafael da Silva Silva,BCA0B76,Fiat,Vermelho
+Vitória Mesquita Machado,BCD5A43,Fiat,Cinza
+Sofia Braz Amancio,AAF6B24,Toyota,Branco
+Samuel Gomes Pereira,BAA1B41,VW,Cinza
+Samuel Mesquita dos Santos,FCF5C86,Hyundai,Preto
+Maria Matos Mendes,AAC2A55,Hyundai,Preto
+Livia Ferreira Domingues,BEB3C38,VW,Prata
+Daniel Ferreira Machado,EAD8B25,Toyota,Branco
+Clara Queiroz Barbosa,AFA6D66,Toyota,Preto
+Guilherme Fernandes Melo,EEA9C93,Toyota,Preto
+Sofia Alves Melo,AAC8B94,VW,Branco
+Pedro da Silva Lima,BCD0D46,Honda,Branco
+Sofia Ferreira Amancio,FFE0E16,Hyundai,Branco
+Henrique Alves Machado,FED3A57,Fiat,Preto
+Livia da Silva Soares,AEC6D25,Toyota,Branco
+Beatriz Amorim Ribeiro,BFC7E79,Fiat,Branco
+Beatriz Cristine Pinto,EBD4E79,VW,Preto
+Henrique Bellini Melo,DFF8D75,Hyundai,Azul Claro
+João Vieira dos Santos,FAC6D97,VW,Azul Claro
+Eduardo Ponciano Rodrigues,DBB4D80,Fiat,Prata
+Miguel Ponciano Amaral,FCC2C75,VW,Prata
+Larissa Alves dos Santos,BDB9A29,Toyota,Vermelho
+Samuel Matos Ribeiro,EEF9C53,Hyundai,Preto
+Samuel Franco Machado,CCB2A30,VW,Preto
+Matheus de Oliveira Domingues,FFC0E70,Chevrolet,Prata
+Pedro Matos Campos,BAF5D38,Honda,Preto
+Maria Cristine Lima,FCC6B62,Toyota,Preto
+Livia Amorim Mendonça,ADB4B45,Hyundai,Cinza
+Larissa Ferreira Trindade,BAF4C47,Honda,Branco
+Pedro Paschoalino Mengue,DCA5E73,VW,Branco
+Samuel de Oliveira Campos,EBE4E25,Fiat,Preto
+Felipe Vieira Senzaki,DDD4D93,Hyundai,Azul Claro
+Livia Ponciano Amaral,BBC1A63,Chevrolet,Vermelho
+Henrique Vieira Ribeiro,ECD9C85,Honda,Branco
+Vinícius Cruz Soares,FDF4D13,Hyundai,Branco
+Daniel Paschoalino dos Santos,DDD1A35,Honda,Branco
+Giovanna Queiroz Pereira,AAC3E97,Hyundai,Branco
+Giovanna Santana Amaral,EEE3C23,Chevrolet,Azul Claro
+João Gomes Soares,CCC6E32,Toyota,Cinza
+Matheus Matos Dias,FDB1D58,VW,Azul Claro
+André Alves Soares,CBC2A28,Toyota,Prata
+Sofia Franco Amaral,DEC4E83,Honda,Azul Claro
+Samuel Gomes Ribeiro,DAC0A94,Hyundai,Prata
+Pedro Fernandes da Costa,BDF1A19,Toyota,Preto
+Vitória Cruz Athayde,FFA7C10,Hyundai,Prata
+Miguel da Silva Campos,DED9D34,Hyundai,Prata
+Larissa Martins Athayde,BBB2A86,Fiat,Azul Claro
+Gabriel Vieira Camargo,ADC7E24,Hyundai,Prata
+Matheus Amorim Mengue,EEC4C13,Chevrolet,Prata
+Thiago Vieira Sanches,FBA4B53,Chevrolet,Cinza
+Sofia Fernandes Athayde,CBC8E62,Hyundai,Preto
+Thiago Matos Machado,CBF6A42,Fiat,Azul Claro
+Yasmin Fernandes Mendes,ADE8E85,Hyundai,Vermelho
+Felipe de Oliveira da Costa,CEC4D48,Fiat,Preto
+Maria Gomes Ribeiro,DBE6A23,Fiat,Prata
+Mariana Martins Mendes,FFD9D21,VW,Cinza
+Pedro Nascimento Mengue,EBE5B56,VW,Preto
+Livia Queiroz Camargo,CDE0B96,Toyota,Preto
+Mariana de Medeiros da Costa,BCC9A71,Fiat,Azul Claro
+Pedro de Almeida Amaral,EEC4B14,Honda,Cinza
+Maria Amorim Pinto,AFA3A21,Chevrolet,Vermelho
+Beatriz Martins Mengue,FEB4C56,Chevrolet,Cinza
+Rafael Alves Amaral,DDA0A42,Toyota,Prata
+Daniel de Oliveira Mengue,ABF6D85,Toyota,Branco
+Gabriel Braz Trindade,BDD8A94,Fiat,Azul Claro
+André de Medeiros Sanches,AAB0B77,VW,Branco
+Maria de Almeida Mendonça,ADD8D57,Toyota,Preto
+Erik Fernandes Silva,BCA1D68,Fiat,Azul Claro
+Mariana Cristine Mengue,CBC8E41,Hyundai,Prata
+Gabriel Amorim Trindade,BCC4B54,Fiat,Cinza
+Guilherme Ponciano Soares,CEE3E67,Chevrolet,Preto
+João Fernandes da Costa,EFE2B10,Chevrolet,Prata
+Eduardo de Oliveira Lima,BCE0A60,Hyundai,Branco
+André Santana Sanches,DBF8E63,VW,Cinza
+Vitória Matos Sanches,AAD6A22,Chevrolet,Cinza
+Miguel Paschoalino Domingues,FFA9A42,Honda,Cinza
+Sofia de Oliveira Rodrigues,DBA8E42,Toyota,Azul Claro
+Giovanna Paschoalino Araujo,FAB2E49,Toyota,Azul Claro
+Guilherme Cruz Mendonça,AEA8E75,Fiat,Vermelho
+Beatriz Amorim Senzaki,DCB1A77,VW,Azul Claro
+Guilherme Mesquita Lopes,EDD1D58,Fiat,Preto
+Giovanna Fernandes Mengue,AEC7D61,Fiat,Branco
+Gabriel da Silva Mendonça,BFD5B61,Hyundai,Prata
+João Queiroz Soares,AAE3D45,Toyota,Branco
+Yasmin Braz Amaral,CCA8D39,Chevrolet,Azul Claro
+Victor Nascimento da Costa,DFF6A29,VW,Vermelho
+Samuel Cruz Pereira,BBD0B50,Toyota,Prata
+Gabriel Ferreira Barbosa,EAE2C69,Hyundai,Preto
+Victor Alves Machado,BAF1A85,Toyota,Vermelho
+Miguel Nascimento Melo,EBC3C79,Chevrolet,Preto
+João Cruz Lopes,ADD3A37,Toyota,Vermelho
+Felipe Alves Pinto,FCC6E60,VW,Branco
+Livia Vieira Araujo,FBE3D44,Hyundai,Branco
+Maria Alves Athayde,FDE9D96,Hyundai,Cinza
+Livia Cristine Trindade,CCA4C22,Fiat,Prata
+João Queiroz Amaral,DDF0E18,Hyundai,Vermelho
+Larissa Amorim Athayde,EDC7B94,Honda,Vermelho
+Vinícius Vieira Trindade,EEF2B12,Chevrolet,Preto
+Livia Cristine Mengue,FBA9D88,Fiat,Azul Claro
+Thiago Gomes Soares,DEC9B76,Chevrolet,Prata
+Felipe Franco Silva,FEF5A71,Hyundai,Preto
+Guilherme Ferreira da Costa,EDE3B41,Chevrolet,Prata
+Livia Paschoalino Rodrigues,EBF2E52,Fiat,Azul Claro
+Larissa Mesquita Rodrigues,AEB9C84,Honda,Azul Claro
+Thiago Nascimento Araujo,CFB0B12,Toyota,Preto
+Victor Ferreira Soares,ACD1B28,Fiat,Prata
+João Cristine Mendes,ECC1E77,Toyota,Azul Claro
+Clara Franco Athayde,FBD2D45,Toyota,Prata
+Clara Queiroz Soares,EBA2A97,Chevrolet,Vermelho
+Giovanna Fernandes Silva,CFD5C25,Honda,Vermelho
+Sofia Amorim Campos,CDF3C46,Chevrolet,Prata
+Maria Bellini Pereira,BAD9B64,Chevrolet,Preto
+Yasmin Martins Barbosa,AED6B21,Toyota,Preto
+Matheus Matos Pinto,CFA9B18,Fiat,Prata
+Felipe de Oliveira Domingues,EBC7A48,Fiat,Azul Claro
+Rafael da Silva Ribeiro,CFB0E12,Fiat,Prata
+João Paschoalino Mendonça,ACF5C26,Toyota,Azul Claro
+Victor de Almeida Castilho,EED4B19,Chevrolet,Preto
+Vinícius Franco Athayde,FEB7C50,Hyundai,Azul Claro
+Samuel Queiroz Domingues,ACA6D94,VW,Branco
+Victor Queiroz Castilho,CBF9E31,Chevrolet,Prata
+João Ferreira Trindade,DDA9B37,Fiat,Prata
+Beatriz de Almeida da Costa,CED1E82,Honda,Branco
+Giovanna Queiroz Amancio,FCC4E92,Chevrolet,Cinza
+Mariana Queiroz Castilho,DAF5A66,Fiat,Azul Claro
+Erik Vieira Ribeiro,FEB6C76,Fiat,Preto
+Vitória Ponciano Mendes,BEA4D84,Honda,Preto
+Pedro Cruz Barbosa,EFC9C89,Toyota,Branco
+Maria Franco Araujo,CCF6D86,Chevrolet,Vermelho
+Gabriel Queiroz Castilho,EFC1C64,Honda,Branco
+Vitória Fernandes Amaral,ABC1C21,Toyota,Branco
+Matheus Martins Camargo,ACD0D30,VW,Cinza
+Samuel da Silva Rodrigues,AED2B19,VW,Cinza
+Guilherme Alves Mendes,EEA1B97,Hyundai,Cinza
+Eduardo Franco Amaral,CDC4E89,Chevrolet,Branco
+Clara Nascimento Machado,BEF1C56,Fiat,Vermelho
+Giovanna Martins Ribeiro,FCA0C61,Chevrolet,Branco
+Henrique da Silva Mendonça,CAC1A32,Honda,Cinza
+Samuel Bellini Mendes,CCE7D96,VW,Preto
+Pedro Mesquita Amaral,CBF8A74,Hyundai,Branco
+Felipe Cruz Senzaki,AED9C67,Toyota,Prata
+Erik Paschoalino Melo,DDE0C99,Chevrolet,Preto
+Gabriel Ponciano Barbosa,CEA5B61,Toyota,Vermelho
+Gabriel de Medeiros Silva,CCC7D76,VW,Vermelho
+Pedro Fernandes Mengue,BEF5A75,Chevrolet,Preto
+André Matos Barbosa,ECB2B89,Honda,Cinza
+Clara Gomes Amancio,AFF0C18,VW,Vermelho
+Pedro Cruz Castilho,DBA1D45,Chevrolet,Prata
+Thiago Nascimento Pereira,BAC2C82,Honda,Azul Claro
+André Nascimento Castilho,EAC8D52,VW,Vermelho
+Beatriz Martins Senzaki,CCC2E34,Hyundai,Cinza
+Vitória Matos Sanches,DBD3A95,Chevrolet,Branco
+Larissa Ferreira Rodrigues,CFB2B62,Toyota,Cinza
+Clara de Oliveira Lopes,EFB3A61,VW,Azul Claro
+Rafael de Oliveira Camargo,BAC4A51,Toyota,Preto
+Felipe Cruz Mengue,CAF7B19,Toyota,Vermelho
+Daniel Alves Trindade,FFB6D82,Fiat,Cinza
+Vitória de Medeiros Rodrigues,FEB5B79,Toyota,Cinza
+Vitória Alves Pinto,AEB6B13,VW,Preto
+Pedro Paschoalino Pinto,BAA1C41,Honda,Preto
+Giovanna Nascimento Sanches,FDA4D84,Honda,Vermelho
+Miguel da Silva Silva,AAD0A87,Honda,Vermelho
+Mariana Amorim Mendes,AFE8D69,VW,Vermelho
+Miguel da Silva Dias,DAC3C20,VW,Branco
+Pedro Alves dos Santos,AEE9C56,Hyundai,Prata
+Larissa Martins Pereira,DEA2A35,VW,Vermelho
+Maria Mesquita Ribeiro,ECC0B78,Chevrolet,Cinza
+Beatriz Ferreira Silva,FDE2D72,Toyota,Preto
+Maria Martins dos Santos,BBB1A74,Honda,Preto
+Giovanna Vieira Castilho,DDF7D54,VW,Cinza
+Rafael Cruz Rodrigues,BDF4B73,Hyundai,Branco
+Vitória Cruz Amancio,BCB5B51,Hyundai,Preto
+Sofia Paschoalino Castilho,DAB0E25,Toyota,Azul Claro
+Felipe Vieira Dias,DAF5D39,Fiat,Preto
+Rafael Franco Silva,BCB3C49,Toyota,Azul Claro
+Matheus Matos Machado,BAA6C51,Fiat,Vermelho
+Erik Ferreira Melo,AFB8A14,Honda,Preto
+Erik Queiroz Pinto,CCE0B14,Honda,Vermelho
+Henrique Nascimento Mengue,EDD8E14,Toyota,Cinza
+Samuel Queiroz Silva,ABE5E89,Toyota,Vermelho
+Gabriel Ponciano Trindade,DDE5D95,Honda,Branco
+Daniel Matos Barbosa,CDA1C67,Fiat,Branco
+Samuel Martins Melo,FEB4D58,Chevrolet,Preto
+Miguel Queiroz Barbosa,DFB8E96,VW,Branco
+Victor de Medeiros Mendes,BEB6D12,Honda,Prata
+Vinícius Gomes Dias,BDC3E92,Chevrolet,Cinza
+Clara Martins Pereira,CDC9E18,Honda,Prata
+Clara Mesquita Camargo,BCF0D51,Honda,Preto
+Yasmin Queiroz Castilho,FBA2E85,Hyundai,Branco
+Yasmin Queiroz Melo,EFC0B30,Honda,Cinza
+Thiago de Medeiros Lopes,CDD1C92,Chevrolet,Prata
+Samuel Nascimento Mendes,AAD5E63,Chevrolet,Preto
+Gabriel Martins Athayde,BAE1E67,Hyundai,Azul Claro
+Clara Martins Castilho,EDB0C56,Hyundai,Prata
+Giovanna Ferreira Athayde,FCF9E48,Fiat,Branco
+Sofia Bellini Trindade,FEC7A28,VW,Cinza
+João Matos Lopes,FCF3E98,Fiat,Branco
+João Cristine Amancio,FEF9D71,Honda,Cinza
+Henrique Cruz Athayde,EEF8C32,Hyundai,Cinza
+Clara Mesquita Machado,DED6E37,Chevrolet,Branco
+Samuel Alves Lopes,CDE6B74,VW,Cinza
+Guilherme Martins Rodrigues,AEE5E68,Toyota,Vermelho
+Daniel Fernandes Amancio,CBD8B69,Toyota,Azul Claro
+Mariana Santana Melo,DDA7B83,Hyundai,Prata
+Maria Fernandes Amancio,CEA7B72,VW,Prata
+Samuel da Silva Sanches,ACB8B83,Toyota,Cinza
+Eduardo Santana Barbosa,FCB5E46,Chevrolet,Prata
+Vitória Braz Silva,CBA0C41,VW,Vermelho
+Thiago Ponciano Araujo,EDA9E64,Hyundai,Azul Claro
+Clara Amorim da Costa,ABA7E21,Hyundai,Cinza
+André de Almeida dos Santos,BEE6C51,VW,Preto
+Vinícius de Medeiros Trindade,BCD0C74,Toyota,Prata
+Vinícius Ponciano dos Santos,FCB2C70,Toyota,Prata
+Yasmin Santana Rodrigues,DBE2B27,Chevrolet,Cinza
+André Fernandes Pereira,FEF2E71,VW,Branco
+Guilherme Queiroz Mengue,DFB0E55,Chevrolet,Vermelho
+Larissa Vieira Senzaki,FFA6C52,Fiat,Preto
+Beatriz Mesquita Rodrigues,BBA0B50,Toyota,Azul Claro
+Livia Santana Lima,DFE9D29,Fiat,Preto
+Henrique de Almeida Athayde,FBA7C11,Honda,Azul Claro
+Henrique Martins dos Santos,CFF1B88,Chevrolet,Prata
+Yasmin Gomes Lima,BDE0D48,Toyota,Prata
+Livia Gomes Ribeiro,FFB2D68,VW,Prata
+Rafael Martins Barbosa,AFC9C25,Toyota,Cinza
+Vinícius Queiroz Amaral,BBF7C68,Toyota,Preto
+Sofia Ferreira Araujo,CED0A87,Honda,Preto
+Henrique Martins Sanches,FBA5B85,Toyota,Preto
+Giovanna de Oliveira Senzaki,CAC5E59,Hyundai,Branco
+Thiago Fernandes Pereira,CCD7C29,Fiat,Cinza
+Vinícius Queiroz Camargo,EEE8A62,Toyota,Cinza
+Clara Paschoalino Melo,CBE4D99,Honda,Prata
+Vitória Bellini Trindade,ACB9E95,Honda,Cinza
+Thiago da Silva Castilho,BAD7A27,Toyota,Prata
+Henrique Paschoalino Camargo,FEA6B84,Toyota,Azul Claro
+Beatriz Matos da Costa,FFC4D15,VW,Cinza
+Matheus da Silva Silva,CCD2A74,Hyundai,Cinza
+Matheus Cristine Campos,AFD5A91,Chevrolet,Preto
+Eduardo Vieira Araujo,ADE9C74,Toyota,Branco
+Felipe Vieira Mendonça,BFE4B40,Chevrolet,Vermelho
+Yasmin Gomes da Costa,FDD7D46,Honda,Vermelho
+Vitória Mesquita Camargo,DFA5E22,Hyundai,Preto
+Pedro Amorim Barbosa,BCB9D61,Honda,Preto
+Larissa Martins Amancio,DAA4E46,Fiat,Vermelho
+Maria Ferreira Pinto,ADF3A73,Honda,Prata
+Vitória Ferreira Dias,EAD2E44,Fiat,Cinza
+João Mesquita Camargo,ACE6D24,VW,Cinza
+Matheus Amorim Mendes,FAA9D25,VW,Preto
+Yasmin Gomes Mendes,BAB8B85,VW,Preto
+Yasmin Amorim Sanches,CFD3B13,VW,Vermelho
+Gabriel Cristine Pinto,CFC6A59,Chevrolet,Preto
+Eduardo Ferreira Athayde,FAC1D16,Hyundai,Preto
+Pedro Paschoalino Pereira,CCC5B35,Toyota,Preto
+Maria Vieira Camargo,AAF1B30,Fiat,Cinza
+Larissa Matos Pereira,FFF8E94,Chevrolet,Branco
+João de Medeiros Rodrigues,EAB3A45,Honda,Branco
+Henrique Matos da Costa,FBE7B92,Chevrolet,Vermelho
+Sofia de Medeiros da Costa,DFA8B99,Honda,Azul Claro
+Guilherme Bellini da Costa,CDC0E63,Toyota,Branco
+Eduardo Paschoalino Senzaki,CCF9D49,VW,Vermelho
+Matheus de Oliveira Amaral,ABD7A73,Honda,Vermelho
+Erik da Silva Rodrigues,EDB5D25,Fiat,Azul Claro
+Samuel Cruz Barbosa,CEA0E11,Chevrolet,Azul Claro
+Clara de Oliveira Pinto,FBE8B44,VW,Prata
+Yasmin Queiroz Mendonça,DDC4A10,Hyundai,Azul Claro
+Larissa de Medeiros dos Santos,FCB0B79,Chevrolet,Vermelho
+Vinícius Queiroz Rodrigues,FBF9D12,Chevrolet,Preto
+Yasmin Cristine Silva,CEA6A55,Hyundai,Cinza
+Gabriel Ferreira Pereira,ACE2A29,Honda,Azul Claro
+Pedro Fernandes Amancio,DCC7D35,Hyundai,Branco
+Daniel Paschoalino Rodrigues,DEE1A73,Honda,Preto
+Sofia Alves Campos,FFD3B32,Fiat,Azul Claro
+Felipe Queiroz Mendonça,DCF5A98,Hyundai,Branco
+João Fernandes Araujo,ABC8D75,Honda,Cinza
+Yasmin de Medeiros Dias,EFC5D74,Toyota,Cinza
+Mariana Queiroz Trindade,BDA8E87,Fiat,Preto
+Rafael Ferreira Silva,FBC9E38,Hyundai,Prata
+Miguel de Medeiros Campos,DDE4B26,VW,Preto
+Pedro de Oliveira Barbosa,ECA9D77,Toyota,Preto
+Victor de Almeida Mendes,BCC2A69,Hyundai,Azul Claro
+Matheus Queiroz Barbosa,DDA4E46,Hyundai,Branco
+Guilherme de Oliveira Lima,BCB6A66,VW,Cinza
+Pedro Franco Lopes,AEC7A20,Chevrolet,Azul Claro
+Pedro Braz Mendonça,EFB6B37,Honda,Branco
+Guilherme de Oliveira Domingues,CBF4A93,Chevrolet,Branco
+Samuel Queiroz Araujo,CCE0A97,Fiat,Vermelho
+Miguel de Oliveira Pinto,CFD2D39,Honda,Prata
+Giovanna Mesquita Amancio,BCA3B19,Fiat,Prata
+Mariana de Almeida da Costa,FFE6A11,Chevrolet,Azul Claro
+Guilherme Bellini Campos,ECF9B23,Fiat,Prata
+Clara de Medeiros Domingues,AAB6B48,Hyundai,Prata
+Maria Mesquita da Costa,DCF0C33,Hyundai,Preto
+Daniel Fernandes Camargo,FFD8C35,Hyundai,Cinza
+Clara Nascimento Sanches,FDF7C48,VW,Preto
+Pedro de Almeida Araujo,ACB1A54,Hyundai,Preto
+Erik da Silva Mendonça,FFD7C68,Honda,Branco
+Larissa Martins Ribeiro,BDE8B28,Toyota,Azul Claro
+André Ponciano Castilho,CCF0E41,Honda,Cinza
+Mariana Gomes Amancio,FCB4C96,Honda,Azul Claro
+Giovanna de Medeiros dos Santos,CCC7B42,Hyundai,Preto
+Mariana Santana Domingues,BAC1D12,Fiat,Preto
+Guilherme de Oliveira Campos,FBF1A78,Chevrolet,Vermelho
+Pedro Bellini Dias,BAB3A56,Honda,Cinza
+Clara Ponciano Soares,EFE2D57,Fiat,Prata
+Maria Bellini Rodrigues,DDF2D34,VW,Vermelho
+Eduardo de Oliveira Camargo,CCF5A45,Fiat,Prata
+Vitória da Silva Mendonça,CAB1A27,Toyota,Preto
+Pedro Cruz Sanches,FEF0C98,VW,Azul Claro
+Thiago Fernandes Athayde,DBF0B29,Fiat,Preto
+Miguel Gomes Rodrigues,ACB9E46,Honda,Cinza
+Gabriel Cruz Silva,AAA4A93,Hyundai,Cinza
+Maria Bellini Senzaki,FBF5D32,VW,Azul Claro
+Yasmin Martins Amaral,BFC3D74,Fiat,Vermelho
+Daniel Queiroz Mendes,FFD7A52,Honda,Cinza
+Mariana Mesquita Trindade,FAF7B72,VW,Branco
+Giovanna Franco dos Santos,FAC9C61,Chevrolet,Vermelho
+Maria Ferreira Araujo,BFB2B60,Toyota,Preto
+Giovanna Martins Lopes,DEF9E20,Toyota,Azul Claro
+Henrique Franco Silva,AEA8C24,Fiat,Branco
+Mariana Vieira Trindade,ABB4C56,Chevrolet,Branco
+Victor da Silva Sanches,BEB4C72,Fiat,Vermelho
+Henrique de Almeida da Costa,DBF5D44,Toyota,Azul Claro
+Larissa Cristine Castilho,DEF5E12,VW,Cinza
+Miguel Bellini Trindade,AFA4D47,Chevrolet,Vermelho
+Samuel Cristine Camargo,EDE3E95,Honda,Vermelho
+Matheus Franco Pinto,CBA7B97,Hyundai,Preto
+Thiago Alves Mengue,AAE7D46,Chevrolet,Vermelho
+Gabriel Mesquita Soares,EAC0D71,VW,Vermelho
+André Queiroz Sanches,BDA0E60,Honda,Vermelho
+Livia Nascimento Rodrigues,BEC9B60,VW,Cinza
+Victor de Oliveira Barbosa,EAE8A51,Chevrolet,Prata
+Giovanna da Silva Melo,ACF7A37,Fiat,Azul Claro
+Mariana Martins dos Santos,DDA1E25,Honda,Azul Claro
+Beatriz Cristine Amaral,CEE1C33,Fiat,Vermelho
+Clara Matos Silva,CED7D32,Chevrolet,Preto
+Beatriz Franco Mendonça,EDE8B27,Honda,Azul Claro
+Maria Fernandes Barbosa,BDB1D36,Fiat,Cinza
+Miguel de Almeida Amaral,CAA7B91,Hyundai,Preto
+Livia Cristine Pinto,CFE8D55,Chevrolet,Vermelho
+Miguel Queiroz Ribeiro,BFF4B49,Chevrolet,Cinza
+Henrique Bellini Athayde,EDD1D93,Fiat,Azul Claro
+Vitória Paschoalino Amancio,CEC1B94,Toyota,Azul Claro
+Pedro Bellini Lima,FBE1E39,Toyota,Prata
+Miguel Fernandes Soares,CAD1D89,Chevrolet,Prata
+Mariana Gomes Mendes,DEC8A93,VW,Vermelho
+Giovanna Paschoalino Campos,FCA5A56,Chevrolet,Branco
+Thiago Paschoalino Mendes,AAA1B75,Fiat,Cinza
+Gabriel da Silva Machado,CCD8C80,Chevrolet,Vermelho
+Matheus Santana Melo,BCC8A38,Toyota,Azul Claro
+Samuel Ponciano Trindade,AFB4A50,Honda,Azul Claro
+Samuel de Medeiros da Costa,EAF4B83,Chevrolet,Prata
+Felipe Martins Pereira,CFF0D86,Hyundai,Prata
+Eduardo Martins Dias,AAA7A80,Fiat,Preto
+Mariana Ponciano Mendonça,AAA1E59,VW,Azul Claro
+Victor Alves Barbosa,DDF1E29,Toyota,Cinza
+Vinícius Matos Melo,BBB8B80,Hyundai,Azul Claro
+Matheus Bellini Mendes,CBE2E50,Fiat,Cinza
+Gabriel Paschoalino Melo,BFD8D11,VW,Azul Claro
+Yasmin Cristine Senzaki,FDE6D19,Fiat,Cinza
+Vinícius Martins Pereira,BCC1A72,Chevrolet,Azul Claro
+Pedro Vieira Ribeiro,FAE9B23,VW,Vermelho
+Vitória Ponciano Mengue,CEF3D34,Hyundai,Vermelho
+Guilherme Gomes Araujo,AFA9D79,Hyundai,Branco
+Beatriz da Silva Castilho,CEE9E84,Chevrolet,Vermelho
+Rafael Gomes Barbosa,CDB8B66,Chevrolet,Cinza
+Guilherme Ferreira Campos,BFC8C89,Chevrolet,Branco
+Victor Alves Machado,BAD2E17,Hyundai,Preto
+Miguel Mesquita dos Santos,ADB0B79,Honda,Cinza
+Mariana Nascimento Pereira,EBA3A95,Toyota,Vermelho
+Vitória Braz Pinto,BFD6A37,Chevrolet,Preto
+Vitória Vieira Araujo,DBC5E56,Hyundai,Branco
+Gabriel Franco Trindade,AEF0E78,Fiat,Preto
+Eduardo Gomes Athayde,FDE1E62,Toyota,Cinza
+Larissa Franco Ribeiro,ADD3E87,Chevrolet,Cinza
+Pedro Cruz Barbosa,CCD0B46,Chevrolet,Prata
+Pedro da Silva Mendes,BBD1E55,Chevrolet,Azul Claro
+Gabriel Ponciano Athayde,DEB6B18,Chevrolet,Branco
+Mariana Vieira Rodrigues,BBE4C19,Chevrolet,Cinza
+Samuel da Silva Silva,AAB7E17,Honda,Cinza
+Pedro Fernandes Ribeiro,FEF1E65,VW,Preto
+Larissa Cruz Ribeiro,EDD9D66,Honda,Cinza
+Maria Alves Camargo,BED6E90,Honda,Azul Claro
+André Paschoalino Soares,FAB1E26,VW,Branco
+Sofia Braz Pereira,ACE2C24,Hyundai,Azul Claro
+Eduardo Cruz Ribeiro,BAD5B18,Hyundai,Vermelho
+Eduardo de Almeida Lima,AEF2A56,Honda,Azul Claro
+Vitória Bellini Ribeiro,EEB5B52,Chevrolet,Preto
+Daniel Gomes Campos,CCB3E60,Toyota,Prata
+Henrique Amorim Amancio,BDD0D29,Toyota,Preto
+Matheus Alves Soares,EDC2C62,Honda,Branco
+Samuel Cruz Pinto,FCC5A96,Fiat,Preto
+Larissa Paschoalino Trindade,FAC8A40,Hyundai,Branco
+Felipe Fernandes Domingues,AFD4B46,Honda,Preto
+Erik Martins Pereira,AAB1C49,Chevrolet,Azul Claro
+Vinícius Matos Amancio,EDE4C28,VW,Cinza
+Gabriel Alves Campos,CBE4D88,VW,Prata
+Victor Franco Amancio,BCD2C49,Toyota,Cinza
+Daniel Cristine Trindade,FEF9D42,VW,Vermelho
+Yasmin Matos Mendes,ECC8A11,Toyota,Cinza
+Sofia Cruz Pereira,DAC9B32,Fiat,Cinza
+Rafael Cristine Sanches,CEA5E12,Fiat,Branco
+Henrique Mesquita Mengue,BBA5B30,Fiat,Preto
+Samuel Cruz Ribeiro,EAD5C95,Honda,Preto
+Felipe de Almeida da Costa,BCD5D86,VW,Vermelho
+Guilherme Paschoalino Trindade,CDF8E87,Toyota,Azul Claro
+Matheus Martins Lopes,FDC8A95,Honda,Prata
+Beatriz Queiroz Camargo,BDA1B19,VW,Azul Claro
+Maria Cristine Pinto,FAD6B54,Hyundai,Azul Claro
+Mariana Braz Senzaki,ADF4A21,Hyundai,Preto
+Eduardo Queiroz Mendes,ABF1E12,Honda,Vermelho
+Livia Fernandes Pereira,EFB4C26,VW,Azul Claro
+Vitória Matos Soares,FCA4C84,Fiat,Branco
+Daniel Cruz Athayde,CED0B69,Honda,Vermelho
+Gabriel Cristine Athayde,BEB4C10,Toyota,Vermelho
+Maria da Silva Barbosa,EFE5A24,Chevrolet,Cinza
+Clara Queiroz Lima,AEF7A27,Fiat,Cinza
+João Santana Araujo,EEA2A80,Chevrolet,Preto
+Miguel Bellini Trindade,FEC9D66,VW,Vermelho
+Rafael Cruz Trindade,BDF1E38,Fiat,Prata
+João Gomes Pereira,CAE0C52,Honda,Cinza
+Sofia Vieira Camargo,AFE9D20,Toyota,Prata
+Felipe Alves Melo,DFA7E89,VW,Vermelho
+Felipe Queiroz Pinto,DBE5E67,Chevrolet,Prata
+Maria Paschoalino Senzaki,CDB5A38,VW,Cinza
+Gabriel Ferreira Soares,CEB7D47,Honda,Branco
+Erik de Almeida Mendonça,DAD9A25,Fiat,Azul Claro
+Clara Bellini Campos,DAD0E62,Fiat,Cinza
+Beatriz Santana Athayde,ECA0A56,Honda,Azul Claro
+Thiago Queiroz Camargo,FAE1D20,Toyota,Preto
+Eduardo Alves Rodrigues,DFF8D44,Fiat,Branco
+Vitória Fernandes Rodrigues,DFA5E29,VW,Prata
+Giovanna de Medeiros Silva,BCE6D63,Hyundai,Preto
+Felipe Amorim Araujo,FCB0A51,Chevrolet,Vermelho
+André Matos Pinto,DDB8B30,Chevrolet,Preto
+Pedro Braz Trindade,FEA5B17,VW,Cinza
+Sofia Ferreira Melo,ACB0B61,Fiat,Azul Claro
+Giovanna Franco Amaral,EFF4D96,VW,Prata
+Sofia Queiroz Barbosa,FCE3B56,Toyota,Azul Claro
+Pedro de Medeiros Silva,AAD6E15,Hyundai,Prata
+Maria Fernandes da Costa,BDF2C51,VW,Azul Claro
+Clara Braz Mendonça,BFA6D67,Honda,Preto
+Giovanna Gomes Amancio,EEF5B74,Chevrolet,Azul Claro
+João Fernandes Machado,BAD3A34,Hyundai,Branco
+Daniel Fernandes Lopes,FBD2C80,Fiat,Cinza
+André Santana Melo,ECF6A49,Toyota,Preto
+Vitória Fernandes Lima,CAB6A50,Toyota,Cinza
+Guilherme Cristine Pinto,CDC7E59,Chevrolet,Azul Claro
+Guilherme Santana Trindade,AAC8D21,Chevrolet,Branco
+Rafael Ponciano Mengue,EBA6B94,Toyota,Cinza
+Guilherme Braz Senzaki,ABE0D48,Hyundai,Azul Claro
+Yasmin Cristine dos Santos,DDC3A22,Chevrolet,Azul Claro
+Mariana Paschoalino Mendonça,ACE5C86,Fiat,Prata
+Pedro Alves Mendonça,ABD7E21,Fiat,Azul Claro
+Thiago Ferreira Barbosa,CAA8D16,Hyundai,Azul Claro
+Livia Bellini Amancio,DEA5D78,Toyota,Vermelho
+Livia Gomes Pereira,FCA0A24,Hyundai,Cinza
+Larissa de Almeida Amaral,DCA4C89,VW,Azul Claro
+Erik de Medeiros Pereira,EFD2A92,Fiat,Preto
+Yasmin Ferreira Amaral,ADD3A79,Toyota,Prata
+Pedro Amorim Lopes,CBF9A94,Toyota,Prata
+Pedro Franco Domingues,EAD1B83,Fiat,Cinza
+André Ponciano Silva,DCF2E79,Toyota,Vermelho
+Matheus Mesquita dos Santos,EFD3E41,Honda,Cinza
+Matheus Braz Lima,EFA0C89,Hyundai,Cinza
+Miguel Ponciano Senzaki,BBF2D67,Hyundai,Azul Claro
+Mariana Martins Trindade,BFF9D76,VW,Preto
+Samuel Santana Amaral,CAF9D64,Fiat,Azul Claro
+Sofia Santana Rodrigues,EFB7D20,Chevrolet,Branco
+Gabriel Paschoalino Athayde,EBE4E87,Chevrolet,Vermelho
+Felipe Matos Silva,DED6D98,Fiat,Preto
+João de Almeida Castilho,CED5D40,Hyundai,Prata
+Livia Vieira Silva,EFB8D73,Honda,Vermelho
+Vinícius Cristine Silva,DBA0C11,Chevrolet,Branco
+Eduardo de Oliveira Silva,EBE2A24,Hyundai,Prata
+Livia Ferreira Castilho,EDF8B73,Fiat,Branco
+Samuel Ponciano Domingues,CEF2C74,VW,Cinza
+Daniel Queiroz Araujo,AAD2A97,VW,Branco
+Miguel Vieira Campos,EBF1B20,Toyota,Branco
+Miguel Bellini Sanches,EEB2A36,VW,Vermelho
+Vitória Franco Soares,CAE9D77,Chevrolet,Vermelho
+Vinícius Vieira Camargo,ACF3E97,VW,Cinza
+Yasmin de Oliveira Silva,BBB0C14,Chevrolet,Cinza
+Matheus Gomes Amaral,BDF0E10,Hyundai,Preto
+Thiago Matos Castilho,DCA4E75,VW,Vermelho
+Victor Gomes Soares,AEF0A69,Hyundai,Preto
+Larissa de Almeida Ribeiro,FAB2E98,Hyundai,Cinza
+Beatriz Martins Camargo,DEC1B46,Toyota,Vermelho
+Henrique Cristine Amancio,DCF0D30,Toyota,Azul Claro
+Erik Fernandes Sanches,EAF5E87,Hyundai,Preto
+Giovanna Braz Melo,DBC1A51,Hyundai,Azul Claro
+Yasmin de Medeiros Trindade,ACB9E76,VW,Prata
+Vinícius de Medeiros Amaral,EEB6A39,Toyota,Vermelho
+Daniel Martins Athayde,DDB6E98,Fiat,Prata
+Felipe Cruz Athayde,AFA2C13,VW,Cinza
+Victor Mesquita Lopes,FDB0C59,Fiat,Branco
+Mariana Nascimento Melo,EFC9A29,VW,Vermelho
+Felipe Alves Melo,ABB9A10,Honda,Branco
+Sofia de Medeiros Mengue,AEE8A80,Toyota,Preto
+Giovanna Santana Araujo,CDE7D71,Toyota,Azul Claro
+André Martins Ribeiro,ECA3C15,Fiat,Azul Claro
+Guilherme Martins Mendes,ACB2A24,Toyota,Azul Claro
+Pedro Ponciano Castilho,CDD5B70,Toyota,Prata
+Miguel Alves Trindade,DAE3A40,Chevrolet,Prata
+Victor Mesquita Castilho,CAB9E86,Fiat,Branco
+Giovanna Gomes Machado,ADF7D39,Honda,Preto
+Livia Vieira Camargo,EEE3D89,Fiat,Preto
+Livia Bellini Ribeiro,BDA6E91,Fiat,Prata
+João Cruz Amaral,FDC8B91,Toyota,Azul Claro
+Pedro Nascimento Campos,FFD7D90,VW,Preto
+Henrique Braz Soares,CFD5B52,Honda,Preto
+Matheus Ponciano Barbosa,BCB0B61,Chevrolet,Prata
+Vitória de Medeiros Lima,EAE4E95,Fiat,Vermelho
+Guilherme Ferreira Amaral,DCF8B55,Chevrolet,Prata
+Vinícius Braz Machado,EBA7B79,Honda,Cinza
+Sofia Martins Castilho,ACE4D63,Chevrolet,Azul Claro
+Guilherme Queiroz Amancio,EAC2B24,Fiat,Cinza
+Vinícius Amorim Trindade,DFA9A65,VW,Branco
+Gabriel Paschoalino Mengue,BBD7C18,Toyota,Branco
+Gabriel Queiroz Sanches,DEA8A85,Honda,Preto
+Mariana Alves Domingues,CFC5A75,Chevrolet,Prata
+Victor Alves Amancio,CCC0C32,Hyundai,Vermelho
+Sofia Mesquita Soares,AEA1D52,Honda,Vermelho
+Henrique Alves Rodrigues,BFD0C69,VW,Prata
+Henrique Cristine Lima,BBF6C78,VW,Branco
+Pedro Mesquita Amancio,CCE1E71,Hyundai,Vermelho
+Sofia Gomes Domingues,AFF5E13,Fiat,Azul Claro
+Eduardo Alves Barbosa,BBF1D83,Toyota,Azul Claro
+Guilherme Franco Pinto,FCE4E99,VW,Prata
+Gabriel de Medeiros Soares,DEB2C32,Toyota,Branco
+Guilherme Paschoalino Pereira,DFC9D22,Hyundai,Cinza
+Pedro de Almeida Machado,BEC2C41,Hyundai,Prata
+Vinícius Cruz Campos,CEA7D97,Toyota,Prata
+Eduardo Braz Amancio,BEE7C45,Hyundai,Azul Claro
+Miguel Santana Barbosa,FFD4B46,Toyota,Cinza
+Henrique Paschoalino Senzaki,AFE6B51,Honda,Azul Claro
+Gabriel Mesquita Araujo,AAB0B54,VW,Vermelho
+Pedro Bellini Amaral,BBB3A43,Chevrolet,Prata
+Eduardo Santana Senzaki,DDA6D99,Honda,Prata
+Sofia Santana Mendonça,AFD6B15,Fiat,Branco
+Vinícius Ferreira Amaral,BCA1C28,VW,Branco
+Giovanna Cruz Trindade,BBE9E58,Hyundai,Branco
+Gabriel Alves Campos,BEE2E30,Honda,Cinza
+Samuel Braz Soares,FFF7D64,Toyota,Branco
+Mariana Bellini Araujo,FCA7A99,Honda,Vermelho
+Guilherme Ponciano da Costa,FDF2D96,Hyundai,Azul Claro
+Yasmin Vieira Amancio,DAB9A52,Honda,Prata
+Vinícius Vieira Lopes,CEC5E77,Chevrolet,Prata
+Vitória Nascimento Trindade,DEA2E25,Toyota,Cinza
+Henrique Ponciano Castilho,BAC1D69,Hyundai,Branco
+Sofia Mesquita Camargo,ABA3C58,Hyundai,Vermelho
+Pedro Vieira Lopes,FCA9C17,Chevrolet,Azul Claro
+Guilherme Vieira Pereira,DFE0E98,Chevrolet,Cinza
+Rafael Bellini Lima,EBD2B12,Fiat,Branco
+Larissa Alves Silva,DAE4E60,Toyota,Prata
+Pedro Gomes da Costa,ECE7D63,Honda,Prata
+Gabriel Cristine Pereira,ADE8C42,Fiat,Branco
+Henrique Nascimento Araujo,CCE3E93,Hyundai,Branco
+Larissa de Almeida Machado,DCC7A77,Toyota,Prata
+Beatriz Mesquita Domingues,BEC9A53,Toyota,Prata
+Miguel de Almeida Camargo,CAE2D52,Toyota,Branco
+Clara Matos Barbosa,CFB8C58,Toyota,Branco
+André Mesquita Domingues,CDC7B31,Fiat,Branco
+Samuel da Silva Athayde,BCE4C19,Honda,Prata
+Gabriel Cruz Castilho,AAA0C72,VW,Branco
+Samuel Queiroz Trindade,EAA1A42,Honda,Vermelho
+Miguel Gomes Amancio,ABB1C32,Toyota,Prata
+Victor de Medeiros Ribeiro,AEF3D36,Chevrolet,Branco
+Eduardo Santana Melo,BFC9B60,Honda,Prata
+Vitória Fernandes Trindade,DBF0A38,Fiat,Cinza
+Matheus de Almeida Lopes,BFD7C25,Toyota,Azul Claro
+Livia Ferreira Mengue,BBE7E93,Chevrolet,Vermelho
+Yasmin Ferreira Trindade,CCF3E19,Toyota,Prata
+Rafael Alves Camargo,AEA3E20,Honda,Preto
+Vinícius Cruz Amancio,AFA9C75,Honda,Cinza
+Livia Martins Domingues,DDE5C30,Toyota,Prata
+João Gomes Machado,EAB8B15,Fiat,Azul Claro
+Pedro Ponciano Mendonça,ECB4A35,VW,Preto
+Matheus Braz Ribeiro,AEE2E67,VW,Azul Claro
+Sofia Ferreira Dias,DFF4A49,Chevrolet,Branco
+Matheus Matos Athayde,FBA2B20,Hyundai,Prata
+Thiago Franco Mengue,BBF7A18,Hyundai,Azul Claro
+André Vieira Mendes,AFC1B53,Honda,Vermelho
+Mariana de Medeiros Lima,DAA6B93,Fiat,Vermelho
+Matheus Cruz Mendonça,DCF2E33,Chevrolet,Azul Claro
+Miguel Amorim Silva,AFF1B57,VW,Preto
+Maria de Medeiros dos Santos,FDF4C80,Fiat,Preto
+Erik Martins Silva,FBC8E33,Chevrolet,Vermelho
+Livia Cristine Campos,BBF7D71,Hyundai,Cinza
+João Matos Soares,EFB7A60,VW,Preto
+Maria Nascimento Soares,EDA5A41,Chevrolet,Azul Claro
+Victor Bellini da Costa,CCE5E13,Chevrolet,Vermelho
+Daniel Bellini Dias,BCB3E95,Toyota,Azul Claro
+Erik Braz Mendes,BBC2A97,Chevrolet,Cinza
+Mariana Bellini Machado,CCB5A21,Chevrolet,Branco
+André da Silva Camargo,BFC4A41,Fiat,Prata
+João Braz dos Santos,ADB0E85,Fiat,Branco
+Clara de Medeiros Lima,DEA2E64,Fiat,Azul Claro
+Vinícius Mesquita Campos,FBB2E64,Toyota,Azul Claro
+Pedro Queiroz Senzaki,AFD5B86,Fiat,Cinza
+Erik da Silva Mendes,FFD7B75,Honda,Prata
+Larissa Ponciano dos Santos,DFD5E49,VW,Branco
+Vinícius Fernandes Sanches,CBB9E12,Honda,Prata
+Clara de Medeiros Mendes,DFC1D38,Toyota,Vermelho
+Henrique Ferreira Mengue,FFD5B17,VW,Branco
+Erik Franco da Costa,ABB5E74,Honda,Cinza
+Sofia Ponciano Soares,EED2E47,Hyundai,Preto
+Eduardo Ponciano Mendonça,CCC0A84,Honda,Prata
+Daniel Alves Athayde,CBF8E38,Toyota,Preto
+Vinícius de Medeiros Sanches,ADA2C13,Chevrolet,Cinza
+Beatriz Alves Senzaki,EAB2A81,VW,Preto
+Vinícius Franco Trindade,EAD9E69,Hyundai,Cinza
+Giovanna Vieira Silva,DDB8A96,Chevrolet,Branco
+Livia Vieira Mendes,DCD8D44,Fiat,Azul Claro
+Larissa Amorim Amancio,BDB9A59,VW,Preto
+Mariana Queiroz Castilho,DBA9B69,VW,Branco
+Erik Nascimento Soares,BBF9A51,Chevrolet,Branco
+João Ferreira Camargo,BBA3C91,Toyota,Vermelho
+Yasmin Vieira Soares,BBE4C38,Honda,Vermelho
+Giovanna Santana Sanches,DCF9B87,Toyota,Cinza
+Mariana de Oliveira Camargo,AEF2A27,Toyota,Cinza
+Samuel Bellini Rodrigues,DBC6B49,Fiat,Branco
+Miguel Franco Campos,DCA4B86,Toyota,Preto
+Beatriz de Almeida Araujo,BBE8B21,VW,Preto
+Mariana Alves Ribeiro,CDD9B17,Honda,Branco
+Clara Santana Lima,BDD7A52,Hyundai,Prata
+Beatriz Cristine Dias,ECB3A91,Honda,Branco
+Matheus Bellini Silva,DAF4B90,Hyundai,Cinza
+Guilherme Nascimento Barbosa,EED8A14,Chevrolet,Cinza
+Rafael Queiroz Castilho,CCD5D36,Fiat,Preto
+Miguel Santana dos Santos,BDA3D64,Chevrolet,Preto
+Pedro Cristine Domingues,AAC8E18,Fiat,Prata
+Giovanna Paschoalino Pinto,DFA2D94,Fiat,Branco
+Larissa Matos Silva,ECD2E75,Fiat,Vermelho
+João Franco Sanches,AEE1D93,Hyundai,Vermelho
+Larissa Amorim Mendonça,CEF5E27,Hyundai,Prata
+Maria de Medeiros Castilho,BEE8B89,Hyundai,Preto
+Maria Amorim Mendonça,ECB7D88,Fiat,Prata
+Thiago Gomes Castilho,BAA1B47,VW,Vermelho
+Vitória Mesquita Castilho,CEF8A29,Fiat,Vermelho
+Miguel de Medeiros Soares,ADE0E14,Chevrolet,Branco
+Felipe Fernandes Pereira,CAF9A13,Chevrolet,Vermelho
+Daniel de Almeida Melo,DAA4C80,Fiat,Azul Claro
+Mariana Franco Amancio,CEA1C73,Toyota,Preto
+Larissa Vieira Araujo,EFF1A63,Honda,Cinza
+Rafael Martins Pereira,BCC4E54,Toyota,Preto
+Mariana Ponciano Camargo,CEC9A45,Hyundai,Vermelho
+André Paschoalino Machado,DCC6E15,Chevrolet,Branco
+Pedro Franco Mengue,CCA5B16,Toyota,Branco
+Giovanna Santana Silva,FDB0B18,Fiat,Azul Claro
+Thiago de Oliveira Domingues,EBF4B89,Honda,Azul Claro
+Guilherme Nascimento Amancio,DEB0C76,Chevrolet,Vermelho
+Victor de Almeida Pinto,DFD7D52,Fiat,Vermelho
+Henrique Matos Athayde,AAF0E40,VW,Vermelho
+Thiago da Silva Lima,EDE2E36,Chevrolet,Azul Claro
+Mariana Braz da Costa,ECD0D79,Honda,Cinza
+Giovanna Ponciano Amancio,EEC7D68,Toyota,Vermelho
+Larissa Fernandes Pereira,BCE8A91,Chevrolet,Cinza
+Miguel Franco Campos,BCC7B92,Hyundai,Branco
+Rafael Queiroz dos Santos,FCC0D39,Honda,Preto
+Pedro Paschoalino Campos,BAB2C33,Chevrolet,Vermelho
+Felipe Paschoalino Amaral,FDE9A95,Honda,Vermelho
+Larissa Gomes Athayde,DDD0B63,Fiat,Vermelho
+Yasmin Nascimento Lopes,DBA0D90,Chevrolet,Preto
+Clara Braz Athayde,CBE5E20,Honda,Cinza
+Vinícius Gomes Machado,CEC6D20,VW,Vermelho
+Henrique Amorim Amancio,FAF7B11,Hyundai,Vermelho
+Daniel Paschoalino Amancio,ADC0D92,Fiat,Branco
+Samuel Vieira Barbosa,AEA0D96,Honda,Branco
+Henrique Fernandes Rodrigues,EBD1B90,Hyundai,Vermelho
+Erik Matos Lima,FDF8A93,Fiat,Vermelho
+Clara Vieira Camargo,ACB3B64,Honda,Cinza
+Eduardo Mesquita Mendonça,CCE9C72,Fiat,Branco
+João de Almeida Athayde,FBE2C94,Hyundai,Azul Claro
+Mariana Bellini Lima,AEC8E98,Fiat,Prata
+Thiago Alves Machado,FBF5D83,Honda,Azul Claro
+Giovanna Amorim Pereira,FEB7E30,Chevrolet,Vermelho
+Rafael de Almeida Melo,EDE2C24,Hyundai,Prata
+Sofia Franco Amaral,FBB8D42,VW,Azul Claro
+Sofia Cruz Silva,ECB7A50,VW,Prata
+Rafael Mesquita Camargo,ABC8B11,Toyota,Branco
+Clara Martins Mengue,DEB5E70,Fiat,Vermelho
+Eduardo Matos Pinto,CFB8A52,VW,Preto
+Thiago de Medeiros Athayde,EDF9E52,Chevrolet,Preto
+Erik de Medeiros dos Santos,BCD4C15,VW,Branco
+Miguel Ponciano Amancio,AED3A69,Fiat,Preto
+Guilherme de Oliveira Athayde,BAD9B30,Honda,Prata
+Vinícius Cruz Pereira,BFA6C15,VW,Prata
+Daniel Cristine Araujo,CCF1E78,Toyota,Preto
+Larissa de Oliveira Silva,EBC5B98,Chevrolet,Azul Claro
+Sofia de Medeiros Lima,FCC1C41,Chevrolet,Azul Claro
+Erik Vieira Dias,FCC4A40,VW,Vermelho
+Sofia Nascimento Pinto,BCE9E54,Honda,Vermelho
+Miguel Martins Amaral,CFE4A61,Honda,Azul Claro
+Livia Vieira Campos,BCE1B56,Hyundai,Vermelho
+Gabriel Matos Mendonça,DAF0C28,VW,Vermelho
+Livia Fernandes Castilho,BFB7B90,Fiat,Prata
+Miguel de Medeiros Silva,CDC8E77,Toyota,Preto
+Sofia Franco Amaral,AAE3C60,Chevrolet,Cinza
+Mariana Mesquita Pinto,FBA1C66,VW,Branco
+Erik Santana Silva,FEC7C34,VW,Azul Claro
+Vinícius de Medeiros Pinto,DDC3C93,Hyundai,Preto
+Gabriel Nascimento Dias,EDD9E40,Honda,Prata
+Erik Ponciano Camargo,EBB4E40,Fiat,Preto
+Mariana da Silva Campos,FBC0D99,Honda,Cinza
+Eduardo Cruz Dias,FAB4E25,VW,Cinza
+Vitória Vieira Sanches,EAC3D62,Hyundai,Branco
+Gabriel Cristine dos Santos,FFE1C77,Chevrolet,Preto
+Vitória Gomes Araujo,CFD7A46,Honda,Branco
+Mariana Cruz Melo,BBD2C97,Honda,Branco
+Matheus Mesquita Athayde,FEC0E28,VW,Vermelho
+Eduardo Mesquita Dias,CFB6E44,VW,Branco
+Vitória Ponciano Soares,CDE8C83,VW,Branco
+Yasmin Matos Castilho,DAB8B24,Chevrolet,Vermelho
+Vitória Cristine Araujo,BBD5A16,Chevrolet,Preto
+Vitória Cruz Mendonça,FCA4B68,Fiat,Preto
+Daniel de Medeiros da Costa,ACB0B43,VW,Prata
+Larissa Matos Sanches,ABB1B69,Chevrolet,Branco
+Erik da Silva Pereira,ECB1E15,Fiat,Vermelho
+Miguel Cruz Ribeiro,FAD3A15,Honda,Azul Claro
+Sofia de Medeiros Machado,DCA0B54,Chevrolet,Prata
+Livia Franco Araujo,ABB9E28,Honda,Azul Claro
+Pedro Ponciano dos Santos,DFC9B33,Toyota,Branco
+Sofia Martins dos Santos,CFB7E89,Toyota,Preto
+Maria Fernandes Camargo,ADF3E97,Fiat,Vermelho
+Miguel Vieira Senzaki,FDD8A60,Chevrolet,Preto
+Samuel Ferreira Machado,BCE3E54,Chevrolet,Vermelho
+Vitória Vieira Pereira,DAF5D47,Honda,Prata
+Henrique Queiroz Barbosa,CDD4E13,Hyundai,Preto
+Miguel Vieira Ribeiro,FEF7A81,Toyota,Vermelho
+Eduardo Santana Barbosa,FAB4B20,Toyota,Branco
+Mariana Vieira Trindade,FCB6B73,Toyota,Azul Claro
+Yasmin Paschoalino Dias,DCE0C16,Toyota,Branco
+Vinícius Alves dos Santos,CAE0D68,Honda,Branco
+Vinícius Ponciano Senzaki,FAC0A47,Chevrolet,Preto
+Giovanna Ponciano Sanches,ABB6E81,Honda,Azul Claro
+Samuel Nascimento Campos,BCF4A68,Honda,Preto
+Thiago Queiroz Pinto,DFD5B32,Fiat,Azul Claro
+Sofia Cristine Pinto,BCC4D32,Hyundai,Azul Claro
+Matheus Fernandes Rodrigues,AEE9C41,Hyundai,Cinza
+Daniel Bellini Trindade,ADB9C55,Fiat,Azul Claro
+Giovanna Braz Melo,ABE7C68,Fiat,Branco
+Vinícius Matos Domingues,BCE5D43,VW,Cinza
+Yasmin Matos Araujo,DCF9B47,Hyundai,Branco
+Beatriz Ferreira Campos,ABB1A96,Toyota,Cinza
+João Bellini da Costa,DAB3B62,Chevrolet,Preto
+Giovanna Cruz Lima,EAE3B67,Hyundai,Branco
+Felipe de Oliveira Mendes,EBD6E57,Toyota,Branco
+Guilherme Franco Mendonça,ECA7E88,VW,Azul Claro
+Miguel Ponciano Ribeiro,BCD1C84,VW,Branco
+Clara de Oliveira Castilho,ADE4E34,Toyota,Azul Claro
+Henrique Alves Mendonça,ACA9C18,VW,Branco
+Pedro Franco Araujo,ACC4B62,Chevrolet,Vermelho
+Henrique Mesquita Pinto,ACF1E94,Fiat,Cinza
+Samuel Queiroz Campos,CFE7B65,Toyota,Azul Claro
+Daniel Franco Lima,EEB7C90,Hyundai,Azul Claro
+Rafael Santana Camargo,AFB9B94,Fiat,Preto
+Livia Cristine Domingues,EAF2D70,Toyota,Cinza
+Thiago Vieira Araujo,CBA8A60,VW,Branco
+Eduardo Queiroz Castilho,AAC8C52,Chevrolet,Prata
+Vitória de Medeiros Trindade,CAE2A10,Hyundai,Preto
+Beatriz Gomes Athayde,CBC0E37,Fiat,Vermelho
+Livia Gomes Machado,BFC6B96,VW,Preto
+Vitória Franco Pereira,DCC1E33,VW,Vermelho
+Henrique Fernandes Amaral,ADC3D48,Toyota,Azul Claro
+Thiago Amorim Pereira,CFF2A81,Toyota,Vermelho
+Henrique Vieira Senzaki,CDC3B46,Toyota,Preto
+Miguel Braz Campos,ADB0B89,Chevrolet,Prata
+Livia da Silva Amaral,BCF7A49,Hyundai,Preto
+Mariana Alves Amaral,ACA1A70,Honda,Vermelho
+Pedro Ferreira Dias,CBA1D99,Hyundai,Branco
+Daniel Martins Melo,EFA5E35,Chevrolet,Azul Claro
+Giovanna Queiroz Rodrigues,EDD8C54,Fiat,Prata
+Vinícius Queiroz da Costa,EBC2B53,VW,Cinza
+Livia Franco Camargo,FCE9A85,Toyota,Preto
+Beatriz Braz da Costa,CCF8B25,Toyota,Prata
+João Nascimento Silva,AFE1E54,Hyundai,Cinza
+Samuel Ponciano Melo,DAE4B98,Toyota,Vermelho
+Felipe Franco Pereira,FCD9A98,Fiat,Preto
+Clara Fernandes Mendonça,FDC2A98,Fiat,Cinza
+Beatriz Queiroz Camargo,FFB3E83,Toyota,Branco
+Vitória Cristine Sanches,AAF0D64,Hyundai,Cinza
+João Fernandes Athayde,AFF9D83,Chevrolet,Cinza
+Gabriel Cristine Mendes,FCB5D81,VW,Branco
+Vinícius Cristine Soares,DAA3A27,Chevrolet,Preto
+Matheus Braz Trindade,AAB5D59,Chevrolet,Branco
+Miguel de Medeiros Camargo,BDE7A10,Toyota,Branco
+Felipe Cristine Silva,ADC4E42,Hyundai,Preto
+Sofia Matos Camargo,EEE0B14,Hyundai,Preto
+Miguel Cristine Lopes,BCD9C58,Hyundai,Vermelho
+Victor Bellini Barbosa,DBF6C78,Honda,Branco
+Daniel Gomes Mendonça,FED9E47,Toyota,Azul Claro
+Yasmin Mesquita Sanches,BDA5B80,Hyundai,Azul Claro
+Henrique de Medeiros Athayde,CAC6C42,Toyota,Vermelho
+Victor Paschoalino Amaral,DDE7E37,Chevrolet,Vermelho
+Clara Gomes Mengue,AAE9A65,Toyota,Prata
+Mariana Matos da Costa,BBF7E68,VW,Azul Claro
+Clara Gomes Pereira,AEF2A91,VW,Branco
+Gabriel Cristine Lopes,DDA7D43,Hyundai,Cinza
+Maria Ponciano Amancio,DBB0B63,Toyota,Branco
+Guilherme Santana Camargo,BEC0C39,Honda,Preto
+João Nascimento Machado,DDC6A96,Toyota,Azul Claro
+Sofia de Oliveira Domingues,FAB9A60,Fiat,Branco
+Beatriz da Silva Trindade,EBC1D23,Hyundai,Branco
+Gabriel Queiroz Rodrigues,BEA7E65,VW,Preto
+Vitória Cruz Amaral,DEE5E66,Hyundai,Cinza
+Daniel Vieira Ribeiro,CEA4E76,VW,Prata
+Miguel Matos Campos,FBF2E10,Fiat,Branco
+Yasmin da Silva da Costa,DAB8A43,Hyundai,Vermelho
+Livia Matos Pinto,DDF2E33,Hyundai,Cinza
+Yasmin Mesquita Senzaki,BCB8D61,VW,Vermelho
+Miguel da Silva Soares,FFA4E11,Hyundai,Cinza
+Erik Santana Machado,DBB4B83,Chevrolet,Preto
+João de Medeiros Barbosa,BDB0A64,Chevrolet,Preto
+Felipe Nascimento Camargo,CBD6D92,Chevrolet,Branco
+Vinícius Amorim Machado,FBE2B26,Toyota,Cinza
+Vinícius Fernandes Amancio,CAC6A57,Honda,Preto
+Livia Vieira Lopes,AAF8E22,Toyota,Vermelho
+Samuel Vieira Campos,BDD8A99,Toyota,Vermelho
+Yasmin Martins Athayde,ADD5D48,Toyota,Cinza
+Livia Amorim Pereira,ADB6B75,Toyota,Vermelho
+Erik Cristine Trindade,DEC4B30,Chevrolet,Prata
+Vitória Nascimento da Costa,EFE1D27,Chevrolet,Preto
+Beatriz Gomes Lopes,DFE2B96,Chevrolet,Prata
+Gabriel de Oliveira Senzaki,BFD7B44,Toyota,Cinza
+Samuel Ferreira Amancio,EEE0E32,Chevrolet,Cinza
+Daniel Mesquita Rodrigues,EDF1B70,Chevrolet,Prata
+Felipe Mesquita Rodrigues,BED4B67,Fiat,Prata
+Beatriz Cristine Sanches,AEC4B41,Honda,Preto
+Livia Franco Machado,EBE0D79,Honda,Azul Claro
+Clara Amorim Dias,CBF7A94,Honda,Azul Claro
+Felipe Fernandes Camargo,CBE1A59,Honda,Prata
+Maria de Medeiros Mengue,AEA9E81,VW,Preto
+Giovanna Alves Amaral,BAF5D80,VW,Azul Claro
+Henrique de Medeiros Lopes,BFB5D38,Honda,Cinza
+Mariana Mesquita Campos,BAE9C55,Toyota,Preto
+Clara Mesquita Athayde,CAC4A88,Chevrolet,Branco
+Mariana Franco da Costa,CBF1A34,Hyundai,Prata
+Matheus da Silva Campos,CAD3C99,Hyundai,Preto
+Matheus Paschoalino Amancio,FED4D31,Toyota,Azul Claro
+Felipe de Almeida Melo,DDF3E73,Honda,Prata
+João Vieira Rodrigues,EBF3E29,Toyota,Prata
+Daniel Mesquita Mengue,CDA3D27,Chevrolet,Azul Claro
+Erik Franco Silva,EDE7E92,Chevrolet,Vermelho
+Maria Mesquita Lopes,BFA8C23,Hyundai,Vermelho
+João Santana Araujo,FAC8E92,Chevrolet,Prata
+André Cruz Araujo,BBC2A27,Chevrolet,Cinza
+Gabriel Vieira Domingues,CAE8B23,Honda,Azul Claro
+Sofia Nascimento dos Santos,BBC6E82,Chevrolet,Vermelho
+Yasmin Matos Pereira,DBB5D42,Toyota,Vermelho
+Henrique Amorim Mendonça,EAF1E91,Chevrolet,Prata
+Larissa Bellini Mendes,DCC5B99,Fiat,Branco
+Yasmin de Medeiros Camargo,EEB3E34,Toyota,Preto
+Thiago Amorim Amaral,FBE4D52,Hyundai,Cinza
+Yasmin Matos Amancio,ECB1C57,Honda,Cinza
+Erik de Medeiros Rodrigues,CAE6A94,Honda,Preto
+Thiago Franco Castilho,CDA9C59,VW,Azul Claro
+Larissa de Medeiros Silva,FBF1C42,VW,Azul Claro
+Vitória Matos Melo,AAA5B52,Fiat,Azul Claro
+Erik Paschoalino Campos,BAF3A13,Chevrolet,Azul Claro
+Yasmin Queiroz da Costa,EAA0A49,Toyota,Prata
+Mariana Paschoalino Amaral,ADC3B95,Hyundai,Preto
+Maria Martins Campos,EFC8D73,VW,Prata
+Victor Martins Trindade,BAA2B49,VW,Prata
+Eduardo de Medeiros Soares,ECE8B43,Toyota,Vermelho
+Henrique de Almeida Campos,DEE8B79,Toyota,Branco
+Thiago Braz Rodrigues,DFF1D30,VW,Preto
+Sofia Nascimento Sanches,EED5B63,Hyundai,Prata
+Yasmin Fernandes Rodrigues,FAE2E22,Honda,Prata
+Thiago Cristine Araujo,FDE3D99,Chevrolet,Prata
+Beatriz de Oliveira Senzaki,EAF7C13,Hyundai,Branco
+Daniel Paschoalino Pinto,EEA8E59,VW,Prata
+João Mesquita Castilho,CEC7B76,Fiat,Branco
+Clara Matos Trindade,EBA5A71,Chevrolet,Vermelho
+Vitória Fernandes Mengue,CDB2A68,Fiat,Prata
+Maria de Almeida Soares,BEF9B15,Fiat,Branco
+André Ferreira Athayde,DFF5E59,VW,Cinza
+Clara Franco Athayde,DCD4B93,Fiat,Vermelho
+Maria Alves Ribeiro,FDF0B98,Chevrolet,Azul Claro
+Maria de Oliveira Barbosa,AAB4D55,Fiat,Prata
+Gabriel Amorim Amancio,FBD2C71,Fiat,Vermelho
+João Matos Dias,ABB1B42,Hyundai,Azul Claro
+Giovanna Santana Amaral,CFE6E16,Chevrolet,Prata
+Livia Martins Rodrigues,BCE2C44,VW,Cinza
+Matheus Santana Mendonça,EEA9E92,VW,Branco
+Felipe Amorim Mendes,BCA1E13,Hyundai,Branco
+Henrique Matos Machado,FFA2D28,Hyundai,Prata
+Eduardo Ferreira dos Santos,FBA3E57,Chevrolet,Vermelho
+Felipe Bellini Araujo,FBC1D33,Honda,Branco
+Felipe Vieira Mendonça,FEF8E31,VW,Azul Claro
+Rafael Mesquita Mengue,CEF2A96,Fiat,Cinza
+Larissa Mesquita Ribeiro,BDB6E86,Hyundai,Cinza
+Livia Amorim da Costa,FBD2B62,Chevrolet,Prata
+Erik Mesquita Senzaki,CBE5A46,Chevrolet,Vermelho
+André Ponciano Araujo,FEC7C42,VW,Vermelho
+Larissa Fernandes Senzaki,AFE7D95,Hyundai,Cinza
+Eduardo Ferreira Soares,DBE5E24,Chevrolet,Preto
+Clara de Almeida Mendonça,FFB6C17,VW,Branco
+Matheus Braz Melo,ACE7A81,Fiat,Preto
+Clara Cristine Soares,EAF7D30,Fiat,Prata
+Sofia de Almeida Amancio,FFD9B92,Hyundai,Cinza
+João Cristine Machado,AAE3E97,Honda,Vermelho
+Sofia Nascimento Pereira,FAF2E81,VW,Vermelho
+Giovanna Cristine Melo,EBF7D14,Fiat,Prata
+João Queiroz Araujo,EDE4A49,Toyota,Branco
+Beatriz Vieira Pinto,BCF7E20,Hyundai,Vermelho
+Thiago Mesquita Campos,CDA9A82,Hyundai,Vermelho
+Beatriz Amorim Mendes,FCC0D22,VW,Cinza
+Livia Paschoalino Trindade,EDB1A51,Honda,Azul Claro
+João da Silva dos Santos,FFB8E72,Hyundai,Prata
+Mariana de Almeida Castilho,FBD4C41,Toyota,Azul Claro
+Larissa Cristine Amancio,EBB9C68,Toyota,Preto
+Victor Queiroz Trindade,EDA0C18,Hyundai,Azul Claro
+Samuel Alves da Costa,AAC4C89,Fiat,Azul Claro
+Mariana Paschoalino Silva,EFD9E35,Chevrolet,Cinza
+Daniel de Medeiros Trindade,EAD0B57,VW,Prata
+Erik Gomes Mengue,ECA6D97,VW,Azul Claro
+Eduardo Gomes Athayde,EFE4B89,Honda,Branco
+Vitória Amorim Amaral,DFC7B68,Honda,Preto
+Felipe de Oliveira Barbosa,BFE4A20,VW,Azul Claro
+Erik Ferreira Amaral,BEE3A74,Fiat,Branco
+Miguel de Almeida Soares,BAE6D48,Chevrolet,Vermelho
+Vinícius Santana Amancio,ACE4C68,Toyota,Branco
+Giovanna Gomes Barbosa,CFB1A10,Toyota,Cinza
+Sofia Bellini da Costa,BCB3E12,Toyota,Vermelho
+Gabriel Fernandes Dias,EAE8E99,Honda,Azul Claro
+Vitória Bellini Araujo,EAC2E62,Hyundai,Preto
+Erik Nascimento Castilho,AAF6E26,Honda,Branco
+Maria Fernandes Amancio,CFC2C34,Hyundai,Preto
+Sofia Vieira Dias,BFF0C24,Honda,Vermelho
+Gabriel de Almeida Machado,BAE7A10,Chevrolet,Cinza
+Thiago Ferreira Camargo,ECD8C95,VW,Branco
+Guilherme Queiroz Domingues,DBA7D43,Chevrolet,Branco
+Vitória de Almeida Melo,FAC6C87,Hyundai,Branco
+Matheus Alves Ribeiro,CFB4C80,Fiat,Branco
+Victor Paschoalino Melo,DDB6E88,Toyota,Cinza
+Larissa Vieira Araujo,CCB0C11,Chevrolet,Cinza
+Mariana Alves Senzaki,FCA3A81,Chevrolet,Prata
+Larissa Vieira Mengue,ADA0C40,VW,Prata
+Pedro da Silva Ribeiro,EBB8C29,Hyundai,Cinza
+Eduardo Ferreira Rodrigues,DEF8A85,Honda,Preto
+Thiago Ferreira Mendes,DBA6B37,Fiat,Preto
+Beatriz Amorim Pinto,FBE4E67,Toyota,Prata
+Rafael Santana Athayde,AFA4B38,Honda,Vermelho
+Miguel Bellini Campos,ABE6B21,Toyota,Prata
+Pedro de Almeida da Costa,CDE3E39,Chevrolet,Branco
+João Santana Mengue,AAB7C43,Honda,Prata
+Samuel de Medeiros Camargo,ACA7E72,Hyundai,Branco
+André Matos Sanches,FBE3E88,Hyundai,Branco
+Samuel Santana Melo,BBD3A14,Fiat,Branco
+Maria Paschoalino Mendes,CDE0E11,Honda,Cinza
+Yasmin Ponciano Sanches,DAE4E41,Toyota,Branco
+Yasmin Amorim Lima,FEB6A49,Hyundai,Branco
+Beatriz Mesquita dos Santos,ADF5D15,Hyundai,Azul Claro
+Vitória Cruz Campos,CDA5C25,Toyota,Preto
+Samuel Ferreira Amaral,AAF0B71,Toyota,Prata
+Gabriel Nascimento Amaral,DBB1D17,VW,Vermelho
+Vinícius Braz Ribeiro,EFD2A69,Fiat,Branco
+Beatriz Braz Domingues,BED8D26,Chevrolet,Azul Claro
+Larissa de Almeida Ribeiro,CFA9D33,Honda,Prata
+Giovanna Ferreira Barbosa,DDF5E42,Fiat,Prata
+Yasmin de Medeiros Mendonça,DFF4A99,Chevrolet,Vermelho
+Henrique de Almeida Ribeiro,FCC9E18,Toyota,Prata
+Livia Nascimento Amancio,CFC7D43,Chevrolet,Vermelho
+Felipe Ponciano Senzaki,FFA1C74,Toyota,Cinza
+Rafael de Medeiros Sanches,AEB7E21,Chevrolet,Cinza
+João Queiroz Lima,EFD6C54,VW,Preto
+Vinícius Cruz Pinto,CDE0B82,Honda,Branco
+Vinícius Amorim Domingues,AEC7B49,Hyundai,Branco
+Victor Queiroz Athayde,ECD0B81,Honda,Azul Claro
+André Matos Ribeiro,AFC7E22,Fiat,Prata
+Daniel Matos Lima,AAC8A28,Chevrolet,Preto
+João de Medeiros Soares,FBB6D89,Chevrolet,Preto
+Vitória da Silva Ribeiro,CCF5D11,Honda,Cinza
+Daniel Fernandes Senzaki,BFE6A73,Honda,Prata
+Clara Ferreira Senzaki,ACB7A68,Chevrolet,Prata
+Larissa de Almeida Mendes,EBE0D14,Fiat,Cinza
+Livia Martins Lima,AAB4C36,Fiat,Preto
+Thiago de Oliveira Barbosa,AFC8B50,Toyota,Vermelho
+Daniel Nascimento Lopes,FDD4D64,Toyota,Branco
+Maria de Almeida Athayde,EAA6D79,Chevrolet,Azul Claro
+Daniel Cruz Melo,BBE0C86,Toyota,Vermelho
+Beatriz Nascimento Soares,DAD7A88,Chevrolet,Prata
+Samuel de Medeiros Mendes,DFD7B60,Chevrolet,Cinza
+Mariana Vieira Amaral,CFD4B81,Chevrolet,Cinza
+André Bellini dos Santos,EAD5D52,Toyota,Preto
+Larissa Cruz dos Santos,BFE2D61,Toyota,Preto
+Thiago Matos Senzaki,ACB8E18,Toyota,Vermelho
+Victor Santana Dias,EDB9B21,Toyota,Prata
+Rafael Franco Ribeiro,CAF0C49,Chevrolet,Azul Claro
+Henrique Ponciano Mendonça,AAB8A93,VW,Preto
+Matheus Paschoalino Trindade,ACD8A87,Honda,Vermelho
+Rafael de Almeida Rodrigues,BAB6C31,VW,Vermelho
+Livia Nascimento Pereira,BEB6E78,Hyundai,Vermelho
+Matheus de Oliveira Rodrigues,EEE3C96,Fiat,Vermelho
+Livia Santana Soares,FEB8D94,Honda,Branco
+Beatriz Cristine Machado,DFF8E89,Hyundai,Azul Claro
+Felipe Braz dos Santos,DCF0D40,Fiat,Cinza
+Felipe Paschoalino Rodrigues,ECE4A78,Chevrolet,Cinza
+Maria Amorim Melo,AEE9D43,Honda,Azul Claro
+Giovanna Cruz Amancio,FBC3B23,VW,Vermelho
+Yasmin Vieira Soares,BFD1B42,Hyundai,Azul Claro
+Yasmin Ferreira Barbosa,FCC2A26,Chevrolet,Azul Claro
+Daniel Amorim Rodrigues,ABF2A65,Fiat,Azul Claro
+Clara Franco Camargo,FDA8C21,Hyundai,Branco
+Thiago Amorim Amaral,CFC9D48,VW,Preto
+Livia de Medeiros Domingues,CEA9E30,Chevrolet,Azul Claro
+Thiago Braz Lopes,CBC1E74,VW,Preto
+Victor Gomes Silva,AEC3B39,Honda,Vermelho
+Guilherme Franco dos Santos,FAB9A30,Chevrolet,Cinza
+Miguel Cruz Amaral,EBC0B34,Honda,Preto
+Pedro Mesquita Silva,CDE0B59,Fiat,Vermelho
+Daniel da Silva Ribeiro,DAE3A57,VW,Prata
+Erik Gomes Mendonça,AFB6D65,Chevrolet,Cinza
+Gabriel Matos Amancio,EEC3A96,Toyota,Azul Claro
+João de Medeiros Pereira,DEE5B15,Toyota,Azul Claro
+Eduardo Ponciano Amaral,DAF2B77,Fiat,Prata
+Livia Braz Melo,BFD7A24,VW,Preto
+Larissa Fernandes Dias,BEC5B97,Hyundai,Preto
+Gabriel Queiroz Mengue,ADA0E35,Fiat,Cinza
+Thiago de Medeiros Mengue,DCC5A66,Honda,Prata
+Eduardo Santana Lopes,ECD1E64,VW,Branco
+Sofia Matos Melo,AAA8D90,Fiat,Branco
+Vinícius Cristine Pinto,BCD0D59,Fiat,Prata
+Gabriel Martins da Costa,DFF8B17,Chevrolet,Vermelho
+Vinícius Amorim Soares,DBE5A68,Fiat,Vermelho
+Clara Braz Soares,ACA6D56,Chevrolet,Preto
+Victor Mesquita Silva,FCC9D37,Hyundai,Branco
+Beatriz de Almeida Barbosa,EAF5C30,Hyundai,Preto
+Eduardo Cruz dos Santos,BAC5A61,Honda,Vermelho
+Samuel Cristine Machado,BAE8C19,Fiat,Branco
+Erik Ponciano Melo,BEE1D76,Honda,Cinza
+Livia Fernandes Mendes,FED8D82,Chevrolet,Vermelho
+Miguel Queiroz Soares,AAB1C71,Chevrolet,Prata
+Miguel Fernandes Sanches,DAC7C49,Fiat,Cinza
+Thiago Cristine Lopes,BDD2D65,Hyundai,Preto
+Victor da Silva Amaral,DEF5A13,VW,Branco
+Vinícius Amorim Soares,FBF9A28,VW,Branco
+Rafael Amorim Trindade,CCB2B55,Chevrolet,Preto
+Larissa Nascimento Amancio,ADD5A75,Hyundai,Azul Claro
+Giovanna Franco Machado,CEB8C89,VW,Azul Claro
+Erik Nascimento Mendes,CCE8B13,Hyundai,Vermelho
+Felipe Fernandes Pinto,CED8D23,VW,Cinza
+Matheus Amorim Campos,FED9E84,Honda,Preto
+Vitória Braz da Costa,CFC8D33,Chevrolet,Vermelho
+Livia Cruz Senzaki,CDB5E58,VW,Prata
+Yasmin Amorim Pereira,DDF6D56,Chevrolet,Branco
+Vinícius da Silva Lima,BFC4E80,VW,Vermelho
+Gabriel Santana Camargo,AFE5E15,Honda,Cinza
+Thiago Bellini Melo,BCF3A73,Honda,Branco
+Livia Paschoalino Mendes,CAF3E37,Chevrolet,Cinza
+Samuel Ferreira Mengue,CBC5A55,Hyundai,Vermelho
+Victor Paschoalino Melo,EAB7A57,Fiat,Cinza
+Miguel Ponciano Melo,AFC3D15,VW,Azul Claro
+Gabriel Fernandes Campos,EED9D99,Hyundai,Branco
+Daniel Paschoalino Machado,EDC0E35,Fiat,Vermelho
+Vinícius Braz Melo,DAF5A27,Hyundai,Preto
+Thiago Bellini dos Santos,DAF5A91,Chevrolet,Cinza
+João da Silva Barbosa,DEE1D52,VW,Azul Claro
+Miguel Matos Silva,AFC2C19,Honda,Vermelho
+Beatriz Cruz Mendonça,FEA9D31,Chevrolet,Preto
+Samuel Matos Pereira,CEA4E50,Toyota,Prata
+Samuel Cristine Amaral,BFF4E60,VW,Branco
+Miguel Ponciano Araujo,ABD4A66,Honda,Azul Claro
+Larissa Matos Lopes,ACA6E62,Chevrolet,Cinza
+Pedro Alves Trindade,EFE0B49,Toyota,Prata
+Pedro Mesquita Melo,AEB5E93,Chevrolet,Preto
+Miguel Martins Silva,FEE5C25,Chevrolet,Branco
+Maria Braz Araujo,BAC3D81,Hyundai,Azul Claro
+Felipe Gomes dos Santos,AEF3B12,Honda,Azul Claro
+Daniel Braz Pinto,CAB2A10,VW,Branco
+Giovanna Amorim Silva,CDF1D68,Fiat,Prata
+Victor Cristine Campos,BFE7A53,VW,Vermelho
+Giovanna Alves Barbosa,AEF3D31,Honda,Vermelho
+Thiago Braz da Costa,ACE0B97,VW,Preto
+Guilherme Santana Camargo,DAF1B54,Chevrolet,Azul Claro
+Pedro Franco da Costa,CEA2E47,Fiat,Azul Claro
+Miguel Fernandes Pinto,BDA8B46,Toyota,Preto
+João Matos Castilho,AED7C89,Chevrolet,Vermelho
+Thiago Mesquita Domingues,BFF4B89,Fiat,Preto
+Sofia Amorim Soares,DFC4A52,Chevrolet,Prata
+Daniel Cristine Mengue,BCB1C57,Honda,Branco
+Henrique Alves Machado,FEE7B68,Toyota,Preto
+Giovanna Cruz Senzaki,FCD2B38,Hyundai,Branco
+Sofia de Oliveira Ribeiro,CAA7C58,Honda,Branco
+Sofia Bellini Campos,FFC6D71,Fiat,Preto
+Guilherme Gomes Mengue,BAF1C91,Fiat,Cinza
+João da Silva Mendonça,ADB5E13,Honda,Branco
+Miguel Vieira Amancio,EDC9A72,Honda,Vermelho
+Livia Braz Camargo,FAE6A97,Fiat,Preto
+Gabriel da Silva Camargo,BBC4B26,Hyundai,Prata
+Samuel Ponciano Rodrigues,AAD8A85,Fiat,Cinza
+Mariana Fernandes Amaral,FBF9E73,Hyundai,Cinza
+Miguel Bellini Castilho,BEC6A63,Hyundai,Cinza
+Guilherme Paschoalino Machado,DDE6D38,Fiat,Vermelho
+João Bellini Senzaki,AFF1D37,Toyota,Prata
+Sofia de Almeida Dias,CFB5D16,Hyundai,Azul Claro
+Samuel Mesquita Barbosa,FCD5B80,Fiat,Cinza
+João Cruz Amancio,FFB1E66,VW,Prata
+Victor Franco Araujo,ACB9B47,Honda,Vermelho
+Guilherme Amorim Camargo,EEE9A14,Chevrolet,Cinza
+Livia Vieira Pereira,AEA4B94,Toyota,Cinza
+Felipe da Silva Soares,EDE9B76,VW,Preto
+Vinícius Ponciano Trindade,CEA9C81,Toyota,Cinza
+Sofia Mesquita Athayde,BDB9D63,Fiat,Preto
+Maria Queiroz Silva,ACD4E53,Fiat,Cinza
+Larissa Amorim Pinto,CCC4E90,Fiat,Azul Claro
+Thiago Cruz Senzaki,BAA3B79,Chevrolet,Prata
+Henrique Mesquita Machado,EAD6C43,Honda,Preto
+Maria Alves Araujo,DEF1B38,Hyundai,Preto
+Yasmin Santana Pinto,BDE2A46,Hyundai,Prata
+Henrique da Silva Amancio,DAC3B43,VW,Azul Claro
+Sofia Martins Campos,FDA4B19,Chevrolet,Preto
+Vitória Paschoalino Amancio,BAD0C85,Hyundai,Branco
+Sofia Amorim da Costa,DBD0D75,Chevrolet,Preto
+Samuel Cristine Camargo,EBC7C68,VW,Cinza
+Maria Nascimento Lopes,CBA1C38,Honda,Preto
+Henrique Ferreira dos Santos,BDC9C91,Hyundai,Prata
+Pedro Martins Mengue,DCF1B74,Fiat,Cinza
+Guilherme Nascimento Amaral,DDE5A23,Honda,Prata
+Larissa de Oliveira Camargo,EEE9E40,Fiat,Prata
+Yasmin Ferreira Lima,AAE7C97,Hyundai,Vermelho
+Vitória Vieira Ribeiro,ECA8A33,Toyota,Branco
+Thiago Cruz Campos,CEA4D89,Chevrolet,Cinza
+Matheus de Oliveira Ribeiro,CFA3C27,VW,Cinza
+Felipe de Almeida Lopes,FAD4B57,Toyota,Prata
+Livia Martins Machado,FCA3C18,Honda,Cinza
+Livia Alves Athayde,AEC3D23,VW,Preto
+Yasmin Gomes Machado,DCE4E97,Toyota,Prata
+Maria Gomes Lopes,FDF6E31,Toyota,Preto
+Maria Ferreira Melo,BED2B47,Hyundai,Preto
+Maria Nascimento Mengue,BEE8E39,Toyota,Branco
+João Mesquita Lopes,FBF4A57,Toyota,Vermelho
+Henrique Cristine Soares,CCD0D64,Hyundai,Vermelho
+Rafael Fernandes Amancio,ADD0E45,Hyundai,Azul Claro
+Giovanna Ferreira Soares,CCD6C68,Toyota,Cinza
+Henrique Cruz Soares,ACC7E84,VW,Preto
+Mariana Santana Trindade,EAE2D97,Hyundai,Azul Claro
+Erik Paschoalino Mendes,AAC2E58,Chevrolet,Vermelho
+Daniel Cruz Mendes,FCA5C41,Honda,Vermelho
+Daniel Ferreira dos Santos,BEF3D39,Hyundai,Azul Claro
+Daniel de Almeida Soares,DFF9C19,VW,Branco
+Yasmin Ferreira Pereira,BAD7B41,VW,Vermelho
+Vitória Mesquita Trindade,EAB9B19,Honda,Prata
+Thiago Gomes Mendonça,FAA5C83,Fiat,Branco
+Eduardo Mesquita Amaral,DFC3E93,Hyundai,Vermelho
+André Alves Senzaki,BDB6D13,VW,Cinza
+Vinícius Bellini Pinto,BAE1E60,VW,Cinza
+Mariana Fernandes Lima,ECF5A46,Hyundai,Branco
+Felipe Amorim Mendonça,CAB6D50,Toyota,Azul Claro
+Giovanna Martins Amaral,CDA6B59,Hyundai,Preto
+Victor Nascimento Dias,FFD7C24,VW,Branco
+Vinícius Gomes Domingues,BCF4E69,VW,Prata
+João Martins Machado,DCE1C76,Honda,Preto
+Yasmin Ponciano Amaral,EBC1A18,VW,Cinza
+Giovanna Nascimento Soares,ECD6B10,Chevrolet,Azul Claro
+Henrique de Medeiros Mengue,ADC5A26,Fiat,Preto
+Eduardo Braz Amancio,FBE5B48,Honda,Branco
+Giovanna Cruz Lima,BDF2B43,Toyota,Branco
+Beatriz da Silva Mengue,AAE8A24,Chevrolet,Cinza
+Mariana Ponciano Silva,BEF2A26,Chevrolet,Branco
+Erik Vieira Lima,CFF1E38,Chevrolet,Branco
+Vinícius Santana Trindade,FBD2E59,Toyota,Azul Claro
+Miguel Vieira da Costa,FCC8E73,Hyundai,Preto
+Mariana de Oliveira Lima,AFE5D67,Fiat,Cinza
+Maria Cruz Sanches,CBD0D90,Chevrolet,Preto
+Maria Cristine Mengue,EFF1B34,VW,Azul Claro
+Pedro Ferreira Camargo,DBD6D56,Fiat,Prata
+Vitória Gomes Castilho,EEC4E90,Hyundai,Vermelho
+Clara Santana dos Santos,EBD6B81,Chevrolet,Cinza
+Miguel Braz Rodrigues,AEE1D67,Chevrolet,Azul Claro
+Sofia Alves dos Santos,CAE2D67,VW,Prata
+Pedro de Oliveira Trindade,FEF5D74,Toyota,Azul Claro
+Victor Nascimento Campos,CCE9B32,Chevrolet,Prata
+Guilherme Vieira Domingues,ADD2D64,Fiat,Branco
+Mariana Bellini Castilho,FBC3B20,Fiat,Cinza
+Victor Cristine Amaral,DDC5E99,VW,Branco
+Samuel Fernandes Mengue,BEF7A68,Fiat,Branco
+Guilherme de Oliveira Silva,AFD0D40,VW,Prata
+Victor Vieira Silva,CDB2D56,Fiat,Prata
+Matheus Matos da Costa,AFA4A57,Honda,Vermelho
+Victor Matos dos Santos,CDE2E37,Toyota,Vermelho
+Sofia Matos Rodrigues,DCE3B38,Honda,Cinza
+Eduardo de Oliveira Pinto,EBF4C74,VW,Vermelho
+Erik Braz Camargo,ECD9C54,Chevrolet,Azul Claro
+Thiago Mesquita Amaral,DEB4B57,Chevrolet,Cinza
+Eduardo Franco Melo,CEC1B82,Chevrolet,Cinza
+Maria de Almeida Mendes,ABA9B36,Fiat,Preto
+Matheus Cruz Athayde,CBD1B63,Chevrolet,Azul Claro
+Samuel Santana Castilho,FAD4B41,Hyundai,Preto
+Mariana Cristine Sanches,CCC7A59,VW,Cinza
+Clara Braz Senzaki,BDD2B68,Fiat,Preto
+Vitória Braz dos Santos,EEC5B76,Toyota,Branco
+Erik Cruz Amancio,ECD0C97,VW,Azul Claro
+Felipe Matos Rodrigues,BDD6C49,Toyota,Azul Claro
+André Braz Athayde,FAE7C89,VW,Prata
+Victor Alves Lima,CAF3E81,Hyundai,Vermelho
+Thiago Gomes Machado,EAA5B66,VW,Preto
+Livia Cruz Mendonça,ADF7D23,Chevrolet,Preto
+Victor Ponciano Athayde,DFD2C60,VW,Prata
+Eduardo Bellini Campos,AAD7A30,Honda,Prata
+Henrique Queiroz Lima,DFA5A47,Fiat,Preto
+João Ponciano Camargo,EEF6C90,Honda,Preto
+Daniel Nascimento Pereira,ABE9E81,VW,Azul Claro
+Rafael Queiroz Athayde,DDD5B40,VW,Cinza
+Henrique Santana da Costa,CCB5A18,VW,Branco
+João Cruz Araujo,BCD5E29,VW,Azul Claro
+João Bellini Machado,BAC7B10,VW,Cinza
+Giovanna Paschoalino Dias,DEF2C54,Chevrolet,Azul Claro
+Clara Nascimento Soares,BBF6E11,Chevrolet,Prata
+Maria Mesquita da Costa,AFF7A28,Fiat,Vermelho
+João Amorim dos Santos,CBC9D47,Hyundai,Azul Claro
+Maria Santana Lopes,CAE4B11,Fiat,Branco
+Matheus Bellini Rodrigues,EFC6B41,Hyundai,Branco
+Erik Martins Barbosa,CDF0C51,Hyundai,Preto
+João Vieira Trindade,ACF0C60,Honda,Azul Claro
+Daniel Queiroz Domingues,CBA1E74,Chevrolet,Vermelho
+Miguel Martins Mengue,FBD5C13,VW,Azul Claro
+André de Oliveira Machado,BBE3D45,Fiat,Vermelho
+Mariana Matos Mendes,BFB3C11,Honda,Cinza
+Thiago Bellini Soares,CBB4B82,Toyota,Azul Claro
+Henrique Ferreira Domingues,EED6E42,VW,Prata
+Vitória de Medeiros da Costa,FBC8B78,Fiat,Cinza
+Mariana Ponciano Sanches,CEE4A45,Hyundai,Vermelho
+Maria Ponciano Silva,CBD1E54,VW,Branco
+Eduardo de Almeida Soares,DBB8D94,Fiat,Prata
+Giovanna da Silva Domingues,FBF5C94,VW,Vermelho
+João Gomes Camargo,FCA8E39,Chevrolet,Azul Claro
+Miguel Matos Melo,FAB9A60,Hyundai,Azul Claro
+Larissa Santana Mendonça,DFD1A11,VW,Branco
+Rafael Santana Melo,ABF3D19,Honda,Prata
+Felipe Fernandes Mengue,BBD3B60,Chevrolet,Preto
+Samuel Cruz Lopes,EBD1D90,Honda,Cinza
+Matheus de Oliveira Domingues,BDB3B85,Hyundai,Branco
+Samuel Gomes Amaral,BAC7A32,Fiat,Branco
+João Alves Mendes,BCA9C43,VW,Cinza
+Yasmin da Silva da Costa,DFD2E15,Toyota,Preto
+Rafael Alves Pinto,FDD9E77,VW,Vermelho
+Matheus Amorim Mendes,ACE2E11,Toyota,Preto
+Giovanna de Medeiros Lima,FDB7D40,Chevrolet,Cinza
+Daniel Alves Rodrigues,EBD7A23,Honda,Vermelho
+Livia Bellini Camargo,FED1D79,Chevrolet,Vermelho
+Vinícius Franco Machado,ADC1D81,Hyundai,Preto
+Mariana Vieira Campos,FBE4C52,Chevrolet,Cinza
+Daniel Alves dos Santos,CBD2E76,VW,Prata
+Sofia de Oliveira Athayde,FFA8C27,Fiat,Preto
+Gabriel Amorim Rodrigues,FCC6E27,Honda,Cinza
+Daniel da Silva Camargo,DFC0B67,Chevrolet,Preto
+Sofia Gomes Mengue,FED7D41,Fiat,Preto
+Felipe de Oliveira Amaral,EEC8B78,Fiat,Cinza
+Daniel Matos Barbosa,ABA5A77,Toyota,Branco
+Beatriz Queiroz Campos,BBD1A23,Chevrolet,Azul Claro
+Pedro Ferreira Trindade,FEB9E33,VW,Cinza
+João Matos Amaral,BFE9E64,Toyota,Preto
+Eduardo Cristine Athayde,AAA8A61,Chevrolet,Prata
+Maria da Silva da Costa,FED2E76,Honda,Branco
+Vitória Gomes Barbosa,BDB2B43,Fiat,Prata
+João Ponciano Silva,FBE2A55,Fiat,Azul Claro
+Thiago Queiroz Pinto,FCD0A10,Honda,Cinza
+João Matos Domingues,BCA8C97,VW,Preto
+Eduardo Paschoalino Ribeiro,ACB5B73,Hyundai,Azul Claro
+Livia de Medeiros Barbosa,EAC1C50,Fiat,Preto
+Mariana Nascimento Trindade,CAA5A83,Honda,Cinza
+Clara Amorim Sanches,EED6B50,Honda,Branco
+Rafael Mesquita Domingues,DCA1C66,Honda,Branco
+Sofia Santana Dias,EBE7C48,Hyundai,Azul Claro
+Beatriz de Almeida Castilho,ECA5A47,Chevrolet,Prata
+Larissa Mesquita Castilho,FFE8A17,Hyundai,Branco
+Felipe Ponciano Melo,AEA6B17,Chevrolet,Preto
+Daniel Cruz Campos,DDE4A98,Chevrolet,Prata
+Felipe Nascimento Lima,ACD5E55,Toyota,Prata
+Larissa Cruz Mengue,BAA5C72,Hyundai,Azul Claro
+Felipe Martins Senzaki,BAC3E86,Honda,Branco
+Rafael Vieira Mendes,FDA5D88,Fiat,Prata
+Samuel Amorim Castilho,FCD1C23,Toyota,Prata
+Daniel Braz Ribeiro,BAC6D37,Hyundai,Preto
+Eduardo Bellini Camargo,ABA3D24,Honda,Cinza
+Daniel Nascimento Mengue,BDE4A93,Honda,Azul Claro
+Maria Ferreira Camargo,EBB2E61,Fiat,Branco
+Thiago Cristine da Costa,AFF6B15,Toyota,Prata
+Sofia Nascimento Machado,ACA7D73,Toyota,Prata
+Erik Paschoalino Lima,ADB2C21,Hyundai,Branco
+Samuel Franco Soares,EDC6E28,Hyundai,Cinza
+Sofia Bellini Mendes,FEF9B57,VW,Branco
+Pedro Martins Pereira,CCD0E27,VW,Cinza
+João Martins da Costa,EDF8A94,Honda,Branco
+Beatriz de Almeida Senzaki,DEB5C71,Toyota,Branco
+André de Almeida Rodrigues,EBB3B74,Chevrolet,Azul Claro
+Victor Ponciano Camargo,BAD3B50,VW,Cinza
+Beatriz Braz Amancio,BCA1E75,Toyota,Vermelho
+João Ponciano Silva,DAA8C23,Honda,Azul Claro
+Maria da Silva Campos,BBB9B20,Hyundai,Preto
+Vitória Queiroz Lopes,EDB6D16,Hyundai,Preto
+Yasmin Alves Mendes,CDB4C53,Toyota,Prata
+Thiago de Oliveira Athayde,CCB2E99,VW,Preto
+Livia Queiroz Araujo,AEF2B55,VW,Azul Claro
+Beatriz Santana Araujo,FED7A99,Toyota,Vermelho
+Livia Alves Melo,BDE1D12,Toyota,Vermelho
+André de Almeida Amancio,BDA5C62,Honda,Vermelho
+João Nascimento Domingues,BFD0D28,Honda,Vermelho
+Eduardo Bellini dos Santos,FBB6D83,Hyundai,Branco
+Maria Cruz Castilho,AAA6B91,Toyota,Branco
+Miguel Ferreira Trindade,EAC2D30,Honda,Cinza
+Samuel Paschoalino Soares,EDD9B36,Fiat,Preto
+André de Medeiros Camargo,EAC3E63,Hyundai,Prata
+Guilherme Gomes Campos,ADF3A29,Toyota,Vermelho
+Daniel Queiroz Lopes,CEE8A80,Toyota,Prata
+Daniel Bellini Athayde,FDF1D89,Hyundai,Branco
+Felipe Gomes Amaral,FCB4B59,Chevrolet,Vermelho
+Vinícius Braz Mendonça,BEA2A61,VW,Vermelho
+Mariana Cristine Rodrigues,EFB1C49,Honda,Azul Claro
+Vitória Ponciano Machado,EEA9D42,Toyota,Cinza
+Guilherme Fernandes Machado,CFE3A61,Toyota,Vermelho
+Larissa Bellini Araujo,DFC6B70,Chevrolet,Branco
+Matheus Gomes Pinto,ECD8E17,Hyundai,Branco
+Gabriel Santana Trindade,BFD8B98,VW,Preto
+Erik Ponciano da Costa,CCC7C16,Fiat,Vermelho
+Thiago Franco Pereira,FDF4C24,Honda,Vermelho
+Victor de Almeida Domingues,EFC2A49,Hyundai,Vermelho
+Thiago Franco Amaral,ECD4B24,Hyundai,Cinza
+Larissa de Almeida Camargo,BCF0C74,Chevrolet,Vermelho
+Guilherme Mesquita Soares,ABF9D83,Chevrolet,Preto
+Miguel Queiroz da Costa,ABC8C84,Toyota,Azul Claro
+Daniel da Silva Mendes,BBF4C88,Hyundai,Vermelho
+André de Almeida Castilho,FEC8C82,Chevrolet,Prata
+Guilherme da Silva Mengue,ACC7C17,Toyota,Cinza
+Larissa de Almeida Dias,BDB8E66,Toyota,Prata
+Daniel Vieira Barbosa,AEA7C62,Honda,Preto
+Vinícius da Silva Trindade,AFE6A16,Hyundai,Preto
+Matheus Matos Pereira,FAB2E63,Fiat,Branco
+João Nascimento Campos,BEC4A48,Chevrolet,Azul Claro
+Sofia de Almeida Pinto,EFC7D48,Honda,Preto
+Yasmin de Oliveira Castilho,DBE6A30,Honda,Preto
+Vitória Bellini Dias,CBD9E85,Fiat,Prata
+Thiago de Oliveira da Costa,BCC0E73,Hyundai,Prata
+Pedro Nascimento Mendes,BFA9D19,Hyundai,Azul Claro
+Livia Santana Lima,AAF8E19,Hyundai,Vermelho
+Eduardo Martins Pereira,FBF3E51,Hyundai,Vermelho
+Thiago Matos Senzaki,BCC4C58,Chevrolet,Preto
+Daniel Paschoalino Pereira,EBC2D41,Toyota,Preto
+Vinícius Queiroz Pinto,DCE7C83,Honda,Azul Claro
+Clara de Medeiros Domingues,DBA6A82,Toyota,Vermelho
+Rafael da Silva Dias,BBF9D85,Honda,Branco
+Yasmin Vieira Trindade,FDB7A43,VW,Vermelho
+Guilherme Franco Pinto,FED0C34,Hyundai,Azul Claro
+Matheus Paschoalino Pereira,FFB8D21,Hyundai,Preto
+Yasmin Cruz Barbosa,FDA2A69,Hyundai,Branco
+Matheus Vieira Amaral,FDB5A17,Hyundai,Cinza
+Matheus Gomes Mengue,BFC9B45,Honda,Azul Claro
+Mariana da Silva Senzaki,ABF3C70,Honda,Preto
+Matheus Ferreira Rodrigues,DFE7D91,Toyota,Branco
+Pedro da Silva Amaral,ECD3B50,Chevrolet,Branco
+Beatriz de Oliveira Melo,ADF2E46,Hyundai,Cinza
+Samuel Alves Silva,AFE3C66,Toyota,Preto
+Livia Bellini da Costa,FFC9E32,Chevrolet,Branco
+Vitória Mesquita Dias,FCF3E28,Toyota,Preto
+Sofia Cruz Domingues,BBC3B46,VW,Preto
+Pedro Queiroz Mendes,CAD5D88,VW,Prata
+Matheus Queiroz Pereira,EED4E63,Chevrolet,Azul Claro
+Felipe Mesquita Rodrigues,AAC2B56,Toyota,Branco
+Giovanna de Medeiros Amancio,DBE7A83,Fiat,Preto
+Erik de Almeida Sanches,EDB8D64,Toyota,Azul Claro
+Yasmin Nascimento Araujo,FBA3E56,Honda,Prata
+Livia Mesquita Pereira,BCF3B64,Fiat,Vermelho
+Daniel Cristine Lima,BDD9A74,VW,Branco
+Erik Mesquita Campos,EAE7B99,VW,Prata
+Pedro Vieira Dias,BDE8C65,VW,Prata
+Maria Alves Lima,FBF3B13,Honda,Prata
+Maria Queiroz Castilho,EDB1A88,Honda,Prata
+Rafael Matos Amaral,AAC2E48,Fiat,Branco
+Beatriz Ferreira Barbosa,BAA2A79,VW,Cinza
+João Gomes da Costa,DEA0A65,VW,Prata
+João Vieira Machado,ACC4E75,Honda,Cinza
+Sofia da Silva Rodrigues,DAB1E38,VW,Vermelho
+Miguel Fernandes Campos,ACA8D65,Honda,Preto
+Beatriz de Oliveira Amancio,EBB1B56,Hyundai,Cinza
+Clara Nascimento Machado,EFA2B97,Hyundai,Preto
+Samuel de Almeida Soares,DEB6E74,Honda,Azul Claro
+Felipe Ferreira Araujo,ADC4C70,Chevrolet,Cinza
+Erik Cruz Araujo,BBD1B94,VW,Azul Claro
+Larissa Cristine Lima,ACD6C49,Chevrolet,Cinza
+Vitória Franco Silva,BFD1B77,Chevrolet,Preto
+Henrique Queiroz Pereira,EBB1E65,Hyundai,Cinza
+Mariana Matos Lima,AAD1C78,Chevrolet,Azul Claro
+Eduardo Mesquita Rodrigues,CEE4B45,VW,Azul Claro
+Sofia Vieira Mendonça,DBE5B50,Honda,Vermelho
+Samuel da Silva Pereira,DFC4C69,Fiat,Branco
+Miguel Franco Ribeiro,BAD5C67,Toyota,Cinza
+Matheus Amorim Rodrigues,FEA2E20,VW,Vermelho
+Miguel Martins Ribeiro,FCD3B83,Chevrolet,Vermelho
+Sofia Alves Athayde,ADD8B98,Honda,Preto
+Henrique Bellini Senzaki,EDA2B41,Honda,Preto
+Yasmin Amorim Mengue,CCD3B31,Chevrolet,Prata
+Samuel Franco Trindade,FBF8B36,Fiat,Prata
+Miguel da Silva Amancio,EBF2D70,VW,Vermelho
+Thiago Vieira Campos,ACB0A66,Toyota,Cinza
+Larissa de Almeida Ribeiro,EEE3D73,Toyota,Prata
+Miguel Gomes Rodrigues,ABA1A47,Toyota,Branco
+Henrique Nascimento Rodrigues,ECB4B28,Toyota,Preto
+Miguel Cristine Machado,EAF0C18,VW,Preto
+Pedro Alves Domingues,CFC5D11,Fiat,Preto
+Pedro de Medeiros Camargo,CBF6B29,Honda,Branco
+João Gomes Dias,CDF1C18,Chevrolet,Vermelho
+Livia Cristine Mendes,CAE4E94,Honda,Branco
+Vinícius Mesquita Pinto,DDA6E30,Fiat,Vermelho
+Victor Gomes Mendonça,EDB2E24,Hyundai,Cinza
+Pedro Cristine Soares,BCB5B93,VW,Cinza
+Vitória Alves da Costa,EEB3A13,Honda,Prata
+Rafael Ferreira Camargo,EFA3C78,Fiat,Preto
+Giovanna de Medeiros Amancio,FCF6D15,VW,Preto
+Pedro Fernandes Pereira,DCE9C99,VW,Preto
+João da Silva Mendonça,ECA7D50,Toyota,Prata
+Yasmin Bellini Dias,EDE8E21,VW,Prata
+Clara Cristine Silva,BAF1B95,Honda,Vermelho
+Rafael Martins Silva,ADB8C37,Honda,Azul Claro
+Sofia Ferreira Mendonça,CFF2A56,Chevrolet,Prata
+Vinícius Cruz Barbosa,ADC2D56,Fiat,Cinza
+João Cristine Amaral,EFB0C47,Fiat,Vermelho
+Miguel Ferreira Lima,EFA5C12,Hyundai,Cinza
+Thiago Martins Melo,AEC2B73,VW,Vermelho
+Pedro Paschoalino Mengue,DEA4A88,Fiat,Cinza
+Rafael Fernandes Amancio,DEF7B43,Fiat,Prata
+Vitória Nascimento Soares,CBC9B16,Honda,Branco
+Rafael da Silva Barbosa,EDA4B25,VW,Prata
+Maria Amorim Sanches,DFF1C53,Chevrolet,Azul Claro
+André Matos Ribeiro,EAF5E24,VW,Cinza
+Samuel Martins dos Santos,ACF8D12,Fiat,Preto
+Yasmin de Medeiros Mendes,EBA0E80,Toyota,Azul Claro
+Samuel Queiroz Ribeiro,DBE0B91,Honda,Branco
+Felipe Matos Rodrigues,BBF3D95,VW,Vermelho
+Miguel Franco Melo,ECD5E44,VW,Prata
+Beatriz Vieira dos Santos,EFF7B76,Chevrolet,Branco
+Livia Nascimento Rodrigues,CEC8A57,Chevrolet,Branco
+Clara Nascimento Pereira,FBB3A85,Chevrolet,Azul Claro
+Clara Cruz Barbosa,DFC3E25,Honda,Preto
+Livia Alves Lima,CBF9A59,Toyota,Cinza
+Samuel Cruz Castilho,FCD4D62,Honda,Azul Claro
+Miguel Bellini dos Santos,FDD7C33,VW,Azul Claro
+Victor Queiroz Pinto,DBF3E53,Honda,Cinza
+Matheus Amorim Pereira,EFB6A26,Honda,Preto
+Giovanna Cruz Castilho,EDE1B82,Hyundai,Prata
+André de Medeiros Rodrigues,FEE6E97,Chevrolet,Vermelho
+Eduardo Ponciano Barbosa,BBA5C30,Chevrolet,Cinza
+Henrique Matos Domingues,CED7B59,Honda,Preto
+Victor de Almeida Araujo,CEA3D21,Toyota,Azul Claro
+Larissa Santana Soares,AEA4A35,Chevrolet,Preto
+Matheus Alves Machado,EDC7E78,Chevrolet,Prata
+Maria Cristine Araujo,FEF0B15,Chevrolet,Azul Claro
+Mariana Fernandes Silva,CEF1C67,Hyundai,Preto
+Guilherme Matos Amancio,AAE6A71,Fiat,Cinza
+João Gomes Pinto,BBD5E57,Fiat,Azul Claro
+Livia Matos Barbosa,DFA7D79,VW,Preto
+Livia Ponciano Athayde,DBA3B51,Fiat,Vermelho
+Guilherme Amorim Araujo,DFF2B42,VW,Preto
+Eduardo Matos dos Santos,ADD0B55,Honda,Preto
+Maria Amorim da Costa,AFE7C77,VW,Azul Claro
+Thiago Mesquita dos Santos,BBD7C61,Hyundai,Vermelho
+Vitória Ferreira Pinto,ACF0E16,Toyota,Prata
+Guilherme Fernandes Trindade,DBC0A73,VW,Vermelho
+Eduardo Mesquita Senzaki,CAC6A49,Toyota,Prata
+Maria Cristine Mendes,BEE0B37,Chevrolet,Prata
+Vinícius Martins Pereira,EDB0B98,Hyundai,Cinza
+Beatriz Queiroz dos Santos,ABE5E43,Hyundai,Azul Claro
+Yasmin Franco dos Santos,BCF8D65,Chevrolet,Branco
+Larissa Gomes Ribeiro,DEA2D61,Hyundai,Preto
+Pedro Mesquita Mendes,FCB6A24,Chevrolet,Vermelho
+Matheus Martins Melo,DEC7E35,Toyota,Vermelho
+Erik Vieira Melo,EAD7C38,Hyundai,Azul Claro
+Beatriz Fernandes Athayde,FAA7A44,Hyundai,Cinza
+Matheus Gomes Amancio,CAE4E32,Hyundai,Vermelho
+Daniel Matos Machado,CDA0A36,Hyundai,Branco
+Rafael Ferreira Athayde,DAD6A70,VW,Cinza
+Larissa de Oliveira Machado,BFD9A16,Chevrolet,Cinza
+Livia de Almeida Mengue,EDD5E86,Fiat,Vermelho
+Beatriz Amorim Silva,FAD5B30,VW,Prata
+Gabriel Cruz Araujo,FAC4C94,Honda,Azul Claro
+Yasmin Santana Ribeiro,CDA8A14,Chevrolet,Cinza
+Erik Cristine Camargo,EEA4B65,Fiat,Branco
+Vinícius Vieira Ribeiro,CCC8E96,Fiat,Preto
+Yasmin de Medeiros Domingues,BBF4E38,VW,Branco
+André Ponciano Athayde,AFE2E24,Chevrolet,Azul Claro
+Vinícius de Medeiros Lima,ADA2C69,VW,Cinza
+Giovanna de Medeiros Rodrigues,EFA5A24,VW,Branco
+Felipe Bellini Sanches,DAB9C19,Chevrolet,Branco
+Rafael Queiroz Rodrigues,FBF7D63,Toyota,Prata
+Pedro Cristine da Costa,CDD8A67,Toyota,Prata
+Guilherme Mesquita dos Santos,FFC4D41,Honda,Vermelho
+Victor Matos Dias,BFE6D14,Toyota,Preto
+Clara de Almeida Melo,ACC0C11,Chevrolet,Preto
+Mariana Gomes Camargo,BCF7B95,Fiat,Preto
+Vinícius Franco Castilho,DEC2D64,Chevrolet,Vermelho
+Daniel Bellini Amancio,DAB6D47,VW,Branco
+Livia Ferreira dos Santos,CAE2A86,Hyundai,Preto
+Gabriel Fernandes Lima,CDA5A33,Hyundai,Preto
+Yasmin de Medeiros Sanches,DFF1A39,VW,Cinza
+Victor Matos Dias,BAB7E61,Chevrolet,Cinza
+Pedro Fernandes Athayde,FBD9D22,Honda,Cinza
+Rafael Fernandes Ribeiro,BFD8A86,Fiat,Azul Claro
+Samuel Ferreira dos Santos,BFC5B40,Chevrolet,Prata
+André Cristine Domingues,BEC1E84,Fiat,Cinza
+Thiago Ponciano Pinto,CCE0C18,Hyundai,Preto
+Thiago Cruz Camargo,BAF3C74,Hyundai,Branco
+Miguel Queiroz Araujo,CEF5E71,VW,Preto
+Daniel de Oliveira Camargo,FBD8C24,VW,Vermelho
+Gabriel Fernandes Amaral,CAA3A94,Toyota,Vermelho
+Vinícius Matos dos Santos,BDE4D18,Fiat,Branco
+Pedro Vieira Trindade,BFC6D74,Honda,Prata
+Erik de Almeida Sanches,ECB0E43,Fiat,Azul Claro
+Daniel Matos Lopes,EFC0C96,Honda,Branco
+Livia Paschoalino Senzaki,DEB2B57,Chevrolet,Branco
+Vinícius Ponciano Mendonça,EFB4B11,Toyota,Preto
+Guilherme Braz da Costa,EDA1A95,Hyundai,Prata
+Henrique Cristine Lopes,DDC3D66,Chevrolet,Cinza
+Vinícius Franco Athayde,AFA0B45,Toyota,Preto
+Giovanna da Silva Silva,CCB6E50,Chevrolet,Azul Claro
+Erik Braz Mengue,CCF1C14,Hyundai,Preto
+Clara Amorim Castilho,CFD5B39,Chevrolet,Branco
+Henrique Nascimento Amaral,FDB1B95,Fiat,Branco
+Mariana Nascimento Domingues,BCB4C15,Chevrolet,Vermelho
+Yasmin da Silva Mengue,CEE4D50,VW,Vermelho
+Clara Ponciano Domingues,EBF5D55,Chevrolet,Cinza
+João Fernandes Mendes,FEC7A29,VW,Preto
+Yasmin Cruz Domingues,FAD6E95,VW,Prata
+Henrique Braz dos Santos,CDB8E52,Toyota,Cinza
+Vinícius Martins Senzaki,CAA1B58,Chevrolet,Branco
+Vitória Alves Senzaki,CCA0C61,Hyundai,Branco
+Eduardo Gomes Ribeiro,FBF1A54,Hyundai,Prata
+Rafael Cristine Pinto,ACA5D62,Fiat,Preto
+Samuel Cristine Mengue,CED1E45,Fiat,Vermelho
+Henrique de Medeiros Pereira,CFA3B20,Hyundai,Branco
+Yasmin Martins Castilho,BDA4C27,Hyundai,Azul Claro
+Sofia Ferreira Campos,DFA8C45,Fiat,Branco
+João Fernandes Amaral,ECE0C19,Chevrolet,Cinza
+André Cristine Campos,DFA7D47,Hyundai,Azul Claro
+Daniel de Almeida Castilho,BFF7A34,Hyundai,Cinza
+Guilherme Vieira Melo,CDF0D61,Honda,Preto
+Miguel Gomes Pinto,ECB9E88,Honda,Preto
+Erik Matos Rodrigues,BDF9C73,Hyundai,Cinza
+Beatriz Queiroz Campos,AAF7B16,Chevrolet,Cinza
+João de Almeida Melo,BFE2A36,Chevrolet,Cinza
+Guilherme Gomes Silva,FFA2E12,Hyundai,Azul Claro
+Vitória Gomes Lopes,CFC6B48,Fiat,Branco
+Sofia Cruz Araujo,AFB5D42,Chevrolet,Preto
+Victor Cruz Machado,EDD8E31,Honda,Cinza
+Yasmin Queiroz Lopes,DCD5B74,Toyota,Prata
+Henrique Alves Dias,FBD4D87,Honda,Cinza
+Rafael Alves Araujo,EBA2C86,VW,Vermelho
+Guilherme de Medeiros Soares,DBB4C28,Toyota,Prata
+Thiago de Medeiros Melo,CBA0E37,Fiat,Prata
+Mariana Cruz Amancio,CAC2C33,Toyota,Prata
+Henrique Vieira Pereira,CDB5E51,Fiat,Vermelho
+Erik Alves Domingues,ACE1D55,Toyota,Vermelho
+Sofia Santana Araujo,EBF0D83,Honda,Azul Claro
+Miguel Matos da Costa,CBE6E85,Toyota,Cinza
+Beatriz Bellini Ribeiro,EFA9B18,VW,Branco
+Gabriel Paschoalino Melo,FEB0A59,Honda,Cinza
+Livia de Medeiros Lima,CDE5E39,Fiat,Branco
+Vitória Nascimento Ribeiro,EDC7B13,Chevrolet,Preto
+Pedro Santana Pinto,EDA9B88,VW,Cinza
+Yasmin Alves Melo,BDD5E73,VW,Azul Claro
+Giovanna Gomes Silva,FDC5B47,Toyota,Prata
+Thiago Matos Trindade,BBF2C15,Hyundai,Preto
+André Queiroz Sanches,CCF1B57,Hyundai,Preto
+João da Silva Mendes,FBA2D13,Toyota,Cinza
+Larissa Gomes Athayde,ADD8C95,Hyundai,Azul Claro
+Thiago Gomes Amaral,BBB4B86,Fiat,Branco
+Eduardo da Silva Ribeiro,CBD1E67,Chevrolet,Prata
+Thiago de Almeida Senzaki,FEB7B44,Fiat,Prata
+Thiago Fernandes Camargo,CEF9C28,Honda,Branco
+Vinícius Vieira Lima,CBF2A97,Fiat,Vermelho
+Vitória Amorim Ribeiro,CBC2C84,Toyota,Preto
+João Vieira Pereira,AAF9E82,Toyota,Preto
+Guilherme Braz Araujo,CFB9C70,VW,Azul Claro
+Yasmin Cristine Lima,BAD6B56,Hyundai,Azul Claro
+Thiago Amorim Pinto,CFD5B12,Hyundai,Cinza
+Victor Nascimento Rodrigues,EAC4E57,Hyundai,Preto
+Thiago Alves Sanches,EEB0B98,Fiat,Prata
+Daniel Ferreira Mengue,DDB4D12,Toyota,Azul Claro
+Rafael Cruz Camargo,CEE7C82,VW,Cinza
+Mariana da Silva Amancio,EAD1A95,Fiat,Azul Claro
+Larissa Braz Silva,FDC9D41,Honda,Preto
+Samuel Vieira Pereira,FBC7B96,VW,Preto
+Vitória Queiroz Pereira,AAE2E99,Fiat,Azul Claro
+Felipe de Medeiros da Costa,BED5A24,Toyota,Preto
+Larissa Bellini Dias,BCD1E26,Toyota,Vermelho
+Pedro Ponciano Lima,CBA0E50,Honda,Branco
+Gabriel Gomes dos Santos,AFF4E16,Honda,Preto
+Samuel Gomes Rodrigues,DDB7D14,Honda,Cinza
+Rafael Queiroz Senzaki,FCC1D72,Toyota,Cinza
+Gabriel Fernandes Campos,ACE3E71,Chevrolet,Azul Claro
+Beatriz Martins da Costa,BDA7B31,Honda,Azul Claro
+João Paschoalino Ribeiro,DEA3C66,Hyundai,Vermelho
+Mariana Amorim Pereira,DEE6E75,Hyundai,Cinza
+Rafael Ferreira Domingues,FDB2D13,VW,Vermelho
+Eduardo Gomes Melo,EBC5D71,Toyota,Azul Claro
+Daniel Queiroz Trindade,ADB6C22,Toyota,Branco
+Pedro Alves Mendes,DBE4E12,Toyota,Preto
+Victor Santana Mengue,ACF1E83,Fiat,Prata
+Clara Vieira Mendonça,DEC7C75,VW,Branco
+João Ponciano Lima,FCD2D59,Honda,Vermelho
+Yasmin Matos Dias,DBE8B58,Fiat,Vermelho
+André Braz Domingues,BCB1D50,VW,Preto
+Clara Ferreira Araujo,ADF3A27,Toyota,Cinza
+Erik Braz Barbosa,DCF8A46,Fiat,Vermelho
+Henrique Cruz Mengue,CDD1E91,Fiat,Vermelho
+Victor Paschoalino Araujo,FEA2E94,Toyota,Cinza
+Erik Queiroz Pinto,CAE4E22,VW,Cinza
+Henrique de Almeida Ribeiro,EAB6D62,Honda,Cinza
+Vinícius Franco da Costa,BAE2A26,Hyundai,Vermelho
+Maria Nascimento Lopes,EBC1E77,Chevrolet,Prata
+Guilherme Queiroz Soares,AED3C35,Chevrolet,Prata
+André Braz Amaral,CAE5A13,VW,Cinza
+Clara Cruz Melo,FCD0C32,Honda,Vermelho
+Giovanna Franco Sanches,AAA0B73,Chevrolet,Vermelho
+Yasmin Cristine Melo,DCE5D25,Honda,Branco
+Vinícius Cruz da Costa,BBF3E85,Honda,Branco
+Vinícius Nascimento Senzaki,CAC6A62,Chevrolet,Branco
+Vinícius Amorim Machado,EEE1C53,Chevrolet,Azul Claro
+Beatriz Santana Lima,BEE6E56,Chevrolet,Preto
+Erik Ferreira Mendes,CDF7C62,Fiat,Cinza
+Vinícius Vieira Pinto,ABF2C29,Hyundai,Prata
+Thiago Gomes dos Santos,FDD2A63,Toyota,Azul Claro
+João Paschoalino Pinto,FBC0D99,Toyota,Vermelho
+Miguel Franco Mengue,FAB9D96,Honda,Vermelho
+Larissa Franco da Costa,DAA3A76,Fiat,Preto
+Vitória Vieira Mengue,CDB6B49,Honda,Azul Claro
+Gabriel Fernandes da Costa,ACB0B87,Chevrolet,Cinza
+Maria Paschoalino Machado,FCF3B28,Toyota,Preto
+Guilherme Queiroz Sanches,BAE7A92,Fiat,Branco
+Felipe Mesquita Melo,FAB6A38,Hyundai,Branco
+Clara da Silva Lopes,CED1D85,Honda,Preto
+Thiago de Medeiros Amancio,EBE6C37,Toyota,Preto
+Pedro Matos Mengue,DBB9A84,Chevrolet,Vermelho
+Guilherme Franco Trindade,DAB9E87,Fiat,Prata
+Miguel Cruz Trindade,ADE1C30,VW,Preto
+Daniel Santana Araujo,CCD4E35,Chevrolet,Branco
+Mariana Bellini Lima,FBD4B83,Fiat,Vermelho
+Thiago Braz Domingues,FAA9A47,Chevrolet,Branco
+Rafael Vieira Campos,BBD6D10,Fiat,Prata
+Maria Ferreira Pereira,BAE1E67,Hyundai,Branco
+Henrique Queiroz Senzaki,FAB3E42,Fiat,Vermelho
+Guilherme Ferreira Araujo,CDB8A27,Fiat,Preto
+Mariana da Silva Lopes,FEF6D70,Hyundai,Branco
+Daniel Mesquita da Costa,ABF7C43,Chevrolet,Cinza
+Sofia de Medeiros Araujo,CFA5A37,Toyota,Cinza
+Clara Alves Pinto,DBB3E91,Honda,Cinza
+Pedro Queiroz Senzaki,FEB4B79,Chevrolet,Azul Claro
+Felipe Franco Camargo,CBA3B77,VW,Prata
+Vinícius Ferreira Castilho,BBB4D89,Toyota,Azul Claro
+Maria de Oliveira Campos,EBD1D17,Fiat,Prata
+Rafael de Medeiros Mendonça,FEA3B88,Fiat,Vermelho
+Gabriel Bellini Pereira,EDF0C82,Honda,Vermelho
+André Ferreira Pereira,EAB4D47,Toyota,Branco
+Yasmin Franco Melo,AFE8A63,Hyundai,Preto
+Sofia Alves Athayde,AAC9E47,Fiat,Vermelho
+Daniel Paschoalino Camargo,BEE2A34,Chevrolet,Cinza
+Yasmin Bellini Machado,CDB2D78,Hyundai,Prata
+Pedro de Almeida Trindade,DAC9D69,Hyundai,Preto
+Miguel Amorim Soares,EFC9A12,Honda,Cinza
+Erik de Almeida Sanches,FDF2B93,Toyota,Cinza
+Maria Braz Lopes,CAB4A39,Chevrolet,Preto
+Thiago Bellini dos Santos,FFE5D92,Chevrolet,Branco
+Erik de Medeiros Trindade,EAF7B76,Chevrolet,Cinza
+Vitória Nascimento Sanches,BBE3D41,Fiat,Vermelho
+Thiago Cruz Silva,EDD8C38,Honda,Azul Claro
+Thiago Vieira Campos,EAF7B58,Chevrolet,Azul Claro
+Samuel Cristine Machado,BCF5B62,Honda,Preto
+Beatriz Alves Barbosa,DAF3A83,Fiat,Azul Claro
+Samuel Ferreira Pinto,CAC2B25,Honda,Branco
+Vinícius Amorim Dias,FAD2B13,Toyota,Cinza
+Daniel Ponciano Soares,EDA6B79,Toyota,Preto
+Larissa Ponciano da Costa,BAB4D63,Fiat,Cinza
+Yasmin Amorim Araujo,CEC9C84,VW,Branco
+Vitória Matos Amancio,DDB1C10,Fiat,Azul Claro
+Vitória Cruz Castilho,ADF6B64,VW,Branco
+Guilherme Queiroz Amaral,ACE2B85,Fiat,Azul Claro
+André Queiroz Mengue,ECC1D83,Chevrolet,Azul Claro
+Maria Martins Senzaki,DAF8B89,Fiat,Prata
+Thiago da Silva Trindade,FDA1B13,Hyundai,Branco
+Vitória Cruz Castilho,ABC3C72,Toyota,Branco
+Matheus Franco Barbosa,FFB5C38,Hyundai,Vermelho
+Giovanna Matos Barbosa,AFF6B93,Hyundai,Vermelho
+André de Almeida Melo,BBE2A84,Hyundai,Azul Claro
+Rafael Ponciano Senzaki,FED6B17,VW,Vermelho
+Guilherme Matos Senzaki,EAB5D17,Toyota,Preto
+Clara Ferreira Lima,ABC2A90,Honda,Preto
+Gabriel de Oliveira Soares,FDA7B66,Honda,Prata
+Rafael Franco Domingues,CBF5D77,Hyundai,Preto
+Miguel Santana Dias,AFB4D14,Toyota,Cinza
+Clara Martins Senzaki,ADD8A79,Hyundai,Preto
+Miguel Bellini Rodrigues,FCC7C16,Chevrolet,Cinza
+Thiago Santana Rodrigues,DAC3D48,Fiat,Azul Claro
+Larissa Ponciano Melo,FAC8B78,VW,Preto
+Guilherme Alves Silva,DFC9A56,Toyota,Azul Claro
+Rafael de Almeida da Costa,FAA4C60,Fiat,Azul Claro
+Felipe Ponciano Sanches,FCD6E82,VW,Preto
+Guilherme de Oliveira Domingues,FDC4D29,Hyundai,Azul Claro
+Giovanna Vieira Mengue,EDB2A39,Hyundai,Vermelho
+Maria Santana Barbosa,DEF2A96,Toyota,Preto
+Matheus Gomes Silva,BDE7A77,Hyundai,Preto
+Samuel Franco Camargo,BCD9C61,Fiat,Azul Claro
+Vinícius Cristine Lima,CDF7D71,Honda,Branco
+Vinícius Nascimento Ribeiro,AAD6C79,Fiat,Vermelho
+Maria de Almeida Soares,BDD2B96,Hyundai,Cinza
+Sofia Bellini Amaral,BDD5A78,Hyundai,Cinza
+Henrique de Almeida Lopes,BBA1C60,Toyota,Prata
+Guilherme Ponciano Mendonça,FAC5A61,Chevrolet,Prata
+Larissa Cristine Senzaki,AAC4D55,Toyota,Branco
+Gabriel Vieira Lima,FCA4C76,Fiat,Prata
+Samuel Vieira Camargo,DFF3B36,VW,Branco
+Thiago Cruz Mendonça,EBB7D10,Hyundai,Vermelho
+Guilherme Alves Mendes,ECC0B76,Fiat,Prata
+Larissa Martins Mengue,DEB0C20,Chevrolet,Azul Claro
+Thiago Cristine Senzaki,DEC2A39,Fiat,Cinza
+Livia Gomes Camargo,BDA0A33,Fiat,Branco
+Mariana Vieira Sanches,ADE1A64,Fiat,Branco
+Samuel Bellini Ribeiro,DCE5A56,Honda,Preto
+Samuel Mesquita Trindade,EFF1A52,Fiat,Vermelho
+Yasmin Martins Mengue,AFB8B35,Toyota,Branco
+Eduardo Cristine Mendonça,FEF1B80,Chevrolet,Vermelho
+Victor Santana Amancio,FFB2B38,Honda,Vermelho
+Sofia Cruz Melo,EED9A63,Hyundai,Cinza
+Giovanna Bellini Mendonça,EAA2D83,Hyundai,Cinza
+Beatriz Gomes Melo,DBF3D71,Chevrolet,Prata
+Giovanna de Almeida Mengue,FAF5E61,VW,Preto
+Victor Cruz Athayde,ACA1E44,Fiat,Vermelho
+Sofia Ferreira Melo,BBD9B34,Chevrolet,Vermelho
+Rafael de Oliveira Lima,BDD0B71,Chevrolet,Branco
+Samuel Cruz Lopes,AFA0A68,Toyota,Cinza
+Larissa de Medeiros Pereira,BFA6A15,Fiat,Azul Claro
+Clara Martins Castilho,EAC9A25,Honda,Vermelho
+Rafael Santana Mendonça,BFA1B11,Chevrolet,Prata
+Pedro de Medeiros Lopes,FCF6E52,Honda,Cinza
+João Fernandes Mengue,EBA7C95,VW,Prata
+Victor Cristine Araujo,DBA0D19,VW,Branco
+André Ponciano Lopes,ADC9A67,Honda,Azul Claro
+Eduardo Gomes Pinto,ECE3C25,Chevrolet,Branco
+Sofia Ferreira Silva,DAB2A15,Hyundai,Cinza
+Mariana de Medeiros Mengue,BCA6A17,Chevrolet,Preto
+Guilherme Bellini Araujo,CEA4B58,Fiat,Preto
+João Ponciano dos Santos,FAE4A10,VW,Azul Claro
+Guilherme Ponciano Soares,DCB5B50,Toyota,Vermelho
+Guilherme Matos Camargo,EBF4A69,Honda,Branco
+Livia Matos Araujo,DEC9C31,VW,Vermelho
+André Fernandes Castilho,DBE5E86,Fiat,Vermelho
+Eduardo Nascimento Rodrigues,CEC7B87,Chevrolet,Azul Claro
+Henrique Ponciano da Costa,DCF2A40,Honda,Vermelho
+Thiago de Oliveira Trindade,EAC5C63,Hyundai,Branco
+Pedro Franco Lopes,FAD2E11,Honda,Prata
+Samuel Paschoalino Soares,BEA5B51,Honda,Azul Claro
+Erik Braz Trindade,BEA2E32,Chevrolet,Preto
+Miguel Martins Lopes,CAC8A21,Honda,Prata
+Sofia de Almeida da Costa,AAA0C60,Fiat,Vermelho
+Samuel Fernandes Senzaki,BEF7A25,Chevrolet,Branco
+Daniel Franco dos Santos,DAD8A89,Chevrolet,Preto
+Maria Alves Senzaki,ADF3B18,Hyundai,Azul Claro
+Guilherme Mesquita Pinto,FAC0D45,Toyota,Azul Claro
+Victor de Oliveira Lopes,FEC2B28,VW,Vermelho
+Matheus Cristine Mendes,BDD9D45,VW,Prata
+Miguel Queiroz Lopes,EEE2E82,Hyundai,Cinza
+Victor Amorim Mendonça,ACE5B87,VW,Azul Claro
+Livia Ponciano Lopes,EDF4A76,Fiat,Cinza
+Daniel Ponciano Lopes,CAE6A77,Fiat,Branco
+Daniel Queiroz da Costa,DDE6A95,Honda,Azul Claro
+Eduardo Fernandes Mendes,BAF5C26,Hyundai,Prata
+Mariana Braz Silva,CFD2E88,Honda,Cinza
+Felipe Fernandes Ribeiro,CFD7E64,Toyota,Prata
+Miguel da Silva Araujo,AAC9E34,Toyota,Branco
+Mariana de Oliveira Pinto,CEB7C36,Chevrolet,Cinza
+Daniel Ponciano Trindade,BCA6B70,Toyota,Prata
+Miguel Vieira Melo,CAE1D67,Chevrolet,Azul Claro
+Henrique Bellini Amancio,CFD8D24,Hyundai,Vermelho
+Guilherme Fernandes Rodrigues,AEB6A14,Honda,Prata
+Henrique Martins da Costa,EBF8A19,Chevrolet,Prata
+Vitória Matos Soares,FCA7C88,VW,Azul Claro
+Erik Vieira Campos,ACB7D34,Honda,Cinza
+Mariana Amorim Senzaki,FBA4A95,Chevrolet,Azul Claro
+Maria Braz Melo,DEB3B59,Fiat,Cinza
+Eduardo Matos Ribeiro,DAD0C68,Hyundai,Cinza
+Beatriz Queiroz Machado,BEE6D17,Hyundai,Vermelho
+Livia Alves Senzaki,DFD8D86,Fiat,Azul Claro
+Beatriz Santana Dias,EFD4A87,Hyundai,Prata
+Erik Braz Sanches,AFE3C48,Hyundai,Branco
+Mariana Matos Castilho,DEE9D60,Hyundai,Preto
+Mariana Paschoalino Rodrigues,EBF5E64,Hyundai,Preto
+Gabriel de Medeiros Trindade,CDF5C97,Honda,Vermelho
+Livia da Silva Araujo,AFD6C96,Honda,Preto
+Sofia da Silva Senzaki,AFC9C92,Honda,Prata
+Miguel Vieira Pinto,EEF1A46,Fiat,Azul Claro
+Eduardo Alves Amaral,DEB8C66,VW,Prata
+Thiago Matos Melo,ACD8A95,Honda,Preto
+Victor Cruz Dias,CEC3B71,Chevrolet,Preto
+Victor Ferreira Campos,DFC0D43,Toyota,Prata
+Matheus da Silva Lima,BFD8D86,Honda,Branco
+Yasmin Gomes Trindade,AFC1C30,Fiat,Prata
+João Mesquita Amancio,FDA5E66,Toyota,Azul Claro
+Henrique Vieira Sanches,BCA0A89,Hyundai,Vermelho
+Thiago Matos Camargo,CBE4D37,Hyundai,Cinza
+Livia Matos Domingues,CAA3C36,Fiat,Branco
+Vitória Nascimento Athayde,FBE5B40,Toyota,Branco
+Livia Nascimento Dias,CBF2D65,VW,Branco
+Vinícius de Medeiros Rodrigues,EDE1C19,Fiat,Branco
+Vinícius Cruz Senzaki,DDB1B45,Chevrolet,Preto
+Matheus de Medeiros Senzaki,BDA9C40,Chevrolet,Branco
+Erik Franco Dias,CED5B57,Hyundai,Azul Claro
+Vinícius de Oliveira Lima,FEA1C70,Hyundai,Branco
+Miguel Franco Dias,CDB6A85,VW,Prata
+Rafael Fernandes Athayde,EFF7D21,Chevrolet,Branco
+Larissa Gomes Silva,EBF7D89,Chevrolet,Cinza
+João Alves Amaral,EBC6E59,Chevrolet,Vermelho
+Vinícius Fernandes Sanches,EAC3E37,Chevrolet,Cinza
+Miguel Gomes Silva,DDA7B80,VW,Vermelho
+João Fernandes Araujo,FCE1E21,Fiat,Vermelho
+Erik Franco Rodrigues,FDF5C82,Chevrolet,Vermelho
+Livia de Medeiros Castilho,FBF4E52,Toyota,Azul Claro
+Eduardo Queiroz Lopes,CCC0C17,VW,Cinza
+Mariana Vieira Camargo,ACD0A23,VW,Cinza
+Vitória Queiroz Pereira,ADC7B16,Chevrolet,Cinza
+Henrique Franco Trindade,DEA8C22,Chevrolet,Cinza
+Samuel Ponciano Lima,EBD5A12,VW,Branco
+Daniel Ferreira Araujo,CDD0D30,Fiat,Branco
+Eduardo Amorim Machado,DCF9C51,Chevrolet,Branco
+Gabriel Cruz Camargo,DAE2E50,Fiat,Cinza
+João Braz Mendonça,BAC8E63,VW,Branco
+Clara Alves Ribeiro,EDF5C42,Chevrolet,Vermelho
+Sofia Amorim da Costa,CEA3A60,VW,Preto
+Sofia Matos Pinto,CFD8A22,Fiat,Preto
+Victor Franco Athayde,CAA5C37,Honda,Preto
+Henrique Braz Sanches,EAE3D93,Honda,Preto
+Livia Fernandes Trindade,CAC5A22,Honda,Prata
+Livia Ferreira Pereira,FDA1C75,Fiat,Branco
+Daniel Fernandes Campos,AEC4B12,Chevrolet,Vermelho
+João Santana Dias,ECA7C73,Fiat,Cinza
+Beatriz Queiroz Castilho,CBD5E78,Toyota,Azul Claro
+Gabriel Nascimento Senzaki,DAF5D52,Chevrolet,Prata
+João Nascimento Barbosa,CFE3C74,Toyota,Azul Claro
+Livia Bellini Mendonça,FCE2B56,Fiat,Prata
+Felipe Martins Ribeiro,ABD1C21,VW,Cinza
+Erik Queiroz Athayde,CCD2E13,VW,Azul Claro
+Samuel Ferreira Soares,FDF5E57,Chevrolet,Vermelho
+Rafael Alves Senzaki,CBF8D86,Toyota,Vermelho
+Vinícius Fernandes Castilho,FFB2D33,Fiat,Branco
+Maria Franco Castilho,BDD7B47,Hyundai,Azul Claro
+Eduardo de Oliveira Silva,FFE0E56,Fiat,Cinza
+Clara Gomes Lopes,FFA3D27,Fiat,Preto
+Yasmin Queiroz dos Santos,EAC1B75,VW,Vermelho
+Maria de Almeida Sanches,FCA9A70,Hyundai,Azul Claro
+Vitória Franco Campos,FDB4B72,Toyota,Azul Claro
+Pedro Vieira Lima,EAB0A18,Hyundai,Prata
+Samuel Queiroz Sanches,BDD8C91,Toyota,Cinza
+Erik Braz Dias,CCA2E26,Chevrolet,Vermelho
+Giovanna Alves Lima,ADE9C18,Honda,Azul Claro
+Giovanna Bellini Mengue,AED2A33,Chevrolet,Cinza
+Matheus Gomes Camargo,FEF1D36,Fiat,Branco
+Rafael Braz Barbosa,CAC4E59,Honda,Prata
+André Franco Mendes,AEF6B55,Hyundai,Cinza
+Miguel Cruz Camargo,ADA2E12,VW,Cinza
+Daniel Vieira Mendes,DDF8C52,Fiat,Azul Claro
+Daniel Amorim Ribeiro,FFA7A54,Honda,Preto
+Yasmin Ferreira Mengue,CDF8A68,Toyota,Azul Claro
+Miguel Vieira Mengue,BCB1B74,Toyota,Vermelho
+Erik Amorim Ribeiro,ABD8E84,Hyundai,Azul Claro
+Beatriz Mesquita Campos,FCB2B11,Toyota,Azul Claro
+Maria de Almeida dos Santos,DDD5A14,VW,Azul Claro
+Felipe Fernandes da Costa,CAA7A76,Toyota,Azul Claro
+Daniel da Silva Barbosa,FCA7C85,Fiat,Branco
+Vinícius Matos Pereira,EEC2D88,Honda,Preto
+Eduardo Vieira Silva,BEF9A90,Toyota,Prata
+Miguel de Oliveira Camargo,DEE8C68,Fiat,Preto
+Daniel Alves Amaral,ADF5A68,Fiat,Azul Claro
+Henrique Paschoalino Ribeiro,BEA2E99,Toyota,Azul Claro
+Felipe Fernandes Araujo,EBA7B51,Fiat,Azul Claro
+Beatriz Franco Amaral,FED1C86,Toyota,Azul Claro
+Gabriel Ferreira Mendes,FFC2B78,Hyundai,Prata
+Mariana Vieira Barbosa,ECD5A38,Toyota,Vermelho
+Gabriel Gomes Campos,FCE9D22,VW,Vermelho
+Samuel Fernandes Ribeiro,FCC1E58,VW,Vermelho
+Giovanna Cristine Mengue,AFC8A54,Fiat,Cinza
+Victor Fernandes Soares,BAE7A43,Hyundai,Prata
+João de Oliveira Lopes,FBC6A58,Chevrolet,Branco
+Giovanna Mesquita Castilho,FAB8D71,Honda,Azul Claro
+Sofia Cruz Pereira,EDC3A67,VW,Prata
+Vinícius Amorim Pereira,CFD0B69,Chevrolet,Prata
+Larissa Queiroz Sanches,FEB8B91,Chevrolet,Vermelho
+Vitória de Almeida Mengue,EAB7E70,Fiat,Prata
+Guilherme Franco Trindade,ECB8C34,Hyundai,Prata
+Yasmin Braz Amancio,EBF6D63,Hyundai,Prata
+Yasmin de Medeiros dos Santos,CBA3D39,VW,Branco
+Yasmin Nascimento Pinto,FBB6E57,Toyota,Azul Claro
+Samuel Fernandes Melo,EDA0D47,Honda,Cinza
+André Paschoalino Silva,AEB2C24,Toyota,Cinza
+Beatriz Nascimento Athayde,AFF8C10,Toyota,Cinza
+Maria Nascimento Mendonça,DEA7D36,Honda,Prata
+Maria Ferreira Ribeiro,BFD0C98,Toyota,Vermelho
+Maria Paschoalino Amaral,DBA2D15,Honda,Prata
+Clara Amorim Soares,FDF8B37,Fiat,Prata
+Thiago Ferreira Castilho,FEF1D93,Fiat,Prata
+Erik Queiroz Rodrigues,DFE6D94,Fiat,Branco
+Guilherme Cristine da Costa,DCA9D94,Toyota,Azul Claro
+Pedro Amorim Araujo,FDB9C60,VW,Cinza
+Erik Bellini Machado,AEA6B53,VW,Branco
+Thiago Vieira Castilho,AAC5C72,Honda,Prata
+Mariana Mesquita Mendes,FCC0D68,Fiat,Cinza
+Mariana Alves Pereira,DFD2E17,Fiat,Branco
+Ricardo Cavalcanti de Moraes,L337B89,Honda,Azul Claro
+Guilherme de Medeiros Trindade,BCB3C91,Toyota,Branco
+Sofia Amorim dos Santos,CDF2A93,Hyundai,Vermelho
+Gabriel Matos Trindade,AED5B70,Hyundai,Cinza
+Pedro Mesquita Ribeiro,ABF7C23,Toyota,Azul Claro
+Guilherme de Almeida Ribeiro,FBF3C53,Toyota,Cinza
+Rafael Vieira da Costa,EBE0A23,Fiat,Cinza
+Daniel Amorim Camargo,CDF9A70,Chevrolet,Cinza
+Thiago Braz Domingues,EAF6E90,Hyundai,Azul Claro
+Miguel Queiroz Lopes,DBF8A62,VW,Vermelho
+Erik Alves Mengue,EAC6D66,Hyundai,Prata
+André de Almeida Araujo,DEB6E28,Fiat,Branco
+João Matos Lopes,CFF1D20,Honda,Cinza
+Matheus Gomes dos Santos,DCC9D54,VW,Vermelho
+Guilherme Fernandes Castilho,DFC5C42,Toyota,Vermelho
+Mariana Queiroz dos Santos,FBE3C39,VW,Vermelho
+Vitória Amorim Senzaki,FCA7D57,Honda,Prata
+Thiago Ferreira Rodrigues,BED2D64,Fiat,Azul Claro
+Henrique Mesquita Pinto,DAE5D26,Toyota,Prata
+Gabriel Bellini Domingues,EFF2B81,Chevrolet,Branco
+Thiago Cristine Sanches,BEC6E50,Chevrolet,Vermelho
+Giovanna de Medeiros Amancio,BBF9B82,Honda,Cinza
+Erik Vieira Dias,CEA9A14,Hyundai,Azul Claro
+Yasmin Martins Trindade,AEE6B74,Hyundai,Vermelho
+Daniel Vieira Trindade,DEF4D96,Honda,Preto
+João Vieira Machado,AAD8E59,Fiat,Cinza
+Rafael Queiroz Melo,BCE8B40,Fiat,Preto
+Erik de Oliveira da Costa,ACD7B50,VW,Prata
+Thiago Gomes Campos,FCF0C22,Honda,Azul Claro
+Eduardo de Medeiros Camargo,FEC3B41,Fiat,Preto
+Eduardo da Silva Campos,CDA9C34,Chevrolet,Cinza
+Sofia Fernandes Domingues,EAA5E51,VW,Azul Claro
+Larissa Cristine da Costa,FBD1B24,VW,Cinza
+Livia de Oliveira Lopes,ACE5E11,Honda,Prata
+Miguel Cruz Domingues,EFE1B10,Honda,Cinza
+Vinícius Ponciano Amaral,EAD8E74,VW,Cinza
+Victor da Silva Athayde,FCD0A70,VW,Prata
+André Martins dos Santos,DDA5E72,Hyundai,Branco
+Henrique de Medeiros Sanches,DDB9E88,Hyundai,Cinza
+Felipe Santana Athayde,EDB8D74,Toyota,Cinza
+Felipe Braz Araujo,BEF0D98,Toyota,Azul Claro
+Vinícius de Oliveira Lopes,ABD0E87,Fiat,Azul Claro
+Maria Paschoalino Dias,BDD6A94,Chevrolet,Azul Claro
+Henrique de Oliveira Lima,FBD8C41,Hyundai,Vermelho
+Maria Paschoalino Camargo,CBD0B95,Hyundai,Azul Claro
+Mariana Paschoalino Athayde,AFF4B52,Toyota,Cinza
+Thiago Ferreira Soares,FFB9B71,Hyundai,Vermelho
+Rafael Braz dos Santos,FBF0C41,Hyundai,Prata
+Miguel Mesquita Dias,DDF0D74,Toyota,Prata
+Henrique Paschoalino Lima,FCA0C33,Honda,Prata
+Mariana Braz Mendonça,DDC1C34,Hyundai,Preto
+Rafael da Silva Amancio,EFD5A35,Fiat,Azul Claro
+Beatriz Bellini Mendonça,EDE5E65,Hyundai,Branco
+Matheus Amorim da Costa,EBF9D50,Toyota,Azul Claro
+Thiago Bellini Trindade,AAD8E67,Honda,Vermelho
+Thiago Santana Silva,CFA8A96,Fiat,Azul Claro
+Guilherme Amorim Domingues,ACA8D76,Hyundai,Azul Claro
+Victor Braz Domingues,FAD2D52,VW,Cinza
+Victor Franco Lopes,CBF3E62,VW,Vermelho
+Beatriz da Silva Trindade,ABD3D86,VW,Prata
+Erik de Medeiros Amaral,AFD8D56,Hyundai,Cinza
+Vitória Cruz Mendes,CEE0E51,Hyundai,Prata
+Clara Amorim Lopes,DDF5E15,Chevrolet,Azul Claro
+Vitória Cristine Machado,CDA3A94,VW,Cinza
+Giovanna Nascimento Pinto,FDA0C17,VW,Cinza
+Sofia Amorim Amancio,DFF6A82,Hyundai,Branco
+Maria Gomes Mendes,BBE1E75,Toyota,Prata
+João Gomes da Costa,CEA5E37,Chevrolet,Branco
+Clara Bellini Lopes,AEA2E42,Chevrolet,Preto
+Mariana Braz Lopes,DBC9D94,Fiat,Vermelho
+Vinícius Queiroz da Costa,AAC2A94,Chevrolet,Azul Claro
+Victor Queiroz Machado,BFF9D41,Hyundai,Preto
+Vinícius Cruz Rodrigues,CDB6E76,Hyundai,Preto
+Beatriz Mesquita da Costa,FEE2D95,Toyota,Vermelho
+Felipe Ponciano Soares,EBF5E95,Hyundai,Prata
+Larissa Amorim Soares,ECA0B87,VW,Azul Claro
+Miguel da Silva Athayde,BDA6C31,Toyota,Prata
+Felipe Amorim Silva,BAE6E21,Fiat,Preto
+Vinícius Amorim Mengue,BBC0A29,Toyota,Cinza
+Felipe de Medeiros Lopes,CAC2E43,Chevrolet,Prata
+Giovanna Franco da Costa,ACD8D66,Hyundai,Prata
+Yasmin Vieira Campos,FDE2E74,Toyota,Cinza
+Larissa Cristine Amaral,FCC5B39,Honda,Vermelho
+Rafael Braz Machado,FEE7B33,Fiat,Prata
+Daniel Nascimento Sanches,AAD7D62,Fiat,Prata
+Daniel Amorim Sanches,FDE0E32,Toyota,Prata
+Maria de Almeida Campos,CBE9D10,Fiat,Prata
+Larissa Ponciano Sanches,CBD1C21,Chevrolet,Azul Claro
+João Vieira da Costa,AFE2E39,VW,Preto
+Mariana Santana Lopes,CEA2B17,VW,Azul Claro
+Sofia Cruz Melo,BAD8D11,Fiat,Preto
+Beatriz Paschoalino Campos,DCF2A58,Fiat,Vermelho
+Sofia Alves Lopes,DBF5B22,Hyundai,Azul Claro
+Vinícius Santana Castilho,FCE7C99,Honda,Branco
+Thiago Ferreira Amaral,AFA6B61,Hyundai,Azul Claro
+João Fernandes Senzaki,BCE1A53,Chevrolet,Prata
+Livia Alves Ribeiro,DFD0E39,Toyota,Prata
+Matheus Vieira Athayde,EAE2D57,Chevrolet,Azul Claro
+Felipe Ferreira Soares,DCB6B12,Fiat,Azul Claro
+Erik Franco Camargo,FBB2A80,Chevrolet,Preto
+Gabriel Matos Domingues,DFF8D37,Fiat,Prata
+Pedro Cruz Dias,FBD2D34,Fiat,Azul Claro
+Matheus de Oliveira Lima,BFA7B72,Toyota,Cinza
+Miguel Cruz Barbosa,BCA3D51,Chevrolet,Branco
+Daniel Cruz Barbosa,CFC0E48,Fiat,Preto
+Rafael Fernandes Lopes,DCD7C21,Honda,Vermelho
+Vitória Fernandes Campos,FAD1D77,Fiat,Preto
+Vitória Ponciano Pereira,BBC1A38,Chevrolet,Prata
+Victor Ponciano Barbosa,FFB9A97,VW,Vermelho
+Matheus Alves Amancio,CBC9E57,Honda,Vermelho
+Mariana Ferreira Pereira,FAF7E18,Chevrolet,Branco
+Clara Amorim Athayde,BDF2A26,Honda,Azul Claro
+Felipe Martins Castilho,CCE8A96,Toyota,Cinza
+Yasmin Mesquita Soares,DBA6D50,Chevrolet,Cinza
+Vinícius Paschoalino Machado,BEC0A27,VW,Azul Claro
+Guilherme Ferreira Soares,FDC8C19,Chevrolet,Branco
+Miguel Gomes Silva,BBC3D44,Fiat,Branco
+Felipe Queiroz Castilho,AFA2D36,VW,Cinza
+Felipe Cristine Pinto,EDF8A86,VW,Prata
+João Martins Mendes,BDB8D94,Honda,Branco
+Sofia Franco Trindade,FCB3E90,Fiat,Azul Claro
+Henrique Nascimento Melo,ADB8A11,Hyundai,Cinza
+Henrique da Silva Camargo,BFB5C86,Hyundai,Preto
+Miguel de Medeiros Senzaki,CDB7A18,Chevrolet,Prata
+Matheus Ferreira Machado,BBF3E24,Chevrolet,Vermelho
+Eduardo Cruz Soares,EAB5D83,VW,Branco
+Miguel de Almeida Athayde,CFE0A68,Hyundai,Preto
+Henrique Santana Mendes,CEC7B65,Chevrolet,Preto
+Vinícius Mesquita Araujo,FFB9A91,Honda,Vermelho
+Thiago Fernandes Camargo,FBD8C98,Fiat,Branco
+Gabriel Paschoalino Pereira,ABF9E99,Chevrolet,Prata
+Eduardo Paschoalino Silva,BBB9D41,VW,Prata
+Larissa Franco Athayde,BFA1E33,Fiat,Cinza
+Felipe Nascimento Athayde,ACF3D15,Chevrolet,Prata
+Eduardo Nascimento Lima,FEC8D45,Honda,Cinza
+Vinícius Franco Melo,CCD5B68,Hyundai,Preto
+Guilherme Santana da Costa,ECF6D78,Chevrolet,Cinza
+Henrique Vieira Athayde,EFF6B17,Honda,Vermelho
+Eduardo Ferreira Araujo,FDB2A34,Honda,Vermelho
+Clara Paschoalino Melo,DAF4D68,Toyota,Branco
+Daniel Santana Trindade,CAB7A94,Honda,Branco
+Guilherme Fernandes Amancio,CCE0B64,Hyundai,Vermelho
+Vitória da Silva Senzaki,ACC5D67,VW,Vermelho
+Larissa de Oliveira Domingues,CED3A39,Fiat,Prata
+Rafael Mesquita Mengue,DFE3C79,Fiat,Prata
+Larissa Nascimento Barbosa,EDB6B66,Honda,Preto
+João Santana Dias,BDB0D63,VW,Branco
+Victor Franco Amancio,EBC6D86,Chevrolet,Preto
+Pedro de Oliveira Pinto,FDF2D80,Hyundai,Vermelho
+Pedro de Almeida Mendes,BAD6A22,Toyota,Prata
+Yasmin Santana Barbosa,FEB6C96,VW,Cinza
+Rafael Queiroz Machado,BCD9E94,Toyota,Prata
+Vitória Amorim Trindade,FCD5A21,Hyundai,Cinza
+Thiago Amorim Athayde,BDE4A33,Toyota,Preto
+Eduardo Cruz Machado,CEB9C44,Honda,Azul Claro
+Vitória Amorim Lopes,ECA2E33,Honda,Branco
+Clara Santana Pereira,CDE8D18,Honda,Prata
+Vinícius Braz Barbosa,BFE6B83,Hyundai,Azul Claro
+Rafael Fernandes Silva,DDE4B81,Hyundai,Prata
+Samuel Vieira Machado,BBD4D59,Honda,Cinza
+Larissa da Silva Campos,CEC5A39,Hyundai,Preto
+Larissa Gomes Sanches,ADD5B91,Chevrolet,Vermelho
+João Bellini da Costa,CEC9B63,Honda,Branco
+Victor de Oliveira Dias,ADC4A17,Fiat,Azul Claro
+Clara Fernandes dos Santos,FDB5C41,Honda,Azul Claro
+Henrique de Almeida Mengue,DED6A67,Fiat,Branco
+Felipe Nascimento Trindade,BDE3D90,Hyundai,Cinza
+Victor Matos Ribeiro,FFB2A45,Toyota,Cinza
+Thiago Nascimento Machado,CCF5D42,Honda,Preto
+André Nascimento Pinto,BDC5D87,VW,Preto
+Felipe Cristine Barbosa,CDF2B37,Hyundai,Vermelho
+Samuel de Almeida Rodrigues,BCB6C76,VW,Cinza
+Giovanna da Silva Domingues,ADF3B92,Toyota,Branco
+João de Oliveira Amancio,ECC3B23,Toyota,Branco
+Felipe da Silva da Costa,EBA0C35,Hyundai,Preto
+André Fernandes Machado,ABC6C53,Toyota,Preto
+Rafael Nascimento Amancio,DFC0E54,VW,Cinza
+Daniel de Medeiros dos Santos,FBA6C78,Fiat,Vermelho
+Matheus Amorim Barbosa,EAC2B82,Honda,Preto
+João Fernandes Ribeiro,ADC6A61,VW,Vermelho
+Rafael da Silva Camargo,EEB7A10,Fiat,Preto
+Thiago Alves da Costa,EFC8B78,VW,Cinza
+Victor Vieira Sanches,ABE5C91,VW,Prata
+Giovanna Cruz Rodrigues,FCE8E95,Toyota,Prata
+Felipe Nascimento Trindade,CDA5A99,Honda,Azul Claro
+Victor Queiroz Silva,FFE4E79,Toyota,Azul Claro
+Giovanna Gomes Araujo,EAB6D65,Hyundai,Cinza
+Erik Ferreira Dias,DBE9E28,VW,Prata
+Miguel Santana Machado,FBF8D20,Honda,Preto
+Larissa Braz Soares,BBE6B92,Fiat,Branco
+Henrique Nascimento Melo,DCE6A89,Chevrolet,Preto
+Beatriz Alves Araujo,CBC3E91,VW,Preto
+Daniel de Oliveira Mendes,DDB0E40,VW,Cinza
+Livia Franco Sanches,FFB8E92,Fiat,Preto
+Eduardo de Medeiros da Costa,DAE6B44,Hyundai,Preto
+João Gomes Araujo,BDD5E17,Hyundai,Preto
+Felipe Martins Trindade,BBF4B48,VW,Prata
+Victor da Silva Ribeiro,AAE5E31,Honda,Cinza
+Erik Braz Dias,EAC2D31,VW,Cinza
+André Franco Soares,ADA8C50,Toyota,Branco
+Giovanna Gomes Domingues,AFD0D84,Honda,Azul Claro
+Matheus Cruz Rodrigues,EAB5D86,VW,Cinza
+Henrique Cruz Araujo,ECE6E46,Honda,Branco
+Clara Mesquita Lopes,FAE5C97,Hyundai,Prata
+Henrique Franco Barbosa,BAF7A97,Chevrolet,Vermelho
+Larissa Fernandes Ribeiro,EAF6D59,VW,Preto
+Mariana Matos Mendes,BCC4E88,VW,Vermelho
+Yasmin Amorim Athayde,CAC2A87,Hyundai,Preto
+Daniel Cristine Dias,CDA1E80,Toyota,Preto
+Giovanna Alves Senzaki,BEE6A85,Chevrolet,Branco
+Beatriz Paschoalino Amaral,DBE5E52,Fiat,Preto
+Felipe Gomes Amaral,CFA6B39,Honda,Cinza
+André Matos Mendes,CBA5A38,Toyota,Azul Claro
+Matheus Mesquita Camargo,ECC0C68,Honda,Prata
+Sofia Braz Soares,AAE0A45,Chevrolet,Prata
+Victor de Oliveira Mendonça,CCD1D79,Fiat,Branco
+Mariana Mesquita Pinto,CFE1A51,VW,Vermelho
+Pedro Santana da Costa,CFD8A28,Toyota,Cinza
+Beatriz Gomes dos Santos,CCB7E78,Fiat,Azul Claro
+André Ferreira Castilho,AAB7B95,Toyota,Cinza
+Yasmin Fernandes Melo,ECA7C24,Hyundai,Cinza
+João da Silva Sanches,EFC8B36,Fiat,Cinza
+Clara Alves Barbosa,CDC4A68,Hyundai,Branco
+Erik de Almeida Campos,ABC3A33,Toyota,Branco
+Giovanna Santana Soares,CCE4A47,VW,Preto
+Eduardo Franco Soares,FAF6D88,Fiat,Azul Claro
+Daniel Nascimento Campos,BBF6C28,VW,Prata
+Victor Gomes Trindade,AAC6E50,Hyundai,Azul Claro
+Vitória Ponciano Amaral,CBA6A15,Toyota,Preto
+Vitória Gomes Amaral,ABC9D94,Chevrolet,Branco
+Thiago Mesquita Mendes,DED0B82,Fiat,Prata
+Matheus Gomes Pinto,ECB0A45,Honda,Cinza
+André de Almeida Lopes,CDA2A38,Honda,Azul Claro
+Vinícius Paschoalino Trindade,DEF8D35,Honda,Azul Claro
+Victor Braz Domingues,BBA5D88,VW,Preto
+Gabriel Alves Machado,ACD9D20,Chevrolet,Cinza
+Daniel Amorim Castilho,BDC7D78,Toyota,Preto
+Matheus Cruz Mengue,AFE9A86,Toyota,Vermelho
+Gabriel Vieira Melo,CFF7D48,Honda,Cinza
+Samuel Franco Mengue,BDC0A13,Chevrolet,Cinza
+Daniel Ferreira Lima,EDB2E45,VW,Vermelho
+Vitória Fernandes Rodrigues,ABC3C77,Toyota,Cinza
+André Braz Castilho,ABD4C21,Hyundai,Cinza
+Daniel Santana Lima,BEC6C36,Honda,Prata
+Victor de Oliveira Dias,DFD9D92,Honda,Preto
+Erik Ferreira Araujo,CAC6E10,Honda,Preto
+Samuel de Oliveira Lima,CEE2E95,VW,Cinza
+Vitória Ferreira Soares,FFE9D33,Hyundai,Vermelho
+Maria Bellini dos Santos,ECB7A27,VW,Vermelho
+Eduardo Braz Senzaki,ECE3D53,Fiat,Azul Claro
+Sofia Amorim Senzaki,CAE0B79,Fiat,Cinza
+Larissa Cruz Machado,FFA0A96,Chevrolet,Preto
+Vitória Cruz Senzaki,ECE3D41,Chevrolet,Azul Claro
+Erik Bellini Soares,EAA6B16,Hyundai,Cinza
+Larissa Matos da Costa,DFE5E44,VW,Cinza
+Thiago Santana Ribeiro,DFE1E74,Honda,Vermelho
+Guilherme Matos Amaral,BFA6E52,Fiat,Branco
+Beatriz Queiroz Pinto,DBB5A40,Toyota,Azul Claro
+Guilherme Nascimento Barbosa,AFB1B48,Fiat,Cinza
+Pedro Amorim Mendes,EFB8D24,Fiat,Cinza
+Mariana Santana Machado,EDF5B29,Hyundai,Azul Claro
+Thiago Martins Lopes,BDC9A10,Toyota,Prata
+Maria Martins Pereira,BDB2D13,Chevrolet,Vermelho
+Sofia de Almeida Mengue,FFC6E20,VW,Cinza
+Rafael Gomes Araujo,BAF1E14,Hyundai,Preto
+Vinícius Franco Trindade,DFA6B33,Toyota,Azul Claro
+Gabriel de Oliveira Barbosa,AAE4C17,Fiat,Cinza
+João Fernandes Ribeiro,ADF9E22,Toyota,Vermelho
+Clara Alves Dias,BCF7B86,Fiat,Prata
+Sofia de Medeiros Dias,ADF3D87,Chevrolet,Vermelho
+Erik Franco Mendonça,BFE8B86,VW,Cinza
+Maria da Silva Mendonça,DAF3D93,Honda,Cinza
+Thiago Alves Machado,ABC6A59,VW,Branco
+Erik Matos Mengue,BAF4A64,VW,Vermelho
+Miguel Santana da Costa,DAB1E34,Chevrolet,Cinza
+Daniel Alves Araujo,BBE8A56,Hyundai,Cinza
+Giovanna da Silva Silva,CDE7B80,Hyundai,Branco
+Clara de Oliveira Mendonça,ABF2B84,Toyota,Azul Claro
+Larissa Paschoalino Trindade,CEE6E28,VW,Azul Claro
+Rafael Queiroz Senzaki,BEC0B28,Toyota,Branco
+Vinícius Franco Pinto,FFB5A63,VW,Branco
+Rafael da Silva Ribeiro,EBF0C26,Fiat,Vermelho
+Victor Ferreira Soares,AAD7C51,Hyundai,Cinza
+Giovanna Nascimento Amancio,DEB4E88,Chevrolet,Vermelho
+Beatriz Braz Amancio,ABB7A54,Honda,Vermelho
+Giovanna Amorim Soares,DBF0E55,VW,Cinza
+Larissa Martins Senzaki,AFF0E56,VW,Preto
+Yasmin Queiroz Soares,FCB4D13,Honda,Prata
+Larissa de Oliveira Camargo,ADB5D33,Toyota,Vermelho
+Giovanna Gomes Dias,DCB2D24,VW,Cinza
+Clara Bellini Pereira,BDF7D40,Hyundai,Vermelho
+Daniel Braz Camargo,DAB0E44,VW,Prata
+Samuel Cruz Mendonça,CEF7D56,Chevrolet,Prata
+Erik Queiroz Mendes,EEB2D50,Toyota,Preto
+Maria Cristine Senzaki,BCC5C44,Fiat,Cinza
+André Ponciano da Costa,BEB2B20,Chevrolet,Azul Claro
+Miguel Queiroz Senzaki,BBC2E95,Toyota,Preto
+Eduardo Paschoalino Melo,FDB1A16,Hyundai,Azul Claro
+Felipe Vieira Araujo,CDB3A80,Chevrolet,Prata
+Yasmin Cristine Amancio,BAB9E48,Honda,Vermelho
+Henrique da Silva Sanches,DAE2A49,Toyota,Cinza
+Eduardo de Almeida Araujo,CBA0D65,Honda,Branco
+Miguel Paschoalino Domingues,DFB1E89,VW,Branco
+Daniel Martins Silva,CAB0B85,Toyota,Azul Claro
+Eduardo Vieira Sanches,EFA8E98,Toyota,Azul Claro
+Daniel Mesquita Amaral,ECA8A98,Chevrolet,Vermelho
+Rafael Amorim Lima,DCC9B83,Chevrolet,Azul Claro
+Matheus de Almeida Mendes,ECC8A32,VW,Cinza
+Beatriz Braz Athayde,DDF9C86,Honda,Preto
+Mariana Vieira dos Santos,BCF0B77,VW,Preto
+André Fernandes Sanches,BDE4D87,Honda,Azul Claro
+Sofia Bellini Campos,DEE1A81,VW,Prata
+Beatriz Braz Mendes,ADF7B64,Fiat,Azul Claro
+Eduardo Matos Mendes,EFE7D70,Hyundai,Vermelho
+Matheus Braz Domingues,AAD0D79,Toyota,Prata
+Vitória Bellini dos Santos,AFF2D26,Hyundai,Azul Claro
+Rafael de Almeida Lima,CDF1D33,Hyundai,Azul Claro
+Miguel Matos Pereira,EFF8D13,Chevrolet,Azul Claro
+Vinícius de Medeiros da Costa,FEF0A32,Honda,Cinza
+Vitória Santana dos Santos,ECC7D59,VW,Branco
+Henrique Cruz Castilho,FCB4E34,Hyundai,Preto
+Maria de Oliveira Amaral,ACE8A10,Chevrolet,Prata
+Erik Franco Pinto,FAE4D29,Hyundai,Preto
+Mariana Ponciano Machado,FBC1A24,Fiat,Preto
+Thiago de Almeida Soares,BAE5C64,Fiat,Azul Claro
+Sofia de Oliveira Camargo,ABC1E13,Honda,Branco
+Maria Paschoalino Melo,EFA5C84,Toyota,Branco
+Victor Franco Lima,EDE0C42,Hyundai,Azul Claro
+Mariana de Oliveira Amaral,FEA6D51,Toyota,Cinza
+Henrique Braz Campos,DED1D63,Chevrolet,Cinza
+Erik Fernandes Pereira,CCA2B60,VW,Cinza
+Larissa Bellini Pinto,CAC2D63,Honda,Preto
+Gabriel Bellini dos Santos,CBA3A79,VW,Preto
+Mariana Franco Mengue,AEF6D42,Honda,Vermelho
+Daniel Fernandes Mendonça,ADE8B60,Chevrolet,Cinza
+Victor Martins Lopes,BAD3E71,Chevrolet,Preto
+Thiago Matos Amaral,DEF6B43,VW,Prata
+João Braz Silva,CCE9A71,Honda,Branco
+Eduardo da Silva Camargo,ADD4C86,VW,Azul Claro
+Guilherme Vieira Barbosa,FDC4E32,Fiat,Preto
+Thiago Cristine Silva,FFB7D94,Honda,Preto
+Eduardo Matos Silva,ADC9E46,Toyota,Branco
+João Braz Domingues,CBF9B73,Hyundai,Preto
+Mariana Ferreira Senzaki,EAD0D87,VW,Prata
+Larissa Bellini Athayde,CAE7B33,VW,Branco
+Miguel de Medeiros Mendes,ABB3D35,Honda,Prata
+João Santana Castilho,EFE2B72,Toyota,Cinza
+Clara Santana Amaral,FDE8C21,Chevrolet,Azul Claro
+Miguel Matos Dias,AFA2D16,Hyundai,Prata
+Pedro Cruz Lopes,FAE8D29,Hyundai,Vermelho
+Guilherme Braz Camargo,FBC8C28,Toyota,Vermelho
+Rafael de Medeiros Domingues,EAB0D35,VW,Prata
+Erik Braz Campos,FEB2A31,Hyundai,Prata
+Eduardo Nascimento Mendes,CDC5D63,Honda,Vermelho
+Samuel Amorim Lopes,FFA2B91,Honda,Preto
+Erik Gomes Castilho,FEE0E65,VW,Preto
+Yasmin Gomes Melo,CCD1C25,Chevrolet,Preto
+Matheus Santana Ribeiro,AEE9D93,Chevrolet,Vermelho
+Victor Nascimento Mendes,FCC4E62,Toyota,Vermelho
+Livia Martins Domingues,DAF0B44,Honda,Preto
+Samuel Bellini Sanches,FAB9A61,Hyundai,Cinza
+Felipe de Oliveira Araujo,FCE3D89,Toyota,Cinza
+Maria de Medeiros dos Santos,BAD1B93,Toyota,Azul Claro
+Matheus da Silva Silva,AFC8A42,Hyundai,Vermelho
+Vinícius de Medeiros Dias,FDE2D45,Hyundai,Preto
+Larissa Fernandes Camargo,CAE4D19,Hyundai,Azul Claro
+Felipe Queiroz da Costa,DBE0B52,Honda,Vermelho
+Guilherme Santana Amaral,DCA2B26,Chevrolet,Cinza
+Giovanna de Medeiros Rodrigues,DDC3C26,Hyundai,Branco
+Matheus Vieira Melo,EFC4D32,Chevrolet,Vermelho
+Maria Cristine Trindade,DEB7E76,Fiat,Branco
+Samuel Braz Rodrigues,AAF5A52,Chevrolet,Preto
+Matheus da Silva Mengue,EDE3E10,Toyota,Vermelho
+Miguel Franco Athayde,ABB5E48,Hyundai,Azul Claro
+Daniel Braz Athayde,BCB8D22,Fiat,Cinza
+Rafael Franco Dias,AEF3D97,Hyundai,Azul Claro
+Thiago Alves Rodrigues,CFF9C89,Hyundai,Branco
+Maria Amorim Dias,CDC3E99,Hyundai,Branco
+Henrique Matos Pereira,ACC9E82,Honda,Branco
+Giovanna Mesquita Melo,DBE2D58,Fiat,Cinza
+Samuel Matos Trindade,CEB7D73,Fiat,Branco
+Vinícius Vieira Trindade,CCF8D26,Toyota,Vermelho
+Sofia Alves Lopes,CED6D46,VW,Cinza
+Vitória de Oliveira Athayde,AFA9B83,Chevrolet,Vermelho
+Daniel de Almeida Sanches,DBC8E27,Honda,Azul Claro
+Gabriel de Medeiros Senzaki,ABA3A52,Toyota,Branco
+Rafael Mesquita Mengue,BFB7A11,Fiat,Azul Claro
+João Braz Araujo,EBD4B17,Hyundai,Branco
+Gabriel Franco Trindade,BBF0E19,Toyota,Vermelho
+Sofia Santana Camargo,BBC5A38,VW,Azul Claro
+Daniel Mesquita Ribeiro,DFF1E97,Toyota,Vermelho
+Yasmin Ferreira Ribeiro,EDD6E16,Fiat,Branco
+Maria Santana Amaral,FAF8E65,Fiat,Cinza
+André de Medeiros Trindade,BAA4E48,Toyota,Branco
+Beatriz Queiroz dos Santos,DAE1C46,Fiat,Preto
+Vinícius Amorim Mendonça,CBA7C11,Hyundai,Prata
+Thiago Bellini Dias,FAC4E43,Toyota,Vermelho
+Matheus Amorim Castilho,CAF1A44,VW,Vermelho
+Pedro Cruz Araujo,ADA2B41,Fiat,Vermelho
+Erik Ponciano Araujo,ECB1E78,VW,Branco
+André de Almeida Ribeiro,FBC3C71,Hyundai,Cinza
+Erik Santana Machado,FCA5C29,Fiat,Branco
+Henrique Fernandes Ribeiro,EDA3B42,Hyundai,Branco
+Miguel Nascimento Mengue,ADD6B61,VW,Prata
+Matheus de Oliveira Melo,AEE7D32,Fiat,Cinza
+Vitória de Oliveira Sanches,CFD5A30,Chevrolet,Cinza
+Erik Matos Melo,CAF9E70,Hyundai,Cinza
+Pedro Martins Camargo,AFF6C81,Toyota,Cinza
+André Paschoalino da Costa,BCB1E97,Chevrolet,Cinza
+Samuel Vieira Trindade,FFF2A38,Hyundai,Cinza
+Matheus Mesquita Domingues,EEF6D14,Hyundai,Vermelho
+Gabriel Paschoalino Senzaki,DFD8E24,VW,Cinza
+Felipe Mesquita dos Santos,EEF3E46,Fiat,Prata
+Erik Ferreira Silva,BCB8C90,Hyundai,Branco
+Miguel Amorim Mendonça,DFA2B69,VW,Preto
+Larissa Paschoalino Rodrigues,DBE0C53,Honda,Cinza
+Eduardo Cristine Dias,FEF0C11,Toyota,Preto
+Henrique Cristine Sanches,FFE6D15,Chevrolet,Cinza
+Guilherme Vieira dos Santos,EBC9B14,Fiat,Vermelho
+Larissa Gomes Barbosa,FEB5B56,Toyota,Vermelho
+Mariana Franco Mengue,EAD9D25,Fiat,Vermelho
+Giovanna Fernandes Trindade,EFD6A66,Honda,Branco
+Samuel Mesquita Campos,CAC5B56,Toyota,Azul Claro
+Pedro Fernandes Pinto,BBF0D11,Chevrolet,Cinza
+Miguel Alves Barbosa,DDA0A22,Fiat,Branco
+Giovanna Franco Soares,EDB7D82,Chevrolet,Prata
+Miguel Ferreira Senzaki,BAA0C68,Honda,Azul Claro
+Felipe Braz Amaral,FDF8A52,Honda,Preto
+Pedro Martins Pinto,BCA7D14,Chevrolet,Prata
+Henrique Queiroz Senzaki,ECD5E78,Honda,Cinza
+Eduardo Martins Barbosa,DEC7C26,Hyundai,Vermelho
+Vinícius Franco Lopes,EBB0E32,VW,Preto
+Giovanna Alves Rodrigues,DDC8A45,Fiat,Prata
+Daniel Matos Athayde,FDD0C11,VW,Azul Claro
+Clara Bellini Campos,EBC6C67,Toyota,Azul Claro
+Pedro Santana Amancio,AEE6B22,Hyundai,Cinza
+Beatriz Nascimento Lopes,ACE9C65,Chevrolet,Preto
+Maria Santana Araujo,ECD2D58,Chevrolet,Preto
+Maria Cristine Domingues,FFE6D26,Toyota,Cinza
+Giovanna da Silva Trindade,AFE1C43,Toyota,Azul Claro
+Rafael Alves Silva,ECA3D74,Fiat,Cinza
+Miguel de Almeida Mendonça,AFC7D58,VW,Cinza
+Eduardo de Medeiros Trindade,FAB9B22,Fiat,Cinza
+Victor Martins Pinto,DCC3D63,Toyota,Branco
+Maria Matos Lima,EBE3A90,Fiat,Branco
+Thiago Queiroz Senzaki,CAE9E31,Fiat,Vermelho
+Felipe Braz dos Santos,AFB2B25,Chevrolet,Vermelho
+Larissa Ponciano Amaral,AFC2A51,Fiat,Prata
+Larissa Nascimento Barbosa,ADF5D77,Toyota,Vermelho
+Giovanna Queiroz Mendes,AEF8E30,Toyota,Prata
+Giovanna Matos Lopes,AFF4A75,Chevrolet,Prata
+Eduardo Fernandes Athayde,CEB7D72,Hyundai,Vermelho
+Matheus de Oliveira Castilho,AAA1C73,VW,Branco
+Sofia Fernandes Trindade,EBC6B56,Chevrolet,Branco
+Felipe Ponciano Machado,EBD6A60,Hyundai,Prata
+Clara Cruz Mengue,BDA8B75,Chevrolet,Preto
+João Cristine Mendonça,ADB8C24,Toyota,Cinza
+Miguel Fernandes Domingues,CAD8D95,Honda,Vermelho
+Clara Alves Mendes,EEC0C51,VW,Cinza
+Giovanna Martins dos Santos,DDC6A47,Toyota,Prata
+Pedro Santana Castilho,ABF5A82,Honda,Prata
+Rafael Alves Castilho,CAB5E73,Fiat,Cinza
+Rafael Ferreira Sanches,CCF8A58,VW,Prata
+Giovanna de Almeida Trindade,AFC3D78,Honda,Preto
+Guilherme Ponciano Athayde,EFF6E12,Toyota,Cinza
+Maria Fernandes Mendes,EAA8B60,Chevrolet,Azul Claro
+Beatriz Paschoalino Castilho,CFE4C73,Fiat,Prata
+Gabriel Gomes Melo,DEC8D32,VW,Preto
+Henrique da Silva Silva,CFD0E45,Hyundai,Prata
+Vitória Matos Araujo,AAD6D12,Hyundai,Vermelho
+Vitória da Silva Machado,CAB9E96,Chevrolet,Vermelho
+Gabriel Bellini Mendes,CFA8B37,Fiat,Preto
+Mariana Matos Mengue,ACA0C62,Chevrolet,Vermelho
+Beatriz Cruz Pinto,ADD5C26,VW,Cinza
+Maria Gomes Pinto,CCC7E98,Honda,Branco
+Samuel Amorim Senzaki,CFB1A76,Fiat,Branco
+Guilherme Fernandes Soares,CBC5C67,Hyundai,Branco
+Eduardo Gomes Barbosa,BDD2D46,Hyundai,Vermelho
+Vitória Alves Araujo,DCA6D31,Chevrolet,Cinza
+João Ponciano Pinto,DCA6D84,Toyota,Preto
+Gabriel Santana Silva,CED7B74,Honda,Cinza
+Larissa Martins Melo,DEE2B36,Chevrolet,Azul Claro
+Mariana Franco Lopes,EDC2D42,Chevrolet,Preto
+Pedro de Oliveira Araujo,CBD5A13,Toyota,Cinza
+Guilherme Alves Mengue,CAA5D40,Fiat,Preto
+Thiago Queiroz Pereira,FED5D75,Fiat,Branco
+Samuel Cruz Campos,DEA6E18,Honda,Preto
+Livia Alves Pereira,FEE5B39,Honda,Preto
+Sofia Amorim Mengue,DBD2D47,Honda,Branco
+Matheus Paschoalino Rodrigues,BFA9A97,VW,Branco
+Daniel Fernandes Senzaki,CCD1D95,Chevrolet,Vermelho
+Sofia Vieira Melo,ADD2B31,Honda,Azul Claro
+Rafael Santana Domingues,ABE4E85,Fiat,Cinza
+Eduardo Cristine Barbosa,EEF0C38,Hyundai,Cinza
+Vinícius Vieira Machado,CEA9B92,Toyota,Preto
+Eduardo Mesquita Rodrigues,DFD7E50,Hyundai,Vermelho
+Matheus Braz Machado,DBB6C30,Chevrolet,Prata
+Gabriel Mesquita Barbosa,CCA6E72,Hyundai,Azul Claro
+Clara Ferreira Dias,ACD0A55,Toyota,Vermelho
+Sofia Nascimento Camargo,FBD5B72,Toyota,Prata
+Samuel de Medeiros Athayde,DAD6E50,VW,Branco
+Samuel Ponciano Mendes,FAA1E95,VW,Preto
+Beatriz Bellini Trindade,CAD5B48,Honda,Azul Claro
+Victor Ferreira Lima,FFF3D56,Fiat,Cinza
+Matheus Braz Soares,CFB6B59,Hyundai,Branco
+Pedro Vieira Mengue,EAC3E32,Chevrolet,Branco
+João de Oliveira Lopes,ECA0B35,Fiat,Azul Claro
+Matheus da Silva Mendes,CEA8E76,Chevrolet,Prata
+Vitória Alves Silva,CDE4A15,Toyota,Branco
+Maria Vieira Domingues,EAE0B81,Fiat,Azul Claro
+Vitória Paschoalino Camargo,AEA0D98,Chevrolet,Cinza
+Mariana Bellini Lima,DEC4C31,Fiat,Preto
+Beatriz Mesquita Ribeiro,AAE1E70,Toyota,Preto
+Beatriz Martins Silva,ACF7C21,Chevrolet,Preto
+Mariana Alves Lopes,AEA2D76,Honda,Branco
+Gabriel Santana Pinto,ABD8D58,Toyota,Vermelho
+Eduardo Fernandes Soares,ADD2E99,VW,Preto
+João Ferreira dos Santos,FCB2D19,Toyota,Cinza
+Erik Ponciano Machado,CBA9D84,Toyota,Preto
+Miguel Gomes Melo,EEC7C84,Toyota,Preto
+Sofia Cruz Araujo,DCC8D28,Hyundai,Cinza
+Rafael Franco Dias,ABC1C36,Fiat,Branco
+Erik Gomes Mendes,BDB4D56,VW,Cinza
+Giovanna Amorim da Costa,DCF3C94,Chevrolet,Prata
+Maria Paschoalino Machado,CDB5E33,Toyota,Branco
+Miguel Braz Rodrigues,CCF7A46,VW,Preto
+Gabriel Alves Dias,FDC9A59,Honda,Prata
+André de Oliveira Castilho,ABE5B66,Fiat,Prata
+Miguel Mesquita dos Santos,FBF8A88,Fiat,Cinza
+Guilherme de Oliveira Lima,CAF6C57,Hyundai,Branco
+Erik Cruz Athayde,DBD8C59,Fiat,Prata
+Yasmin Queiroz dos Santos,BBF3C38,Toyota,Preto
+Samuel Mesquita Pinto,CDF8E79,Fiat,Cinza
+Sofia Braz Lima,AEF6A13,Chevrolet,Azul Claro
+Rafael de Almeida Senzaki,DCB9B41,Fiat,Vermelho
+André de Almeida Ribeiro,FCF2C70,VW,Branco
+Livia de Medeiros Amancio,FCE7C34,Hyundai,Vermelho
+Eduardo de Oliveira Mengue,DFD1B42,Honda,Vermelho
+Guilherme Ferreira da Costa,DCB0B87,Toyota,Preto
+Clara Bellini Lima,FCD6A33,Chevrolet,Preto
+Miguel de Oliveira Sanches,FCD6A23,Toyota,Branco
+Daniel Gomes Trindade,EAE2A41,Toyota,Cinza
+Guilherme Fernandes Pinto,ADB7D31,Hyundai,Cinza
+João de Almeida Lopes,FCA0A13,Chevrolet,Prata
+Daniel Fernandes Lopes,DDE1B30,Honda,Azul Claro
+Sofia Queiroz da Costa,FEC5A75,Chevrolet,Vermelho
+Miguel de Medeiros Athayde,EAC9E63,VW,Azul Claro
+Livia Braz Mengue,FBC8C77,Honda,Prata
+Thiago de Almeida Senzaki,CCA3B10,Chevrolet,Vermelho
+Yasmin Braz dos Santos,BDB3A29,VW,Cinza
+Beatriz de Oliveira Mengue,AEA6B53,Hyundai,Prata
+Eduardo Mesquita Dias,BFB4C70,Honda,Azul Claro
+Daniel Cristine Machado,EBA1C55,Hyundai,Vermelho
+Rafael Ponciano Campos,DED5E32,VW,Vermelho
+Matheus Cruz Pinto,AEC8D72,Honda,Branco
+Giovanna Santana Senzaki,FBD8D51,Fiat,Branco
+Daniel Alves Lima,CBE2A36,Honda,Vermelho
+Mariana Gomes da Costa,DAF7E42,Toyota,Prata
+Giovanna Alves Mendonça,DFF6B33,VW,Cinza
+Gabriel Vieira Lopes,ADC3E77,Honda,Azul Claro
+Henrique Ferreira Silva,EBB2C55,Fiat,Vermelho
+Sofia Franco Athayde,CED4B17,Fiat,Azul Claro
+Guilherme Ponciano Mendonça,CCB2D97,Chevrolet,Prata
+Samuel Santana Mendes,FDE1C57,VW,Branco
+Pedro de Medeiros Domingues,ECC0C56,Fiat,Prata
+Thiago de Oliveira Machado,ECB0A79,Honda,Cinza
+Miguel Amorim Mendes,EBF1A41,Fiat,Cinza
+Rafael Amorim Domingues,CFD2A73,Toyota,Azul Claro
+Daniel Alves Amancio,CDF6A38,Toyota,Prata
+Sofia Amorim Campos,AEF0E93,Chevrolet,Branco
+Thiago Alves Camargo,EAF3B45,Toyota,Branco
+Victor Mesquita Amancio,ABF4C26,Chevrolet,Prata
+Victor de Almeida Lima,AFB7D84,Fiat,Cinza
+Matheus de Almeida Domingues,DAC1C92,Honda,Prata
+Pedro Fernandes Castilho,FAF8B12,Chevrolet,Cinza
+Samuel Ponciano Lopes,DAB1D71,Hyundai,Prata
+Clara de Medeiros Trindade,BDC7C73,Fiat,Branco
+Vitória Cruz Dias,BCE3C73,Fiat,Preto
+Vitória Nascimento Amancio,ACF7D49,VW,Branco
+Samuel Martins Sanches,CFD7B51,Fiat,Azul Claro
+Giovanna Nascimento Campos,BDE3A13,Fiat,Prata
+Vinícius Ferreira Pereira,FEC7B56,Chevrolet,Azul Claro
+Guilherme Santana Machado,FAA3B57,Honda,Azul Claro
+Sofia de Oliveira Soares,DDF2C56,Toyota,Branco
+Erik Cruz Lima,AAE0D55,Toyota,Cinza
+Vitória Franco Castilho,DAE8D60,VW,Preto
+Beatriz Vieira Sanches,CBE7D71,Fiat,Branco
+Matheus Ponciano Amaral,EBC1C17,Hyundai,Preto
+Daniel Fernandes Camargo,DEB7B49,Honda,Cinza
+Gabriel Martins Sanches,BCB3A76,Hyundai,Cinza
+Matheus Matos Rodrigues,DFA7E64,Chevrolet,Cinza
+Maria Ferreira Trindade,EBE3B39,Fiat,Vermelho
+Giovanna de Almeida Araujo,DCB9D31,VW,Preto
+Victor Amorim Castilho,CEA6D13,VW,Vermelho
+Erik Nascimento Camargo,BBF6A59,Toyota,Prata
+Eduardo de Almeida Araujo,CCD5A94,Chevrolet,Vermelho
+Sofia Santana Silva,AAE1B79,Toyota,Preto
+Felipe Ferreira Ribeiro,CCB5A96,Fiat,Prata
+Pedro da Silva Domingues,BAE4B43,Fiat,Cinza
+Matheus de Medeiros Mendonça,EBE0E72,Hyundai,Azul Claro
+Clara Gomes Mendes,CCC8C69,Hyundai,Azul Claro
+Larissa Paschoalino Rodrigues,BCB7E77,Fiat,Prata
+André Queiroz dos Santos,BBE4B65,Chevrolet,Vermelho
+Erik Mesquita Araujo,DDF3E96,VW,Branco
+Vitória Bellini Barbosa,AFB4B35,Fiat,Preto
+Matheus de Medeiros Senzaki,BBD2B54,Chevrolet,Cinza
+Erik Gomes Mendonça,DAB8C28,Hyundai,Vermelho
+Henrique Ferreira Senzaki,CFF1B71,Honda,Cinza
+Guilherme Bellini Athayde,DAC5D46,VW,Azul Claro
+Larissa Amorim Domingues,CAD1E88,VW,Prata
+Daniel Cruz Rodrigues,EDE1E69,Fiat,Prata
+Victor Fernandes dos Santos,DBC4A83,Fiat,Preto
+Sofia Nascimento Lopes,DBC1E89,Honda,Azul Claro
+Yasmin Fernandes Lima,DDC3D83,Toyota,Prata
+Daniel Martins Silva,AAC2A89,Fiat,Vermelho
+Daniel de Medeiros Amancio,BEC2D18,Toyota,Branco
+Henrique Paschoalino Silva,CEF0A40,Toyota,Cinza
+Yasmin Matos Camargo,DCD8C21,Chevrolet,Cinza
+Maria Cristine Lima,BCA5A64,Fiat,Preto
+Felipe Matos Lima,EAB0A37,Hyundai,Preto
+Sofia Cruz Castilho,EAC2C10,VW,Prata
+André Matos Dias,CCD2D71,Toyota,Prata
+Rafael Santana Machado,FBB4B89,Honda,Branco
+Maria Braz Rodrigues,ADC2D18,VW,Prata
+Matheus Cruz Rodrigues,ADD0D19,VW,Preto
+Livia Braz Athayde,BAE7D55,Toyota,Vermelho
+Eduardo Paschoalino Camargo,FAD6C89,VW,Preto
+Guilherme da Silva Domingues,CFC6B53,Toyota,Azul Claro
+João Martins dos Santos,EEC2C96,Honda,Branco
+Giovanna de Medeiros Lopes,BCE2E35,VW,Cinza
+Eduardo de Medeiros Soares,FDC1A16,Honda,Vermelho
+Maria Martins Domingues,DBD4E15,Hyundai,Branco
+Victor Paschoalino Ribeiro,CEB2A79,Toyota,Branco
+Vinícius Queiroz Sanches,EBC6D56,Honda,Azul Claro
+Gabriel Mesquita Melo,ABA8C97,VW,Prata
+Pedro Bellini Pinto,BAF0E44,Fiat,Cinza
+Beatriz Gomes Mengue,AEF0E73,Toyota,Branco
+Samuel Alves Mendonça,BCC3B54,Chevrolet,Branco
+Pedro Gomes Domingues,BAA2B51,Fiat,Branco
+Erik de Oliveira Melo,CDA2C32,Toyota,Prata
+Maria Gomes Mengue,BCA5E99,Fiat,Branco
+Vitória Franco Barbosa,CFD9D68,VW,Cinza
+Mariana Alves Dias,BDD6D65,Fiat,Azul Claro
+Livia Cristine Castilho,DFD1B61,Chevrolet,Azul Claro
+Maria Ponciano Mendes,FCC6D85,Chevrolet,Cinza
+Gabriel Paschoalino da Costa,EBE0A96,Fiat,Preto
+Larissa Martins Pereira,DBB4D13,Fiat,Vermelho
+Gabriel de Oliveira Amaral,AEA0A92,Chevrolet,Vermelho
+Victor Ferreira Mendonça,CDC8D19,Toyota,Branco
+Clara Nascimento Campos,BDD3D90,Toyota,Branco
+Rafael Fernandes Ribeiro,EDF8C27,Chevrolet,Branco
+Daniel de Oliveira Mendes,DDA6A22,Chevrolet,Azul Claro
+André Cristine Melo,EFD5B66,Chevrolet,Azul Claro
+Mariana Queiroz da Costa,CBC8D24,Toyota,Azul Claro
+Gabriel Cristine Silva,AAC6A65,Hyundai,Vermelho
+Larissa Ferreira Araujo,DFA9D25,Hyundai,Prata
+Pedro Vieira Silva,ABC1D70,Toyota,Cinza
+Matheus Ponciano Sanches,EEB3C74,VW,Branco
+Pedro Cristine Mengue,FCF3C78,Hyundai,Branco
+Samuel Bellini Silva,BFD4E74,VW,Prata
+Daniel Braz Mendes,DFC3D54,Hyundai,Cinza
+Yasmin de Medeiros Rodrigues,AAF8A22,VW,Prata
+Maria Bellini Castilho,DDB5A46,Chevrolet,Cinza
+Yasmin de Medeiros Sanches,ECE6A98,Chevrolet,Azul Claro
+João Franco Mendonça,FDD5E37,Toyota,Branco
+Pedro Cruz Lopes,FAC6D47,VW,Prata
+Livia Matos Barbosa,DAE9C87,Fiat,Azul Claro
+Pedro Amorim Silva,CEB0B17,Toyota,Cinza
+Eduardo Franco Mengue,ACA8D25,Fiat,Vermelho
+Pedro Paschoalino Campos,CDA3D84,VW,Prata
+Livia Cruz Rodrigues,FAB3E12,Toyota,Prata
+Henrique Queiroz Barbosa,EEB0A11,VW,Azul Claro
+Maria da Silva Pereira,AFA0C95,VW,Preto
+Gabriel Braz Domingues,CEB1E70,VW,Branco
+Henrique de Almeida Amancio,ACD9E14,Honda,Preto
+Daniel Alves Athayde,CEB0C57,Fiat,Branco
+Felipe Martins Melo,DFA7B10,Honda,Preto
+Henrique Ferreira Araujo,FAB0E94,Toyota,Branco
+Vinícius Amorim Senzaki,FAC4D69,Chevrolet,Preto
+Felipe da Silva dos Santos,BEA3C83,Fiat,Preto
+Thiago Matos Camargo,CEB6C99,Fiat,Branco
+Matheus Santana Lima,CEE8A69,Chevrolet,Branco
+Victor Nascimento Amaral,DAE9C63,Fiat,Azul Claro
+Miguel de Medeiros Mendes,AFB2E53,Toyota,Preto
+Maria Braz Soares,BEE0B65,Hyundai,Vermelho
+Rafael Franco da Costa,FAF1E72,Chevrolet,Cinza
+Victor de Medeiros Dias,FEE3C91,Fiat,Preto
+Victor Cristine Dias,CAB2C61,Fiat,Azul Claro
+Erik de Medeiros Ribeiro,BDB1E82,VW,Cinza
+Erik Nascimento Mengue,EEA8C90,Chevrolet,Azul Claro
+Livia Amorim Pinto,CDF3A36,VW,Azul Claro
+Rafael Bellini Amaral,CAC0A88,Toyota,Azul Claro
+Yasmin Cruz Trindade,FDA4B72,Fiat,Azul Claro
+Thiago de Medeiros Araujo,ABF1C74,Fiat,Prata
+Daniel da Silva Machado,CCB0A23,Hyundai,Preto
+Mariana Mesquita Dias,CDC7E40,Hyundai,Prata
+André Queiroz Araujo,EAF6B10,Fiat,Branco
+Eduardo de Oliveira Sanches,AEE0D38,Honda,Vermelho
+Eduardo Franco Rodrigues,CED9E62,Fiat,Prata
+Maria Mesquita Dias,CBE5E15,Fiat,Prata
+Sofia de Almeida Ribeiro,AFD8B27,Chevrolet,Preto
+Gabriel Braz Pereira,CCF6E75,VW,Azul Claro
+Miguel Santana Castilho,CBE2E81,Toyota,Cinza
+André Gomes Athayde,DED5D60,Chevrolet,Branco
+Sofia Fernandes Athayde,DFE3D90,VW,Cinza
+Vinícius Alves dos Santos,FFC2A15,VW,Cinza
+Matheus Vieira Senzaki,AFF2E98,Toyota,Vermelho
+Miguel Vieira Ribeiro,EAC5A62,Fiat,Preto
+Matheus Cristine Domingues,ECC7A17,Toyota,Vermelho
+Erik da Silva Campos,ECA8A77,Toyota,Azul Claro
+Maria Nascimento Pereira,FDF9A69,Chevrolet,Cinza
+Guilherme Ponciano Domingues,ADD2A54,Chevrolet,Prata
+Guilherme Amorim Amaral,BDF7A44,VW,Preto
+Matheus Ferreira Amancio,BDC1C31,VW,Prata
+Vinícius Alves Soares,DBB8A27,Fiat,Branco
+Giovanna Cruz Rodrigues,EAF3B85,Fiat,Vermelho
+Miguel Cruz Rodrigues,BBD1A21,Fiat,Cinza
+André Queiroz Mengue,EBE2D67,Hyundai,Prata
+Daniel Cruz Senzaki,FCD4C57,VW,Vermelho
+Eduardo Martins dos Santos,DEA3A73,Toyota,Vermelho
+Victor de Medeiros Mendes,ECC7D36,Fiat,Preto
+Eduardo Ponciano Pinto,EAD0B14,VW,Branco
+Victor Santana Trindade,DEB2B86,Hyundai,Cinza
+Eduardo Matos Pinto,EDD0A35,Chevrolet,Azul Claro
+Matheus Nascimento da Costa,EBF9A97,Chevrolet,Azul Claro
+Mariana da Silva Pinto,AAE2C33,Toyota,Vermelho
+Sofia Cruz Amaral,EAD8D99,Chevrolet,Branco
+Thiago Matos Lopes,FFD6E52,Chevrolet,Cinza
+Larissa da Silva Machado,BBC6A69,Toyota,Branco
+Larissa Matos Trindade,CBF3A51,Chevrolet,Azul Claro
+Yasmin Ferreira Trindade,EDE9E14,Hyundai,Preto
+Maria Matos Araujo,CAC7E83,Honda,Cinza
+Yasmin Cruz Ribeiro,FDE3E67,VW,Cinza
+Victor Martins Ribeiro,CBA8B73,VW,Azul Claro
+Matheus Queiroz Campos,DFF1E17,Hyundai,Prata
+Clara Gomes Rodrigues,DED8D95,Honda,Prata
+Daniel Vieira Rodrigues,EAD8A78,Hyundai,Vermelho
+Beatriz de Almeida Mendes,FFB8B51,Chevrolet,Azul Claro
+Victor Gomes dos Santos,ECE3C46,Hyundai,Branco
+Vitória Franco Lima,CFA4D75,Honda,Cinza
+Guilherme Braz Campos,BDB9B17,Chevrolet,Preto
+Livia Amorim Senzaki,EFD3D52,Toyota,Prata
+Rafael Amorim Campos,AAE7A85,Honda,Vermelho
+Rafael Mesquita Pinto,BDA7D85,VW,Cinza
+Matheus Amorim Campos,CAF1D79,Fiat,Azul Claro
+João Gomes Mendonça,CCA1E77,Fiat,Preto
+Yasmin Franco dos Santos,CEE9B31,Honda,Vermelho
+Pedro Ferreira Mendes,AAA6C84,VW,Azul Claro
+Vinícius Matos Araujo,BBC8E84,Toyota,Vermelho
+Felipe Gomes Machado,FED0D55,Fiat,Prata
+Thiago Ponciano Dias,AEE6A77,VW,Prata
+Erik de Oliveira Pinto,BDF4E41,Honda,Branco
+Vinícius de Almeida Araujo,DFA5B90,Honda,Vermelho
+Matheus Matos Domingues,FAC8A11,Honda,Vermelho
+Erik Braz Domingues,CEE5B26,Hyundai,Vermelho
+Vinícius Bellini Machado,FDC3C43,Fiat,Preto
+Maria Nascimento Amancio,DEF5D41,Honda,Vermelho
+André Nascimento dos Santos,CAD0D76,Fiat,Cinza
+Victor Amorim Lima,ABA4E38,Honda,Vermelho
+Erik Gomes Camargo,BAD9B72,Chevrolet,Azul Claro
+Livia Braz da Costa,FEB8A90,Hyundai,Branco
+Rafael Queiroz Pereira,FCA3B39,VW,Azul Claro
+João Bellini dos Santos,CDD1C73,VW,Azul Claro
+Clara Vieira Amancio,EDD4A63,Hyundai,Vermelho
+Vitória Ferreira Athayde,CDF3B53,Fiat,Cinza
+Daniel Ferreira Ribeiro,FAA7B51,Hyundai,Branco
+Matheus Nascimento Machado,ECA2B61,Chevrolet,Vermelho
+Vinícius Franco Mengue,AFD2E44,Chevrolet,Prata
+Clara Matos Amancio,FDE9A31,Chevrolet,Vermelho
+Beatriz da Silva Machado,DAB9E97,Hyundai,Preto
+André Vieira Sanches,DAE9B17,Fiat,Branco
+Gabriel Fernandes Senzaki,CDC4A90,VW,Branco
+Matheus Cristine Sanches,BFC7A81,Honda,Branco
+Livia Fernandes Araujo,ACE5C13,Hyundai,Azul Claro
+Mariana Amorim Silva,EAA3E42,Toyota,Vermelho
+Eduardo Alves Silva,BFA6D33,Hyundai,Prata
+Victor Cristine Lopes,EEF9B70,Toyota,Prata
+Mariana Gomes Pereira,FAB6C42,VW,Cinza
+Beatriz Vieira Ribeiro,FED4A72,Hyundai,Prata
+Giovanna Mesquita Melo,FBB4D17,Honda,Prata
+Sofia de Almeida Domingues,FCD9C76,Chevrolet,Branco
+Thiago de Medeiros Araujo,EDA0E30,Chevrolet,Preto
+Matheus Gomes Mendonça,DEF4B12,Toyota,Cinza
+Vitória Matos Rodrigues,DEC8D53,Toyota,Azul Claro
+Gabriel Gomes Domingues,DEE8C68,Fiat,Vermelho
+Thiago Ponciano Domingues,DDE2C46,VW,Cinza
+Miguel Braz Melo,BBA8C64,Toyota,Cinza
+Livia Vieira Mengue,EFE0C34,Toyota,Preto
+Maria Matos Camargo,ECE5A30,Hyundai,Branco
+Rafael de Oliveira Melo,BAB0D27,Toyota,Preto
+Larissa de Medeiros Mengue,FCF5E61,VW,Preto
+Vinícius Gomes Mengue,CCE9E54,Fiat,Preto
+Vitória Amorim Pereira,ECE8A72,VW,Vermelho
+André Paschoalino Machado,FFF4A66,Honda,Vermelho
+Rafael Gomes Camargo,DEC1E24,Toyota,Cinza
+João Ferreira Castilho,FDA3B25,Toyota,Preto
+Vinícius Nascimento Mendes,DDA3B81,Hyundai,Branco
+Beatriz Ponciano Campos,EBE8A33,Fiat,Branco
+Daniel de Medeiros Mendonça,BCF7E19,Honda,Cinza
+Clara Bellini Lima,EDE7C23,VW,Vermelho
+Vinícius Bellini Mengue,EDB4E97,Honda,Preto
+Erik Amorim Ribeiro,DBE2E98,Chevrolet,Prata
+Erik de Oliveira Machado,AAB8A45,Honda,Preto
+Miguel Franco Athayde,BDC9D41,Toyota,Azul Claro
+Samuel Mesquita Pinto,ABA9B41,Toyota,Prata
+Larissa de Oliveira Mendonça,DEF3A59,Toyota,Branco
+Vitória da Silva Dias,BBE1E83,Hyundai,Vermelho
+Samuel Nascimento Barbosa,BED0E22,Chevrolet,Preto
+Thiago Braz Mendes,AFA2A38,Hyundai,Cinza
+André Fernandes Silva,BBA1B67,Toyota,Preto
+Vinícius Ponciano Castilho,BEC9C27,Hyundai,Branco
+Guilherme Santana Melo,ABF5D55,Chevrolet,Cinza
+Daniel de Almeida Ribeiro,CDE4D20,Fiat,Branco
+Rafael de Medeiros Soares,CFF5B71,Fiat,Azul Claro
+Livia Cristine Senzaki,CCC0B82,Hyundai,Branco
+Mariana Paschoalino Amancio,FBC5A72,Chevrolet,Vermelho
+Guilherme Santana dos Santos,FDE5B73,Honda,Branco
+Giovanna Matos Mendonça,BFF3C19,Chevrolet,Branco
+Matheus Cristine Araujo,CFE2D89,Chevrolet,Azul Claro
+Livia Queiroz Rodrigues,AFA8E90,Fiat,Azul Claro
+André de Oliveira Machado,BCC8A82,Hyundai,Cinza
+Daniel Nascimento Campos,BCD6A75,Toyota,Azul Claro
+Felipe Braz Campos,AED9E30,Honda,Branco
+Eduardo Matos Barbosa,EBA8E47,Honda,Azul Claro
+Sofia Matos Castilho,FAD6E52,Honda,Prata
+Beatriz Cruz Pinto,EFC4A58,Toyota,Branco
+Gabriel Cristine Athayde,DEE9E26,Hyundai,Branco
+Maria Alves Soares,BDF5E45,Fiat,Vermelho
+Larissa Santana Silva,CAF2B93,Honda,Azul Claro
+Thiago Cruz Trindade,BBF0D34,Fiat,Preto
+Miguel Fernandes Camargo,BFB4C57,Chevrolet,Preto
+Miguel Franco Dias,EEF1E58,Chevrolet,Preto
+Mariana Braz Mengue,ECB1B93,Chevrolet,Azul Claro
+Matheus Santana Melo,DFF5E63,Hyundai,Vermelho
+Eduardo Alves Pinto,FAC6E91,Honda,Cinza
+Livia Bellini Machado,AAD5D39,Chevrolet,Azul Claro
+Pedro Nascimento Amancio,FEF1D99,VW,Prata
+Guilherme Paschoalino Rodrigues,DDF4E78,Honda,Branco
+Erik Martins Sanches,ABD5D58,Hyundai,Branco
+Matheus Vieira Machado,EFB4C38,Chevrolet,Azul Claro
+Victor Fernandes Amancio,CDB7B52,Toyota,Azul Claro
+Larissa Ferreira Soares,EFA5B61,Hyundai,Vermelho
+Miguel Franco Amaral,EFC6B55,Toyota,Vermelho
+Mariana Mesquita Araujo,DCF9E11,Toyota,Prata
+Samuel da Silva Amancio,BFF1E70,Honda,Branco
+Clara Amorim Lopes,DFF3D18,Honda,Cinza
+Sofia Braz Mendes,EEC2C92,Fiat,Preto
+Henrique de Almeida Castilho,DDA1D18,Chevrolet,Prata
+Yasmin Nascimento Campos,FDA5B66,Hyundai,Preto
+Daniel Bellini Lima,BAA6C42,Fiat,Azul Claro
+Erik Santana Mendonça,BCB5E51,Toyota,Preto
+Pedro Cruz Castilho,EFD9D51,Toyota,Preto
+Miguel Cruz Silva,BFF2D74,Toyota,Vermelho
+João de Oliveira Domingues,EFD9A46,Toyota,Vermelho
+Giovanna de Almeida Rodrigues,BFD6B91,Fiat,Cinza
+Giovanna de Almeida Dias,FFC6C64,Fiat,Azul Claro
+Daniel Matos Silva,FDA7A61,Chevrolet,Prata
+João de Almeida Mendes,BAA6C68,Hyundai,Prata
+Victor Nascimento Domingues,EBD9B62,Chevrolet,Azul Claro
+André Alves Machado,EED2E98,Toyota,Cinza
+João Mesquita Camargo,FFA5D76,Chevrolet,Prata
+Vinícius Gomes Sanches,FAF8A57,Toyota,Prata
+Henrique Matos Araujo,DCF2D29,Toyota,Prata
+Felipe Nascimento Campos,ECB4A60,Fiat,Prata
+Maria Gomes Amancio,FBC3C37,Hyundai,Prata
+Miguel Fernandes Pereira,BBE3B91,VW,Preto
+Larissa Bellini Lima,ACF6D44,Honda,Azul Claro
+Matheus Alves Mendes,AFA5D10,Hyundai,Prata
+Guilherme Mesquita Lopes,CCC0D30,Honda,Azul Claro
+Pedro Matos Lopes,BDE8C40,Hyundai,Vermelho
+Felipe Santana Sanches,EAC1B60,Hyundai,Cinza
+André Gomes Barbosa,FDE0C53,Honda,Prata
+Mariana Braz Melo,BED4B37,Fiat,Vermelho
+João Fernandes Melo,FEB4C69,VW,Preto
+Clara Alves Araujo,CFD3D49,Chevrolet,Azul Claro
+Pedro da Silva Camargo,FDA5D22,VW,Azul Claro
+André Amorim Amancio,FBE9D50,Chevrolet,Cinza
+Beatriz Oliveira de Almeida,DDE3B49,Fiat,Azul Claro
+Yasmin Gomes Dias,CBB5E53,Fiat,Vermelho
+Felipe Cruz Pinto,AFB7A85,Fiat,Cinza
+Daniel Queiroz Mendes,CBA4A69,Hyundai,Branco
+Rafael Paschoalino Dias,BFC5C70,Chevrolet,Prata
+Larissa Mesquita Mendonça,AEF4C63,VW,Vermelho
+Beatriz Braz Trindade,BCE1B79,Honda,Vermelho
+Miguel Vieira Rodrigues,DFD4A41,Toyota,Azul Claro
+João Cruz dos Santos,FAB1C21,Honda,Branco
+Felipe Matos da Costa,AAF8A30,Chevrolet,Preto
+Vitória Braz Mendonça,FFC0C29,Honda,Preto
+Henrique Santana Pinto,CDC9E95,Hyundai,Branco
+Erik de Medeiros Barbosa,FFB7A78,VW,Cinza
+Thiago de Almeida dos Santos,FCD3E86,Fiat,Branco
+Livia Fernandes Lima,CED2C14,Chevrolet,Cinza
+Pedro Matos Rodrigues,AFE1B13,Honda,Vermelho
+Felipe Amorim dos Santos,BAF7B91,Toyota,Cinza
+Livia Queiroz Mengue,AEB5E87,Toyota,Preto
+Victor Santana Mengue,ACA1B64,VW,Branco
+Vitória Vieira Pinto,FCB7C59,Honda,Preto
+Thiago Martins Amancio,BED3C82,Honda,Cinza
+Henrique Nascimento Dias,FED5C96,Honda,Azul Claro
+Miguel da Silva Machado,EBE5B43,Honda,Branco
+Vinícius Matos Sanches,DBF8C84,Chevrolet,Azul Claro
+Felipe Paschoalino dos Santos,DEE3A25,Toyota,Vermelho
+Matheus Amorim Silva,EBC3A93,VW,Preto
+Vinícius Ponciano Dias,BCC1E90,VW,Vermelho
+Matheus Fernandes Barbosa,EBE9B71,VW,Vermelho
+Victor Gomes Campos,BCA2C95,Fiat,Azul Claro
+Thiago Ferreira Melo,BDB9A58,Toyota,Branco
+Larissa Cristine Dias,DAD7D75,Fiat,Azul Claro
+Gabriel Fernandes Pinto,BCB9A96,Chevrolet,Prata
+Clara Queiroz Campos,CDB3B14,VW,Prata
+Rafael da Silva Sanches,DFE3A26,Toyota,Azul Claro
+André Paschoalino Camargo,EBA2E24,Fiat,Vermelho
+Henrique Amorim Melo,ACF7B93,VW,Azul Claro
+Miguel de Medeiros dos Santos,AFA4B78,VW,Preto
+André Alves Lima,DDC1B84,Toyota,Azul Claro
+Beatriz Gomes da Costa,ECE5A71,VW,Cinza
+Giovanna da Silva Soares,BCF7D43,VW,Prata
+Sofia Mesquita dos Santos,EBE9E42,Hyundai,Preto
+Larissa Ferreira Dias,DCD3C61,Honda,Branco
+Pedro Amorim Amaral,ECE6C89,Chevrolet,Preto
+Miguel Paschoalino Trindade,BFC3E80,Fiat,Cinza
+Miguel Santana Domingues,AFD9E51,Honda,Cinza
+Guilherme de Almeida Athayde,ACC7C78,Honda,Branco
+Henrique Queiroz Rodrigues,AEE7C64,Chevrolet,Cinza
+Livia Braz Castilho,AAB5D97,Chevrolet,Vermelho
+Beatriz Ferreira Castilho,BDA0B13,VW,Azul Claro
+Erik Vieira Amaral,BDF8D75,Fiat,Preto
+Maria Cruz Melo,ACF1C87,Hyundai,Prata
+Larissa Ferreira Senzaki,CCD7A95,Honda,Azul Claro
+Erik de Almeida da Costa,CEC3C11,VW,Prata
+Thiago Ponciano Melo,AEE3B19,Fiat,Cinza
+Erik Cristine Mengue,BCA3E10,Honda,Branco
+André Amorim Amancio,DBC8D37,Honda,Azul Claro
+Beatriz Cruz Rodrigues,AEF6E93,Honda,Preto
+Vitória Bellini Camargo,ACD5B80,Chevrolet,Cinza
+Clara Ponciano Rodrigues,FEC9E38,VW,Branco
+Beatriz Nascimento Lima,FAC8A81,Honda,Branco
+Vinícius de Medeiros Soares,CAE3D47,Honda,Cinza
+Victor Mesquita Ribeiro,CDD0A52,VW,Vermelho
+Samuel Franco Ribeiro,BCC9C35,Chevrolet,Azul Claro
+Pedro da Silva Camargo,ADE2B40,Honda,Preto
+Rafael Amorim Mendonça,FDE5E90,Chevrolet,Azul Claro
+Livia Ferreira Athayde,ACA7B10,Hyundai,Cinza
+Livia Martins Pinto,CBF4E99,Hyundai,Branco
+Samuel Braz Mendonça,ECE3B35,Fiat,Cinza
+Clara de Oliveira Trindade,CBF2A75,Chevrolet,Branco
+Felipe de Almeida Mendes,FEA8A10,Honda,Branco
+Livia de Almeida Domingues,ECE3B70,Hyundai,Preto
+Eduardo Cristine Athayde,AFA7C87,Hyundai,Cinza
+Erik Martins Athayde,FCB6E32,Fiat,Prata
+Clara Martins Castilho,DDC2C48,Chevrolet,Branco
+Mariana Braz Rodrigues,CEF5E52,Hyundai,Azul Claro
+Maria Braz da Costa,CFC7A54,Fiat,Branco
+Erik Amorim Camargo,ECF4C70,Toyota,Preto
+Yasmin Bellini Mendes,BDB1B85,Fiat,Vermelho
+Miguel Franco Pinto,CFC5D66,VW,Prata
+Mariana Cruz Camargo,FAD5E17,VW,Cinza
+Pedro Alves da Costa,BBE8C63,VW,Prata
+Rafael Amorim Campos,FCF4D61,VW,Cinza
+Miguel Amorim Mengue,DED6D99,Toyota,Cinza
+Victor Ponciano Camargo,DBA3E38,Fiat,Azul Claro
+Gabriel Santana Rodrigues,EDC6E20,Chevrolet,Branco
+Vinícius da Silva da Costa,CDE7B15,Chevrolet,Azul Claro
+Vinícius de Medeiros Lopes,DDB6C79,Toyota,Preto
+Yasmin Cristine Amaral,FAE2A75,Chevrolet,Cinza
+Mariana Vieira Machado,CBE9C22,Hyundai,Cinza
+Vinícius Franco Amaral,FEE5D31,VW,Branco
+Henrique da Silva dos Santos,BED2C59,Chevrolet,Vermelho
+André da Silva dos Santos,CAB6E13,Chevrolet,Cinza
+Yasmin Franco Senzaki,EDE8A15,Toyota,Preto
+Pedro Fernandes Pinto,BBE3C92,Honda,Prata
+Beatriz Alves da Costa,DFD0D45,Chevrolet,Cinza
+Vitória Martins Barbosa,DCB9E91,Toyota,Branco
+Eduardo Santana Sanches,FEE9D84,Toyota,Branco
+Pedro Bellini Pinto,FDC9A78,Honda,Prata
+Beatriz Vieira Amancio,CCB4D65,Chevrolet,Branco
+Giovanna de Oliveira Silva,FCA0D61,Hyundai,Vermelho
+Daniel Gomes Trindade,FED5B71,Chevrolet,Vermelho
+Livia Nascimento Sanches,BEA2D39,Hyundai,Branco
+Mariana de Almeida Senzaki,CEB5D82,VW,Prata
+Erik de Almeida Mendes,CEB1D85,Fiat,Prata
+Vinícius Alves Athayde,FAE1E39,Hyundai,Preto
+Matheus de Medeiros Lima,DEA7D71,Hyundai,Azul Claro
+Beatriz Alves Campos,FAA7D47,VW,Vermelho
+Clara Cristine Melo,DEA5D55,Honda,Prata
+Daniel Queiroz Machado,EAF1A99,Chevrolet,Branco
+Guilherme Braz Athayde,CCC1B13,Toyota,Preto
+Miguel Cruz Amancio,DCF2B98,Chevrolet,Preto
+Samuel de Oliveira da Costa,CBE7A42,Hyundai,Vermelho
+Henrique Nascimento Lopes,EFC8E44,Toyota,Cinza
+Samuel Matos Lima,BBC6A50,Honda,Azul Claro
+Beatriz Santana Ribeiro,CCA9B26,VW,Cinza
+Livia Fernandes Dias,BFE2D93,Hyundai,Vermelho
+Gabriel Cruz Machado,FED3B28,Honda,Azul Claro
+Mariana Amorim Lima,FFC9C66,VW,Preto
+Pedro Cruz Castilho,DCD5B27,Honda,Vermelho
+Daniel Paschoalino dos Santos,EBE0C39,Fiat,Vermelho
+Miguel Ponciano Trindade,CCD2D96,Toyota,Prata
+Daniel Queiroz Campos,BAE3E64,Chevrolet,Prata
+Victor Martins Camargo,FBA1A70,Toyota,Cinza
+Victor Paschoalino Pinto,CEB1E36,Fiat,Preto
+Eduardo Matos Araujo,CBB1A62,Toyota,Cinza
+Eduardo Cruz Ribeiro,AEF1D43,Toyota,Vermelho
+Matheus Ponciano Senzaki,DFB4B68,Chevrolet,Prata
+Livia Ferreira Dias,FAB5B17,Honda,Preto
+Rafael Franco Rodrigues,CCB3D16,Honda,Branco
+Erik Amorim da Costa,FED7C77,Hyundai,Prata
+Giovanna Cruz Camargo,BEA2A31,Toyota,Branco
+Henrique Vieira Castilho,EEE6E78,Chevrolet,Azul Claro
+Vitória Matos Mendes,CCC0B10,Honda,Azul Claro
+Giovanna Paschoalino Amancio,CCB5D52,Hyundai,Cinza
+Erik Vieira Camargo,FED3A31,Hyundai,Vermelho
+Livia Ferreira Mendes,FCD9B48,Hyundai,Vermelho
+Henrique Ferreira Silva,FBF0E66,Honda,Branco
+Henrique Cristine Mengue,FDB1D48,Toyota,Preto
+Larissa Paschoalino Senzaki,BDF8A26,Fiat,Branco
+Maria Ponciano Barbosa,DEB0C61,Toyota,Azul Claro
+Miguel Mesquita Dias,ACD7D32,Toyota,Prata
+Daniel Ferreira Araujo,DDC2C48,Honda,Preto
+Victor Paschoalino Rodrigues,DEE6D56,Fiat,Prata
+Daniel Fernandes Soares,BAA5E27,Hyundai,Preto
+Vitória Ferreira Araujo,DAB5A52,VW,Prata
+Sofia Braz Lima,ACD1D44,Fiat,Vermelho
+Vinícius Amorim dos Santos,CCD2B58,Fiat,Azul Claro
+Livia Ponciano Soares,CFE2D36,Toyota,Azul Claro
+Vitória Paschoalino Camargo,DBE7C23,Toyota,Azul Claro
+Thiago Braz Mendes,EED0A99,Chevrolet,Vermelho
+Mariana Braz Amaral,BAE7A65,Chevrolet,Azul Claro
+Vinícius Martins Ribeiro,BEE1C72,Hyundai,Cinza
+Giovanna Amorim Pinto,CAF4E95,Fiat,Cinza
+Guilherme da Silva da Costa,DBC5D34,Honda,Azul Claro
+Mariana Mesquita Athayde,CDF0E53,Chevrolet,Azul Claro
+Daniel Mesquita Machado,AAD8B81,Hyundai,Prata
+Erik Bellini Lopes,ACB9C17,Honda,Preto
+Sofia Ferreira Soares,FBA2E15,Honda,Vermelho
+Daniel Ferreira Soares,FDE1A16,Fiat,Cinza
+Eduardo Cristine Pereira,FAD6A52,VW,Cinza
+Mariana Cruz Campos,AAC9E20,Chevrolet,Azul Claro
+Gabriel Matos Camargo,AAF2C60,Honda,Cinza
+Sofia de Medeiros Soares,ECF4B12,Honda,Prata
+Livia Santana Domingues,DFB2D62,Hyundai,Prata
+Gabriel Cristine Araujo,FCC2E55,Chevrolet,Azul Claro
+Pedro Paschoalino da Costa,EEA5E73,VW,Vermelho
+Vinícius Amorim Soares,FDF8E10,VW,Branco
+Guilherme Nascimento Lopes,ACD3C69,Fiat,Prata
+Beatriz Ferreira Rodrigues,ECE9E53,Hyundai,Preto
+Livia de Oliveira dos Santos,CBF8C93,Fiat,Cinza
+Henrique Ponciano Dias,EAD7A18,Fiat,Cinza
+Eduardo Martins Domingues,DAB5D74,Hyundai,Azul Claro

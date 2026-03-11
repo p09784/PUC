@@ -1,0 +1,802 @@
+data,tipo,local,detalhes
+2026-02-22,Estelionato,"Rua Maria Monteiro, 908 - Cambuí",Relatório de diligência 415: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-27,Homicídio,"Avenida Alberto Sarmento, 326 - Castelo",Inquérito Policial nº 339: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-18,Estelionato,"Avenida Alberto Sarmento, 1152 - Castelo",Ocorrência registrada via COPOM 267: Venda de terreno inexistente. Suspeito foragido.
+2026-02-28,Tráfico de Entorpecentes,"Rua Sampaio Ferraz, 335 - Cambuí",Inquérito Policial nº 580: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-25,Estelionato,"Avenida Brasil, 1920 - Guanabara",Inquérito Policial nº 624: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-09,Estelionato,"Avenida Alberto Sarmento, 168 - Castelo",Ocorrência registrada via COPOM 243: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-14,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 837 - Vila Itapura",Inquérito Policial nº 606: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-22,Estelionato,"Rua Maria Monteiro, 206 - Cambuí",Auto de constatação 875: Golpe do falso bilhete premiado. Investigação em curso.
+2026-02-25,Homicídio,"Avenida Andrade Neves, 626 - Castelo",Ocorrência registrada via COPOM 520: Confronto entre grupos rivais. Investigação em curso.
+2026-02-28,Furto,"Avenida Brasil, 169 - Guanabara",Ocorrência registrada via COPOM 131: Furto de bicicleta em via pública. Encaminhado ao DP central.
+2026-02-01,Furto,"Avenida Albino José Barbosa de Oliveira, 3368 - Barão Geraldo",Auto de constatação 640: Objeto subtraído de interior de veículo. Aguardando perícia técnica.
+2026-02-05,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 833 - Barão Geraldo",Relatório de diligência 271: Venda de entorpecentes em praça pública. Investigação em curso.
+2026-02-11,Homicídio,"Rua Barão de Itapura, 1961 - Guanabara",Relatório de diligência 336: Crime passional com arma branca. Suspeito foragido.
+2026-02-24,Furto,"Avenida Albino José Barbosa de Oliveira, 1958 - Barão Geraldo",Relatório de diligência 878: Furto de fiação elétrica noturno. Investigação em curso.
+2026-02-09,Homicídio,"Avenida Francisco Glicério, 2406 - Centro",Relatório de diligência 186: Disparos de arma de fogo em via pública. Aguardando perícia técnica.
+2026-02-19,Homicídio,"Avenida Francisco Glicério, 2189 - Centro",Auto de constatação 617: Crime passional com arma branca. Aguardando perícia técnica.
+2026-02-28,Tráfico de Entorpecentes,"Rua Sampaio Ferraz, 186 - Cambuí",Ocorrência registrada via COPOM 625: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-16,Tráfico de Entorpecentes,"Avenida Brasil, 876 - Guanabara",Ocorrência registrada via COPOM 601: Apreensão de substâncias análogas à cocaína. Suspeito foragido.
+2026-02-07,Homicídio,"Avenida Brasil, 931 - Guanabara",Inquérito Policial nº 369: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-16,Homicídio,"Avenida Anchieta, 540 - Centro",Ocorrência registrada via COPOM 539: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-10,Furto,"Rua Sampaio Ferraz, 501 - Cambuí",Relatório de diligência 823: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-05,Furto,"Rua Barão de Itapura, 1392 - Guanabara",Relatório de diligência 537: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-28,Furto,"Avenida Francisco Glicério, 547 - Centro",Auto de constatação 921: Furto de fiação elétrica noturno. Suspeito foragido.
+2026-02-21,Furto,"Avenida Alberto Sarmento, 438 - Castelo",Relatório de diligência 437: Furto de fiação elétrica noturno. Aguardando perícia técnica.
+2026-02-17,Estelionato,"Avenida Alberto Sarmento, 398 - Castelo",Ocorrência registrada via COPOM 763: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-09,Furto,"Rua Paula Bueno, 575 - Taquaral",Relatório de diligência 221: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-13,Furto,"Rua Paula Bueno, 733 - Taquaral",Inquérito Policial nº 744: Furto de bicicleta em via pública. Aguardando perícia técnica.
+2026-02-07,Tráfico de Entorpecentes,"Avenida Francisco Glicério, 1949 - Centro",Ocorrência registrada via COPOM 616: Apreensão de substâncias análogas à cocaína. Investigação em curso.
+2026-02-05,Estelionato,"Rua Sampaio Ferraz, 606 - Cambuí",Auto de constatação 107: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-23,Furto,"Avenida Albino José Barbosa de Oliveira, 1474 - Barão Geraldo",Auto de constatação 652: Subtração de pertences em residência sem arrombamento. Aguardando perícia técnica.
+2026-02-04,Furto,"Avenida Albino José Barbosa de Oliveira, 987 - Barão Geraldo",Inquérito Policial nº 257: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-27,Roubo,"Rua Doutor Delfino Cintra, 792 - Vila Itapura",Relatório de diligência 782: Vítima abordada por dois elementos em motocicleta. Encaminhado ao DP central.
+2026-02-17,Furto,"Rua Paula Bueno, 152 - Taquaral",Ocorrência registrada via COPOM 762: Objeto subtraído de interior de veículo. Aguardando perícia técnica.
+2026-02-18,Furto,"Avenida Francisco Glicério, 2072 - Centro",Inquérito Policial nº 507: Furto de bicicleta em via pública. Investigação em curso.
+2026-02-08,Furto,"Rua Marechal Deodoro, 796 - Vila Itapura",Inquérito Policial nº 524: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-17,Homicídio,"Avenida Andrade Neves, 1902 - Castelo",Inquérito Policial nº 287: Crime passional com arma branca. Investigação em curso.
+2026-02-21,Tráfico de Entorpecentes,"Rua Marechal Deodoro, 1521 - Vila Itapura",Inquérito Policial nº 201: Localização de depósito de drogas após denúncia. Aguardando perícia técnica.
+2026-02-09,Homicídio,"Rua Sampaio Ferraz, 344 - Cambuí",Relatório de diligência 998: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-14,Estelionato,"Rua Coronel Quirino, 1843 - Cambuí",Inquérito Policial nº 560: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-26,Roubo,"Avenida Anchieta, 530 - Centro",Relatório de diligência 519: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-25,Estelionato,"Avenida Anchieta, 684 - Centro",Inquérito Policial nº 297: Golpe do falso bilhete premiado. Aguardando perícia técnica.
+2026-02-27,Tráfico de Entorpecentes,"Rua Barão de Itapura, 967 - Guanabara",Inquérito Policial nº 418: Indivíduo detido em flagrante com entorpecentes. Aguardando perícia técnica.
+2026-02-17,Tráfico de Entorpecentes,"Avenida Andrade Neves, 775 - Castelo",Ocorrência registrada via COPOM 829: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-22,Homicídio,"Rua Marechal Deodoro, 527 - Vila Itapura",Ocorrência registrada via COPOM 280: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-02,Roubo,"Rua Coronel Quirino, 1366 - Cambuí",Ocorrência registrada via COPOM 539: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-25,Tráfico de Entorpecentes,"Rua Coronel Quirino, 576 - Cambuí",Ocorrência registrada via COPOM 165: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-09,Furto,"Avenida Andrade Neves, 2537 - Castelo",Inquérito Policial nº 619: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-11,Roubo,"Rua Doutor Delfino Cintra, 272 - Vila Itapura",Inquérito Policial nº 366: Vítima abordada por dois elementos em motocicleta. Encaminhado ao DP central.
+2026-02-20,Roubo,"Avenida Francisco Glicério, 2093 - Centro",Auto de constatação 458: Vítima abordada por dois elementos em motocicleta. Suspeito foragido.
+2026-02-24,Estelionato,"Avenida Albino José Barbosa de Oliveira, 646 - Barão Geraldo",Ocorrência registrada via COPOM 619: Venda de terreno inexistente. Suspeito foragido.
+2026-02-01,Estelionato,"Avenida Brasil, 1030 - Guanabara",Inquérito Policial nº 799: Venda de terreno inexistente. Aguardando perícia técnica.
+2026-02-20,Roubo,"Avenida Francisco Glicério, 1308 - Centro",Ocorrência registrada via COPOM 916: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-12,Homicídio,"Rua Doutor Delfino Cintra, 806 - Vila Itapura",Relatório de diligência 436: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-27,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 812 - Barão Geraldo",Auto de constatação 608: Venda de entorpecentes em praça pública. Aguardando perícia técnica.
+2026-02-05,Furto,"Avenida Anchieta, 103 - Centro",Auto de constatação 418: Furto de bicicleta em via pública. Suspeito foragido.
+2026-02-24,Estelionato,"Rua Paula Bueno, 686 - Taquaral",Auto de constatação 911: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-05,Homicídio,"Rua Paula Bueno, 976 - Taquaral",Auto de constatação 252: Crime passional com arma branca. Suspeito foragido.
+2026-02-06,Tráfico de Entorpecentes,"Avenida Brasil, 33 - Guanabara",Auto de constatação 662: Localização de depósito de drogas após denúncia. Suspeito foragido.
+2026-02-17,Roubo,"Rua Barão de Itapura, 1575 - Guanabara",Relatório de diligência 299: Vítima abordada por dois elementos em motocicleta. Investigação em curso.
+2026-02-18,Roubo,"Avenida Heitor Penteado, 262 - Taquaral",Auto de constatação 207: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-02,Tráfico de Entorpecentes,"Avenida Brasil, 1579 - Guanabara",Ocorrência registrada via COPOM 680: Indivíduo detido em flagrante com entorpecentes. Suspeito foragido.
+2026-02-22,Homicídio,"Avenida Albino José Barbosa de Oliveira, 916 - Barão Geraldo",Relatório de diligência 694: Confronto entre grupos rivais. Investigação em curso.
+2026-02-03,Homicídio,"Rua Maria Monteiro, 578 - Cambuí",Inquérito Policial nº 914: Confronto entre grupos rivais. Investigação em curso.
+2026-02-19,Estelionato,"Rua Marechal Deodoro, 897 - Vila Itapura",Relatório de diligência 117: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-21,Estelionato,"Avenida Brasil, 1686 - Guanabara",Relatório de diligência 838: Venda de terreno inexistente. Encaminhado ao DP central.
+2026-02-25,Furto,"Avenida Albino José Barbosa de Oliveira, 39 - Barão Geraldo",Auto de constatação 821: Furto de bicicleta em via pública. Suspeito foragido.
+2026-02-24,Tráfico de Entorpecentes,"Avenida Francisco Glicério, 84 - Centro",Relatório de diligência 549: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-03,Furto,"Avenida Francisco Glicério, 35 - Centro",Relatório de diligência 517: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-03,Estelionato,"Rua Maria Monteiro, 806 - Cambuí",Ocorrência registrada via COPOM 826: Venda de terreno inexistente. Encaminhado ao DP central.
+2026-02-15,Furto,"Rua Marechal Deodoro, 154 - Vila Itapura",Relatório de diligência 360: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-26,Homicídio,"Rua Sampaio Ferraz, 339 - Cambuí",Inquérito Policial nº 538: Crime passional com arma branca. Investigação em curso.
+2026-02-06,Tráfico de Entorpecentes,"Rua Sampaio Ferraz, 386 - Cambuí",Ocorrência registrada via COPOM 735: Venda de entorpecentes em praça pública. Aguardando perícia técnica.
+2026-02-02,Estelionato,"Avenida Albino José Barbosa de Oliveira, 2650 - Barão Geraldo",Relatório de diligência 960: Uso de documento falso para saque bancário. Investigação em curso.
+2026-02-11,Estelionato,"Avenida Albino José Barbosa de Oliveira, 1788 - Barão Geraldo",Relatório de diligência 218: Golpe do falso bilhete premiado. Investigação em curso.
+2026-02-04,Furto,"Avenida Andrade Neves, 2282 - Castelo",Relatório de diligência 625: Furto de fiação elétrica noturno. Encaminhado ao DP central.
+2026-02-03,Roubo,"Avenida Alberto Sarmento, 302 - Castelo",Relatório de diligência 995: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-14,Homicídio,"Rua Doutor Delfino Cintra, 90 - Vila Itapura",Inquérito Policial nº 136: Disparos de arma de fogo em via pública. Aguardando perícia técnica.
+2026-02-17,Furto,"Avenida Albino José Barbosa de Oliveira, 1090 - Barão Geraldo",Auto de constatação 202: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-01,Homicídio,"Avenida Heitor Penteado, 2238 - Taquaral",Auto de constatação 936: Confronto entre grupos rivais. Suspeito foragido.
+2026-02-26,Furto,"Rua Doutor Delfino Cintra, 557 - Vila Itapura",Auto de constatação 477: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-03,Tráfico de Entorpecentes,"Avenida Francisco Glicério, 1697 - Centro",Auto de constatação 238: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-27,Roubo,"Avenida Brasil, 1309 - Guanabara",Inquérito Policial nº 657: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-25,Roubo,"Avenida Francisco Glicério, 2472 - Centro",Relatório de diligência 370: Vítima abordada por dois elementos em motocicleta. Encaminhado ao DP central.
+2026-02-07,Roubo,"Rua Doutor Delfino Cintra, 280 - Vila Itapura",Inquérito Policial nº 816: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-07,Roubo,"Avenida Alberto Sarmento, 558 - Castelo",Ocorrência registrada via COPOM 222: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-01,Estelionato,"Avenida Andrade Neves, 1325 - Castelo",Relatório de diligência 830: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-24,Estelionato,"Avenida Heitor Penteado, 1876 - Taquaral",Inquérito Policial nº 235: Venda de terreno inexistente. Suspeito foragido.
+2026-02-19,Homicídio,"Avenida Alberto Sarmento, 952 - Castelo",Inquérito Policial nº 150: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-16,Homicídio,"Avenida Heitor Penteado, 341 - Taquaral",Inquérito Policial nº 638: Disparos de arma de fogo em via pública. Encaminhado ao DP central.
+2026-02-22,Roubo,"Rua Maria Monteiro, 1403 - Cambuí",Ocorrência registrada via COPOM 572: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-28,Estelionato,"Rua Maria Monteiro, 986 - Cambuí",Relatório de diligência 640: Golpe do falso bilhete premiado. Investigação em curso.
+2026-02-02,Homicídio,"Rua Doutor Delfino Cintra, 438 - Vila Itapura",Inquérito Policial nº 853: Confronto entre grupos rivais. Investigação em curso.
+2026-02-06,Homicídio,"Avenida Alberto Sarmento, 52 - Castelo",Inquérito Policial nº 373: Crime passional com arma branca. Aguardando perícia técnica.
+2026-02-04,Roubo,"Avenida Albino José Barbosa de Oliveira, 3081 - Barão Geraldo",Inquérito Policial nº 333: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-18,Homicídio,"Avenida Albino José Barbosa de Oliveira, 2046 - Barão Geraldo",Auto de constatação 156: Crime passional com arma branca. Investigação em curso.
+2026-02-01,Roubo,"Avenida Francisco Glicério, 490 - Centro",Inquérito Policial nº 376: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-26,Homicídio,"Rua Barão de Itapura, 2607 - Guanabara",Relatório de diligência 892: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-16,Estelionato,"Avenida Alberto Sarmento, 801 - Castelo",Ocorrência registrada via COPOM 104: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-12,Estelionato,"Avenida Anchieta, 474 - Centro",Inquérito Policial nº 757: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-01,Furto,"Avenida Francisco Glicério, 1857 - Centro",Ocorrência registrada via COPOM 942: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-02,Estelionato,"Rua Barão de Itapura, 815 - Guanabara",Inquérito Policial nº 381: Venda de terreno inexistente. Investigação em curso.
+2026-02-11,Estelionato,"Avenida Alberto Sarmento, 313 - Castelo",Auto de constatação 661: Uso de documento falso para saque bancário. Investigação em curso.
+2026-02-11,Roubo,"Avenida Heitor Penteado, 1938 - Taquaral",Auto de constatação 477: Roubo de carga em via arterial. Investigação em curso.
+2026-02-18,Roubo,"Avenida Albino José Barbosa de Oliveira, 2182 - Barão Geraldo",Ocorrência registrada via COPOM 365: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-03,Furto,"Avenida Anchieta, 232 - Centro",Inquérito Policial nº 474: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-25,Roubo,"Rua Paula Bueno, 913 - Taquaral",Ocorrência registrada via COPOM 531: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-27,Roubo,"Avenida Francisco Glicério, 250 - Centro",Inquérito Policial nº 282: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-11,Furto,"Avenida Albino José Barbosa de Oliveira, 3336 - Barão Geraldo",Auto de constatação 607: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-15,Estelionato,"Rua Marechal Deodoro, 649 - Vila Itapura",Relatório de diligência 945: Venda de terreno inexistente. Investigação em curso.
+2026-02-25,Estelionato,"Avenida Albino José Barbosa de Oliveira, 349 - Barão Geraldo",Auto de constatação 973: Venda de terreno inexistente. Suspeito foragido.
+2026-02-14,Estelionato,"Rua Barão de Itapura, 2283 - Guanabara",Relatório de diligência 317: Uso de documento falso para saque bancário. Aguardando perícia técnica.
+2026-02-14,Roubo,"Rua Marechal Deodoro, 1436 - Vila Itapura",Inquérito Policial nº 571: Roubo de carga em via arterial. Suspeito foragido.
+2026-02-14,Roubo,"Rua Paula Bueno, 988 - Taquaral",Relatório de diligência 925: Roubo de carga em via arterial. Investigação em curso.
+2026-02-02,Homicídio,"Rua Maria Monteiro, 452 - Cambuí",Homicídio consumado. Vítima alvejada no acesso à garagem por autor que fugiu em veículo azul. A testemunha Beatriz Oliveira de Almeida presenciou a cena.
+2026-02-20,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 3282 - Barão Geraldo",Ocorrência registrada via COPOM 142: Indivíduo detido em flagrante com entorpecentes. Suspeito foragido.
+2026-02-20,Furto,"Rua Sampaio Ferraz, 380 - Cambuí",Relatório de diligência 119: Furto de bicicleta em via pública. Encaminhado ao DP central.
+2026-02-25,Homicídio,"Avenida Heitor Penteado, 1461 - Taquaral",Inquérito Policial nº 257: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-19,Furto,"Rua Paula Bueno, 1182 - Taquaral",Relatório de diligência 625: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-20,Furto,"Rua Barão de Itapura, 2279 - Guanabara",Relatório de diligência 111: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-27,Furto,"Avenida Andrade Neves, 1400 - Castelo",Inquérito Policial nº 895: Furto de fiação elétrica noturno. Encaminhado ao DP central.
+2026-02-14,Roubo,"Avenida Francisco Glicério, 2107 - Centro",Inquérito Policial nº 798: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-27,Furto,"Rua Coronel Quirino, 1572 - Cambuí",Auto de constatação 140: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-23,Homicídio,"Rua Doutor Delfino Cintra, 299 - Vila Itapura",Inquérito Policial nº 279: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-05,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 1974 - Barão Geraldo",Ocorrência registrada via COPOM 307: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-05,Homicídio,"Avenida Andrade Neves, 1738 - Castelo",Relatório de diligência 307: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-21,Homicídio,"Rua Barão de Itapura, 438 - Guanabara",Relatório de diligência 750: Crime passional com arma branca. Suspeito foragido.
+2026-02-11,Furto,"Rua Sampaio Ferraz, 537 - Cambuí",Ocorrência registrada via COPOM 336: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-01,Roubo,"Rua Paula Bueno, 425 - Taquaral",Auto de constatação 929: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-12,Estelionato,"Avenida Alberto Sarmento, 535 - Castelo",Ocorrência registrada via COPOM 114: Uso de documento falso para saque bancário. Suspeito foragido.
+2026-02-07,Furto,"Rua Marechal Deodoro, 481 - Vila Itapura",Ocorrência registrada via COPOM 363: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-03,Estelionato,"Avenida Albino José Barbosa de Oliveira, 1313 - Barão Geraldo",Auto de constatação 833: Venda de terreno inexistente. Encaminhado ao DP central.
+2026-02-12,Furto,"Avenida Albino José Barbosa de Oliveira, 330 - Barão Geraldo",Inquérito Policial nº 828: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-23,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 1286 - Barão Geraldo",Ocorrência registrada via COPOM 606: Indivíduo detido em flagrante com entorpecentes. Investigação em curso.
+2026-02-13,Roubo,"Avenida Andrade Neves, 2288 - Castelo",Auto de constatação 418: Vítima abordada por dois elementos em motocicleta. Suspeito foragido.
+2026-02-13,Tráfico de Entorpecentes,"Avenida Anchieta, 496 - Centro",Ocorrência registrada via COPOM 914: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-21,Roubo,"Rua Paula Bueno, 684 - Taquaral",Ocorrência registrada via COPOM 985: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-22,Estelionato,"Rua Doutor Delfino Cintra, 62 - Vila Itapura",Auto de constatação 190: Golpe do falso bilhete premiado. Aguardando perícia técnica.
+2026-02-05,Furto,"Rua Coronel Quirino, 582 - Cambuí",Ocorrência registrada via COPOM 143: Furto de fiação elétrica noturno. Suspeito foragido.
+2026-02-24,Tráfico de Entorpecentes,"Avenida Francisco Glicério, 1132 - Centro",Relatório de diligência 490: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-08,Roubo,"Avenida Andrade Neves, 1933 - Castelo",Auto de constatação 716: Assalto a estabelecimento comercial. Suspeito foragido.
+2026-02-28,Homicídio,"Avenida Francisco Glicério, 1561 - Centro",Ocorrência registrada via COPOM 213: Confronto entre grupos rivais. Encaminhado ao DP central.
+2026-02-02,Roubo,"Avenida Anchieta, 892 - Centro",Inquérito Policial nº 382: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-24,Furto,"Rua Maria Monteiro, 841 - Cambuí",Relatório de diligência 391: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-27,Furto,"Avenida Brasil, 915 - Guanabara",Relatório de diligência 532: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-12,Furto,"Avenida Francisco Glicério, 2498 - Centro",Inquérito Policial nº 799: Furto de bicicleta em via pública. Investigação em curso.
+2026-02-27,Homicídio,"Avenida Albino José Barbosa de Oliveira, 913 - Barão Geraldo",Relatório de diligência 523: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-13,Homicídio,"Avenida Albino José Barbosa de Oliveira, 787 - Barão Geraldo",Relatório de diligência 695: Crime passional com arma branca. Encaminhado ao DP central.
+2026-02-12,Furto,"Rua Doutor Delfino Cintra, 533 - Vila Itapura",Ocorrência registrada via COPOM 613: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-08,Homicídio,"Rua Doutor Delfino Cintra, 740 - Vila Itapura",Inquérito Policial nº 826: Crime passional com arma branca. Suspeito foragido.
+2026-02-02,Homicídio,"Rua Marechal Deodoro, 1264 - Vila Itapura",Ocorrência registrada via COPOM 570: Vítima encontrada sem sinais vitais. Aguardando perícia técnica.
+2026-02-22,Furto,"Rua Paula Bueno, 658 - Taquaral",Auto de constatação 324: Furto de fiação elétrica noturno. Investigação em curso.
+2026-02-07,Furto,"Rua Doutor Delfino Cintra, 783 - Vila Itapura",Relatório de diligência 336: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-15,Estelionato,"Rua Maria Monteiro, 1396 - Cambuí",Auto de constatação 221: Golpe do falso bilhete premiado. Investigação em curso.
+2026-02-23,Furto,"Rua Paula Bueno, 357 - Taquaral",Auto de constatação 632: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-03,Estelionato,"Rua Barão de Itapura, 1846 - Guanabara",Relatório de diligência 804: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-10,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 846 - Vila Itapura",Inquérito Policial nº 566: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-04,Estelionato,"Avenida Albino José Barbosa de Oliveira, 1242 - Barão Geraldo",Ocorrência registrada via COPOM 422: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-22,Homicídio,"Avenida Heitor Penteado, 1964 - Taquaral",Ocorrência registrada via COPOM 169: Vítima encontrada sem sinais vitais. Aguardando perícia técnica.
+2026-02-25,Tráfico de Entorpecentes,"Rua Paula Bueno, 410 - Taquaral",Ocorrência registrada via COPOM 597: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-15,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 322 - Taquaral",Inquérito Policial nº 844: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-19,Roubo,"Rua Paula Bueno, 1174 - Taquaral",Inquérito Policial nº 935: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-27,Estelionato,"Rua Doutor Delfino Cintra, 294 - Vila Itapura",Auto de constatação 444: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-13,Furto,"Rua Coronel Quirino, 1399 - Cambuí",Relatório de diligência 356: Subtração de pertences em residência sem arrombamento. Aguardando perícia técnica.
+2026-02-28,Roubo,"Rua Doutor Delfino Cintra, 138 - Vila Itapura",Relatório de diligência 958: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-08,Furto,"Avenida Andrade Neves, 2324 - Castelo",Ocorrência registrada via COPOM 849: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-04,Roubo,"Avenida Brasil, 1392 - Guanabara",Relatório de diligência 683: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-20,Estelionato,"Avenida Brasil, 894 - Guanabara",Ocorrência registrada via COPOM 187: Venda de terreno inexistente. Investigação em curso.
+2026-02-14,Roubo,"Avenida Francisco Glicério, 1651 - Centro",Ocorrência registrada via COPOM 514: Roubo de carga em via arterial. Investigação em curso.
+2026-02-25,Tráfico de Entorpecentes,"Rua Paula Bueno, 428 - Taquaral",Auto de constatação 826: Venda de entorpecentes em praça pública. Suspeito foragido.
+2026-02-11,Roubo,"Avenida Alberto Sarmento, 327 - Castelo",Inquérito Policial nº 708: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-19,Roubo,"Avenida Albino José Barbosa de Oliveira, 924 - Barão Geraldo",Auto de constatação 302: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-20,Roubo,"Rua Doutor Delfino Cintra, 611 - Vila Itapura",Auto de constatação 790: Subtração de veículo mediante ameaça. Suspeito foragido.
+2026-02-08,Homicídio,"Rua Doutor Delfino Cintra, 424 - Vila Itapura",Inquérito Policial nº 545: Disparos de arma de fogo em via pública. Investigação em curso.
+2026-02-27,Roubo,"Rua Doutor Delfino Cintra, 502 - Vila Itapura",Inquérito Policial nº 514: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-03,Roubo,"Avenida Brasil, 1702 - Guanabara",Ocorrência registrada via COPOM 507: Vítima abordada por dois elementos em motocicleta. Encaminhado ao DP central.
+2026-02-10,Tráfico de Entorpecentes,"Rua Marechal Deodoro, 1042 - Vila Itapura",Inquérito Policial nº 455: Apreensão de substâncias análogas à cocaína. Investigação em curso.
+2026-02-02,Roubo,"Avenida Andrade Neves, 60 - Castelo",Ocorrência registrada via COPOM 777: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-16,Estelionato,"Avenida Albino José Barbosa de Oliveira, 2513 - Barão Geraldo",Auto de constatação 774: Fraude em ambiente digital reportada. Encaminhado ao DP central.
+2026-02-28,Estelionato,"Rua Marechal Deodoro, 722 - Vila Itapura",Auto de constatação 341: Venda de terreno inexistente. Suspeito foragido.
+2026-02-11,Furto,"Rua Doutor Delfino Cintra, 235 - Vila Itapura",Inquérito Policial nº 832: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-06,Homicídio,"Rua Marechal Deodoro, 919 - Vila Itapura",Auto de constatação 233: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-10,Tráfico de Entorpecentes,"Avenida Anchieta, 115 - Centro",Relatório de diligência 271: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-15,Homicídio,"Avenida Francisco Glicério, 23 - Centro",Inquérito Policial nº 644: Crime passional com arma branca. Aguardando perícia técnica.
+2026-02-15,Furto,"Rua Coronel Quirino, 383 - Cambuí",Inquérito Policial nº 431: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-12,Estelionato,"Rua Marechal Deodoro, 1223 - Vila Itapura",Auto de constatação 268: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-16,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 58 - Vila Itapura",Ocorrência registrada via COPOM 444: Indivíduo detido em flagrante com entorpecentes. Suspeito foragido.
+2026-02-13,Homicídio,"Rua Barão de Itapura, 2575 - Guanabara",Ocorrência registrada via COPOM 899: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-22,Furto,"Avenida Anchieta, 575 - Centro",Ocorrência registrada via COPOM 799: Objeto subtraído de interior de veículo. Aguardando perícia técnica.
+2026-02-02,Roubo,"Avenida Albino José Barbosa de Oliveira, 2940 - Barão Geraldo",Relatório de diligência 366: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-16,Estelionato,"Avenida Heitor Penteado, 2526 - Taquaral",Inquérito Policial nº 310: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-03,Tráfico de Entorpecentes,"Rua Barão de Itapura, 2160 - Guanabara",Relatório de diligência 652: Indivíduo detido em flagrante com entorpecentes. Encaminhado ao DP central.
+2026-02-17,Furto,"Avenida Albino José Barbosa de Oliveira, 2920 - Barão Geraldo",Inquérito Policial nº 414: Furto de bicicleta em via pública. Aguardando perícia técnica.
+2026-02-22,Tráfico de Entorpecentes,"Avenida Andrade Neves, 2328 - Castelo",Auto de constatação 244: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-25,Tráfico de Entorpecentes,"Rua Paula Bueno, 596 - Taquaral",Ocorrência registrada via COPOM 845: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-15,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 2834 - Taquaral",Inquérito Policial nº 621: Indivíduo detido em flagrante com entorpecentes. Suspeito foragido.
+2026-02-08,Furto,"Rua Barão de Itapura, 2864 - Guanabara",Relatório de diligência 547: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-27,Roubo,"Rua Sampaio Ferraz, 122 - Cambuí",Auto de constatação 369: Assalto a estabelecimento comercial. Suspeito foragido.
+2026-02-23,Homicídio,"Avenida Albino José Barbosa de Oliveira, 1558 - Barão Geraldo",Ocorrência registrada via COPOM 811: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-05,Roubo,"Rua Sampaio Ferraz, 294 - Cambuí",Inquérito Policial nº 837: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-13,Tráfico de Entorpecentes,"Rua Paula Bueno, 415 - Taquaral",Auto de constatação 674: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-23,Homicídio,"Rua Paula Bueno, 845 - Taquaral",Ocorrência registrada via COPOM 248: Disparos de arma de fogo em via pública. Investigação em curso.
+2026-02-10,Furto,"Rua Marechal Deodoro, 548 - Vila Itapura",Inquérito Policial nº 673: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-03,Tráfico de Entorpecentes,"Rua Maria Monteiro, 1132 - Cambuí",Ocorrência registrada via COPOM 583: Localização de depósito de drogas após denúncia. Suspeito foragido.
+2026-02-28,Homicídio,"Avenida Brasil, 696 - Guanabara",Inquérito Policial nº 123: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-06,Homicídio,"Avenida Francisco Glicério, 270 - Centro",Relatório de diligência 830: Crime passional com arma branca. Suspeito foragido.
+2026-02-18,Homicídio,"Rua Maria Monteiro, 230 - Cambuí",Auto de constatação 353: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-23,Estelionato,"Rua Doutor Delfino Cintra, 172 - Vila Itapura",Relatório de diligência 962: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-08,Furto,"Rua Coronel Quirino, 212 - Cambuí",Relatório de diligência 308: Furto de fiação elétrica noturno. Suspeito foragido.
+2026-02-04,Roubo,"Avenida Albino José Barbosa de Oliveira, 2417 - Barão Geraldo",Ocorrência registrada via COPOM 418: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-08,Estelionato,"Rua Marechal Deodoro, 1259 - Vila Itapura",Relatório de diligência 578: Venda de terreno inexistente. Encaminhado ao DP central.
+2026-02-13,Furto,"Rua Paula Bueno, 608 - Taquaral",Ocorrência registrada via COPOM 813: Furto de bicicleta em via pública. Encaminhado ao DP central.
+2026-02-10,Furto,"Avenida Anchieta, 833 - Centro",Relatório de diligência 715: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-17,Homicídio,"Rua Doutor Delfino Cintra, 458 - Vila Itapura",Ocorrência registrada via COPOM 109: Confronto entre grupos rivais. Encaminhado ao DP central.
+2026-02-24,Furto,"Avenida Alberto Sarmento, 954 - Castelo",Ocorrência registrada via COPOM 386: Furto de bicicleta em via pública. Aguardando perícia técnica.
+2026-02-15,Roubo,"Avenida Heitor Penteado, 448 - Taquaral",Ocorrência registrada via COPOM 245: Roubo de carga em via arterial. Investigação em curso.
+2026-02-16,Estelionato,"Avenida Albino José Barbosa de Oliveira, 1549 - Barão Geraldo",Relatório de diligência 309: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-08,Tráfico de Entorpecentes,"Rua Marechal Deodoro, 1003 - Vila Itapura",Ocorrência registrada via COPOM 684: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-28,Furto,"Rua Maria Monteiro, 542 - Cambuí",Relatório de diligência 534: Furto de bicicleta em via pública. Investigação em curso.
+2026-02-02,Furto,"Avenida Alberto Sarmento, 201 - Castelo",Ocorrência registrada via COPOM 176: Furto de bicicleta em via pública. Aguardando perícia técnica.
+2026-02-18,Roubo,"Avenida Albino José Barbosa de Oliveira, 891 - Barão Geraldo",Relatório de diligência 693: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-06,Furto,"Rua Marechal Deodoro, 713 - Vila Itapura",Inquérito Policial nº 976: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-24,Homicídio,"Rua Barão de Itapura, 569 - Guanabara",Ocorrência registrada via COPOM 235: Crime passional com arma branca. Suspeito foragido.
+2026-02-01,Tráfico de Entorpecentes,"Rua Maria Monteiro, 1013 - Cambuí",Relatório de diligência 667: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-12,Tráfico de Entorpecentes,"Avenida Alberto Sarmento, 149 - Castelo",Inquérito Policial nº 773: Indivíduo detido em flagrante com entorpecentes. Aguardando perícia técnica.
+2026-02-23,Tráfico de Entorpecentes,"Avenida Francisco Glicério, 1178 - Centro",Ocorrência registrada via COPOM 714: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-12,Roubo,"Avenida Andrade Neves, 650 - Castelo",Relatório de diligência 544: Roubo de carga em via arterial. Suspeito foragido.
+2026-02-19,Roubo,"Avenida Albino José Barbosa de Oliveira, 296 - Barão Geraldo",Ocorrência registrada via COPOM 735: Vítima abordada por dois elementos em motocicleta. Suspeito foragido.
+2026-02-21,Homicídio,"Avenida Heitor Penteado, 441 - Taquaral",Inquérito Policial nº 350: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-09,Tráfico de Entorpecentes,"Avenida Anchieta, 792 - Centro",Auto de constatação 997: Indivíduo detido em flagrante com entorpecentes. Suspeito foragido.
+2026-02-26,Homicídio,"Avenida Alberto Sarmento, 946 - Castelo",Auto de constatação 860: Crime passional com arma branca. Investigação em curso.
+2026-02-17,Estelionato,"Avenida Alberto Sarmento, 435 - Castelo",Inquérito Policial nº 416: Uso de documento falso para saque bancário. Encaminhado ao DP central.
+2026-02-02,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 617 - Barão Geraldo",Auto de constatação 113: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-06,Homicídio,"Avenida Brasil, 327 - Guanabara",Relatório de diligência 392: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-28,Homicídio,"Avenida Brasil, 623 - Guanabara",Inquérito Policial nº 348: Vítima encontrada sem sinais vitais. Aguardando perícia técnica.
+2026-02-12,Furto,"Avenida Alberto Sarmento, 129 - Castelo",Relatório de diligência 351: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-05,Furto,"Avenida Albino José Barbosa de Oliveira, 818 - Barão Geraldo",Relatório de diligência 409: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-22,Roubo,"Rua Marechal Deodoro, 1558 - Vila Itapura",Auto de constatação 738: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-22,Homicídio,"Rua Marechal Deodoro, 317 - Vila Itapura",Inquérito Policial nº 996: Confronto entre grupos rivais. Encaminhado ao DP central.
+2026-02-25,Homicídio,"Avenida Brasil, 1395 - Guanabara",Ocorrência registrada via COPOM 155: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-27,Furto,"Avenida Andrade Neves, 1047 - Castelo",Auto de constatação 869: Subtração de pertences em residência sem arrombamento. Aguardando perícia técnica.
+2026-02-20,Estelionato,"Rua Marechal Deodoro, 669 - Vila Itapura",Relatório de diligência 108: Venda de terreno inexistente. Aguardando perícia técnica.
+2026-02-19,Tráfico de Entorpecentes,"Avenida Brasil, 2157 - Guanabara",Auto de constatação 714: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-08,Estelionato,"Avenida Francisco Glicério, 2148 - Centro",Relatório de diligência 218: Uso de documento falso para saque bancário. Suspeito foragido.
+2026-02-06,Roubo,"Avenida Andrade Neves, 2739 - Castelo",Inquérito Policial nº 717: Roubo de carga em via arterial. Investigação em curso.
+2026-02-04,Tráfico de Entorpecentes,"Avenida Andrade Neves, 1302 - Castelo",Auto de constatação 529: Venda de entorpecentes em praça pública. Investigação em curso.
+2026-02-12,Furto,"Avenida Andrade Neves, 2431 - Castelo",Inquérito Policial nº 244: Objeto subtraído de interior de veículo. Aguardando perícia técnica.
+2026-02-28,Furto,"Rua Barão de Itapura, 2715 - Guanabara",Inquérito Policial nº 810: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-03,Roubo,"Avenida Albino José Barbosa de Oliveira, 720 - Barão Geraldo",Relatório de diligência 443: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-05,Homicídio,"Avenida Francisco Glicério, 706 - Centro",Ocorrência registrada via COPOM 626: Disparos de arma de fogo em via pública. Aguardando perícia técnica.
+2026-02-10,Homicídio,"Rua Marechal Deodoro, 1006 - Vila Itapura",Auto de constatação 585: Vítima encontrada sem sinais vitais. Aguardando perícia técnica.
+2026-02-28,Roubo,"Avenida Brasil, 2093 - Guanabara",Inquérito Policial nº 841: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-28,Homicídio,"Rua Barão de Itapura, 1035 - Guanabara",Ocorrência registrada via COPOM 757: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-13,Roubo,"Rua Barão de Itapura, 1128 - Guanabara",Ocorrência registrada via COPOM 503: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-13,Roubo,"Avenida Francisco Glicério, 253 - Centro",Relatório de diligência 983: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-16,Tráfico de Entorpecentes,"Avenida Alberto Sarmento, 237 - Castelo",Relatório de diligência 687: Indivíduo detido em flagrante com entorpecentes. Aguardando perícia técnica.
+2026-02-18,Furto,"Avenida Andrade Neves, 1064 - Castelo",Auto de constatação 832: Furto de fiação elétrica noturno. Investigação em curso.
+2026-02-09,Furto,"Rua Doutor Delfino Cintra, 250 - Vila Itapura",Auto de constatação 455: Furto de fiação elétrica noturno. Encaminhado ao DP central.
+2026-02-20,Estelionato,"Avenida Alberto Sarmento, 30 - Castelo",Ocorrência registrada via COPOM 292: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-13,Homicídio,"Avenida Albino José Barbosa de Oliveira, 2140 - Barão Geraldo",Inquérito Policial nº 554: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-25,Estelionato,"Avenida Anchieta, 352 - Centro",Ocorrência registrada via COPOM 115: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-26,Furto,"Rua Paula Bueno, 942 - Taquaral",Auto de constatação 194: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-25,Tráfico de Entorpecentes,"Rua Sampaio Ferraz, 562 - Cambuí",Ocorrência registrada via COPOM 939: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-09,Tráfico de Entorpecentes,"Rua Maria Monteiro, 641 - Cambuí",Auto de constatação 615: Localização de depósito de drogas após denúncia. Suspeito foragido.
+2026-02-13,Roubo,"Avenida Heitor Penteado, 761 - Taquaral",Ocorrência registrada via COPOM 434: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-04,Tráfico de Entorpecentes,"Rua Barão de Itapura, 465 - Guanabara",Ocorrência registrada via COPOM 744: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-07,Homicídio,"Rua Paula Bueno, 517 - Taquaral",Ocorrência registrada via COPOM 292: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-22,Roubo,"Avenida Albino José Barbosa de Oliveira, 2811 - Barão Geraldo",Ocorrência registrada via COPOM 379: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-09,Tráfico de Entorpecentes,"Avenida Andrade Neves, 2094 - Castelo",Relatório de diligência 570: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-18,Tráfico de Entorpecentes,"Avenida Francisco Glicério, 1364 - Centro",Auto de constatação 278: Apreensão de substâncias análogas à cocaína. Investigação em curso.
+2026-02-03,Homicídio,"Rua Barão de Itapura, 2320 - Guanabara",Inquérito Policial nº 959: Confronto entre grupos rivais. Suspeito foragido.
+2026-02-01,Estelionato,"Rua Doutor Delfino Cintra, 676 - Vila Itapura",Auto de constatação 964: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-11,Furto,"Avenida Alberto Sarmento, 1007 - Castelo",Ocorrência registrada via COPOM 182: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-24,Furto,"Avenida Heitor Penteado, 586 - Taquaral",Auto de constatação 593: Furto de fiação elétrica noturno. Encaminhado ao DP central.
+2026-02-10,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 1420 - Taquaral",Auto de constatação 796: Venda de entorpecentes em praça pública. Suspeito foragido.
+2026-02-28,Furto,"Rua Maria Monteiro, 1437 - Cambuí",Relatório de diligência 711: Subtração de pertences em residência sem arrombamento. Aguardando perícia técnica.
+2026-02-21,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 903 - Taquaral",Ocorrência registrada via COPOM 746: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-22,Estelionato,"Rua Paula Bueno, 837 - Taquaral",Auto de constatação 352: Fraude em ambiente digital reportada. Encaminhado ao DP central.
+2026-02-16,Estelionato,"Rua Marechal Deodoro, 714 - Vila Itapura",Relatório de diligência 407: Uso de documento falso para saque bancário. Investigação em curso.
+2026-02-06,Furto,"Avenida Brasil, 2056 - Guanabara",Relatório de diligência 645: Furto de bicicleta em via pública. Aguardando perícia técnica.
+2026-02-05,Homicídio,"Avenida Albino José Barbosa de Oliveira, 1468 - Barão Geraldo",Auto de constatação 976: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-17,Homicídio,"Rua Maria Monteiro, 1472 - Cambuí",Relatório de diligência 441: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-13,Tráfico de Entorpecentes,"Rua Maria Monteiro, 1477 - Cambuí",Relatório de diligência 472: Localização de depósito de drogas após denúncia. Aguardando perícia técnica.
+2026-02-18,Estelionato,"Rua Paula Bueno, 712 - Taquaral",Inquérito Policial nº 894: Uso de documento falso para saque bancário. Suspeito foragido.
+2026-02-01,Tráfico de Entorpecentes,"Rua Maria Monteiro, 1498 - Cambuí",Ocorrência registrada via COPOM 211: Indivíduo detido em flagrante com entorpecentes. Encaminhado ao DP central.
+2026-02-23,Tráfico de Entorpecentes,"Rua Barão de Itapura, 1990 - Guanabara",Auto de constatação 851: Indivíduo detido em flagrante com entorpecentes. Encaminhado ao DP central.
+2026-02-07,Furto,"Avenida Francisco Glicério, 2009 - Centro",Inquérito Policial nº 949: Furto de fiação elétrica noturno. Investigação em curso.
+2026-02-23,Homicídio,"Rua Doutor Delfino Cintra, 699 - Vila Itapura",Auto de constatação 183: Confronto entre grupos rivais. Encaminhado ao DP central.
+2026-02-05,Furto,"Avenida Alberto Sarmento, 1029 - Castelo",Auto de constatação 631: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-04,Tráfico de Entorpecentes,"Avenida Alberto Sarmento, 840 - Castelo",Auto de constatação 404: Venda de entorpecentes em praça pública. Suspeito foragido.
+2026-02-27,Roubo,"Rua Marechal Deodoro, 953 - Vila Itapura",Auto de constatação 454: Vítima abordada por dois elementos em motocicleta. Investigação em curso.
+2026-02-28,Furto,"Avenida Albino José Barbosa de Oliveira, 1670 - Barão Geraldo",Auto de constatação 281: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-04,Homicídio,"Avenida Alberto Sarmento, 33 - Castelo",Relatório de diligência 777: Crime passional com arma branca. Suspeito foragido.
+2026-02-26,Furto,"Avenida Albino José Barbosa de Oliveira, 348 - Barão Geraldo",Inquérito Policial nº 612: Furto de fiação elétrica noturno. Aguardando perícia técnica.
+2026-02-15,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 1293 - Taquaral",Auto de constatação 198: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-02,Roubo,"Rua Maria Monteiro, 353 - Cambuí",Auto de constatação 519: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-01,Roubo,"Avenida Albino José Barbosa de Oliveira, 3158 - Barão Geraldo",Relatório de diligência 391: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-28,Homicídio,"Avenida Albino José Barbosa de Oliveira, 1804 - Barão Geraldo",Relatório de diligência 662: Crime passional com arma branca. Suspeito foragido.
+2026-02-02,Furto,"Rua Sampaio Ferraz, 485 - Cambuí",Ocorrência registrada via COPOM 123: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-06,Furto,"Avenida Heitor Penteado, 1388 - Taquaral",Ocorrência registrada via COPOM 286: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-27,Homicídio,"Rua Marechal Deodoro, 1657 - Vila Itapura",Inquérito Policial nº 704: Disparos de arma de fogo em via pública. Investigação em curso.
+2026-02-19,Tráfico de Entorpecentes,"Avenida Anchieta, 484 - Centro",Inquérito Policial nº 934: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-12,Estelionato,"Avenida Albino José Barbosa de Oliveira, 1713 - Barão Geraldo",Ocorrência registrada via COPOM 657: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-21,Homicídio,"Avenida Brasil, 687 - Guanabara",Relatório de diligência 902: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-02,Estelionato,"Avenida Anchieta, 107 - Centro",Ocorrência registrada via COPOM 574: Fraude em ambiente digital reportada. Encaminhado ao DP central.
+2026-02-10,Roubo,"Avenida Alberto Sarmento, 920 - Castelo",Ocorrência registrada via COPOM 417: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-01,Homicídio,"Avenida Francisco Glicério, 1055 - Centro",Auto de constatação 264: Crime passional com arma branca. Aguardando perícia técnica.
+2026-02-10,Furto,"Rua Sampaio Ferraz, 89 - Cambuí",Inquérito Policial nº 707: Furto de bicicleta em via pública. Encaminhado ao DP central.
+2026-02-28,Estelionato,"Rua Doutor Delfino Cintra, 528 - Vila Itapura",Relatório de diligência 148: Venda de terreno inexistente. Investigação em curso.
+2026-02-04,Estelionato,"Avenida Anchieta, 449 - Centro",Ocorrência registrada via COPOM 563: Venda de terreno inexistente. Investigação em curso.
+2026-02-16,Furto,"Rua Doutor Delfino Cintra, 674 - Vila Itapura",Relatório de diligência 371: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-12,Roubo,"Rua Doutor Delfino Cintra, 182 - Vila Itapura",Ocorrência registrada via COPOM 161: Vítima abordada por dois elementos em motocicleta. Investigação em curso.
+2026-02-03,Furto,"Rua Sampaio Ferraz, 650 - Cambuí",Ocorrência registrada via COPOM 639: Objeto subtraído de interior de veículo. Aguardando perícia técnica.
+2026-02-07,Tráfico de Entorpecentes,"Rua Maria Monteiro, 913 - Cambuí",Inquérito Policial nº 254: Indivíduo detido em flagrante com entorpecentes. Encaminhado ao DP central.
+2026-02-11,Furto,"Avenida Heitor Penteado, 2782 - Taquaral",Auto de constatação 162: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-05,Homicídio,"Avenida Anchieta, 65 - Centro",Relatório de diligência 362: Confronto entre grupos rivais. Investigação em curso.
+2026-02-13,Estelionato,"Rua Marechal Deodoro, 1353 - Vila Itapura",Auto de constatação 856: Venda de terreno inexistente. Aguardando perícia técnica.
+2026-02-23,Homicídio,"Rua Coronel Quirino, 497 - Cambuí",Inquérito Policial nº 220: Crime passional com arma branca. Suspeito foragido.
+2026-02-21,Roubo,"Avenida Albino José Barbosa de Oliveira, 837 - Barão Geraldo",Inquérito Policial nº 446: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-10,Furto,"Rua Sampaio Ferraz, 405 - Cambuí",Ocorrência registrada via COPOM 655: Furto de bicicleta em via pública. Suspeito foragido.
+2026-02-21,Roubo,"Rua Sampaio Ferraz, 169 - Cambuí",Ocorrência registrada via COPOM 762: Roubo de carga em via arterial. Investigação em curso.
+2026-02-03,Estelionato,"Avenida Albino José Barbosa de Oliveira, 2454 - Barão Geraldo",Inquérito Policial nº 194: Uso de documento falso para saque bancário. Aguardando perícia técnica.
+2026-02-22,Homicídio,"Avenida Francisco Glicério, 889 - Centro",Ocorrência registrada via COPOM 280: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-12,Homicídio,"Rua Barão de Itapura, 2092 - Guanabara",Relatório de diligência 579: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-10,Roubo,"Avenida Albino José Barbosa de Oliveira, 105 - Barão Geraldo",Relatório de diligência 633: Subtração de veículo mediante ameaça. Suspeito foragido.
+2026-02-21,Estelionato,"Rua Maria Monteiro, 487 - Cambuí",Inquérito Policial nº 602: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-05,Tráfico de Entorpecentes,"Avenida Brasil, 880 - Guanabara",Inquérito Policial nº 939: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-15,Furto,"Rua Barão de Itapura, 1719 - Guanabara",Ocorrência registrada via COPOM 173: Furto de bicicleta em via pública. Investigação em curso.
+2026-02-26,Estelionato,"Avenida Albino José Barbosa de Oliveira, 2625 - Barão Geraldo",Inquérito Policial nº 735: Venda de terreno inexistente. Investigação em curso.
+2026-02-05,Furto,"Rua Paula Bueno, 848 - Taquaral",Inquérito Policial nº 285: Furto de fiação elétrica noturno. Suspeito foragido.
+2026-02-04,Furto,"Avenida Alberto Sarmento, 364 - Castelo",Auto de constatação 933: Furto de fiação elétrica noturno. Suspeito foragido.
+2026-02-02,Furto,"Avenida Heitor Penteado, 2714 - Taquaral",Auto de constatação 205: Furto de fiação elétrica noturno. Encaminhado ao DP central.
+2026-02-06,Roubo,"Rua Marechal Deodoro, 798 - Vila Itapura",Ocorrência registrada via COPOM 760: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-07,Tráfico de Entorpecentes,"Avenida Andrade Neves, 1826 - Castelo",Relatório de diligência 727: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-28,Tráfico de Entorpecentes,"Rua Sampaio Ferraz, 326 - Cambuí",Ocorrência registrada via COPOM 264: Indivíduo detido em flagrante com entorpecentes. Investigação em curso.
+2026-02-04,Estelionato,"Avenida Andrade Neves, 2009 - Castelo",Inquérito Policial nº 340: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-24,Homicídio,"Avenida Albino José Barbosa de Oliveira, 2317 - Barão Geraldo",Relatório de diligência 932: Disparos de arma de fogo em via pública. Encaminhado ao DP central.
+2026-02-17,Tráfico de Entorpecentes,"Avenida Andrade Neves, 785 - Castelo",Ocorrência registrada via COPOM 653: Venda de entorpecentes em praça pública. Aguardando perícia técnica.
+2026-02-23,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 510 - Barão Geraldo",Relatório de diligência 489: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-11,Roubo,"Avenida Albino José Barbosa de Oliveira, 350 - Barão Geraldo",Ocorrência registrada via COPOM 139: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-28,Estelionato,"Rua Barão de Itapura, 1524 - Guanabara",Inquérito Policial nº 488: Golpe do falso bilhete premiado. Investigação em curso.
+2026-02-15,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 392 - Vila Itapura",Inquérito Policial nº 923: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-27,Roubo,"Avenida Andrade Neves, 1387 - Castelo",Relatório de diligência 931: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-23,Estelionato,"Avenida Francisco Glicério, 56 - Centro",Auto de constatação 893: Uso de documento falso para saque bancário. Aguardando perícia técnica.
+2026-02-13,Roubo,"Avenida Anchieta, 800 - Centro",Relatório de diligência 194: Roubo de carga em via arterial. Investigação em curso.
+2026-02-02,Estelionato,"Avenida Heitor Penteado, 2194 - Taquaral",Relatório de diligência 446: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-03,Roubo,"Avenida Francisco Glicério, 572 - Centro",Ocorrência registrada via COPOM 125: Roubo de carga em via arterial. Suspeito foragido.
+2026-02-25,Furto,"Rua Maria Monteiro, 1353 - Cambuí",Relatório de diligência 800: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-05,Homicídio,"Rua Paula Bueno, 117 - Taquaral",Auto de constatação 144: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-10,Homicídio,"Rua Sampaio Ferraz, 602 - Cambuí",Auto de constatação 313: Disparos de arma de fogo em via pública. Investigação em curso.
+2026-02-11,Homicídio,"Rua Paula Bueno, 957 - Taquaral",Auto de constatação 571: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-24,Homicídio,"Rua Paula Bueno, 1111 - Taquaral",Inquérito Policial nº 981: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-14,Furto,"Rua Marechal Deodoro, 168 - Vila Itapura",Relatório de diligência 506: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-25,Tráfico de Entorpecentes,"Rua Marechal Deodoro, 835 - Vila Itapura",Inquérito Policial nº 228: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-22,Roubo,"Avenida Albino José Barbosa de Oliveira, 2659 - Barão Geraldo",Auto de constatação 323: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-13,Estelionato,"Avenida Andrade Neves, 1058 - Castelo",Relatório de diligência 573: Venda de terreno inexistente. Aguardando perícia técnica.
+2026-02-05,Furto,"Avenida Albino José Barbosa de Oliveira, 2936 - Barão Geraldo",Relatório de diligência 628: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-18,Estelionato,"Avenida Anchieta, 239 - Centro",Inquérito Policial nº 791: Uso de documento falso para saque bancário. Investigação em curso.
+2026-02-03,Homicídio,"Rua Paula Bueno, 931 - Taquaral",Inquérito Policial nº 806: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-23,Estelionato,"Rua Marechal Deodoro, 383 - Vila Itapura",Relatório de diligência 101: Uso de documento falso para saque bancário. Suspeito foragido.
+2026-02-02,Estelionato,"Avenida Albino José Barbosa de Oliveira, 2609 - Barão Geraldo",Auto de constatação 405: Uso de documento falso para saque bancário. Encaminhado ao DP central.
+2026-02-06,Homicídio,"Avenida Anchieta, 592 - Centro",Auto de constatação 507: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-23,Furto,"Rua Doutor Delfino Cintra, 790 - Vila Itapura",Ocorrência registrada via COPOM 445: Furto de fiação elétrica noturno. Aguardando perícia técnica.
+2026-02-24,Tráfico de Entorpecentes,"Rua Coronel Quirino, 1145 - Cambuí",Relatório de diligência 720: Indivíduo detido em flagrante com entorpecentes. Investigação em curso.
+2026-02-13,Roubo,"Avenida Andrade Neves, 757 - Castelo",Ocorrência registrada via COPOM 280: Vítima abordada por dois elementos em motocicleta. Suspeito foragido.
+2026-02-07,Estelionato,"Avenida Francisco Glicério, 285 - Centro",Ocorrência registrada via COPOM 813: Venda de terreno inexistente. Investigação em curso.
+2026-02-22,Estelionato,"Avenida Heitor Penteado, 951 - Taquaral",Inquérito Policial nº 101: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-01,Tráfico de Entorpecentes,"Rua Sampaio Ferraz, 225 - Cambuí",Relatório de diligência 233: Indivíduo detido em flagrante com entorpecentes. Investigação em curso.
+2026-02-16,Furto,"Rua Paula Bueno, 206 - Taquaral",Auto de constatação 959: Furto de fiação elétrica noturno. Encaminhado ao DP central.
+2026-02-15,Tráfico de Entorpecentes,"Avenida Andrade Neves, 926 - Castelo",Inquérito Policial nº 137: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-10,Homicídio,"Rua Sampaio Ferraz, 310 - Cambuí",Inquérito Policial nº 370: Crime passional com arma branca. Encaminhado ao DP central.
+2026-02-14,Estelionato,"Avenida Francisco Glicério, 2497 - Centro",Relatório de diligência 284: Venda de terreno inexistente. Investigação em curso.
+2026-02-01,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 2350 - Barão Geraldo",Inquérito Policial nº 988: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-27,Furto,"Avenida Albino José Barbosa de Oliveira, 346 - Barão Geraldo",Ocorrência registrada via COPOM 307: Furto de fiação elétrica noturno. Suspeito foragido.
+2026-02-16,Roubo,"Avenida Brasil, 398 - Guanabara",Ocorrência registrada via COPOM 727: Roubo de carga em via arterial. Suspeito foragido.
+2026-02-04,Estelionato,"Rua Marechal Deodoro, 1070 - Vila Itapura",Relatório de diligência 192: Venda de terreno inexistente. Investigação em curso.
+2026-02-18,Furto,"Avenida Albino José Barbosa de Oliveira, 1547 - Barão Geraldo",Inquérito Policial nº 451: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-27,Furto,"Avenida Brasil, 1470 - Guanabara",Inquérito Policial nº 779: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-27,Roubo,"Rua Marechal Deodoro, 1577 - Vila Itapura",Relatório de diligência 944: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-02,Furto,"Rua Maria Monteiro, 1402 - Cambuí",Inquérito Policial nº 592: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-09,Estelionato,"Avenida Alberto Sarmento, 69 - Castelo",Relatório de diligência 154: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-25,Homicídio,"Avenida Brasil, 2124 - Guanabara",Auto de constatação 373: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-23,Roubo,"Avenida Albino José Barbosa de Oliveira, 1909 - Barão Geraldo",Ocorrência registrada via COPOM 442: Assalto a estabelecimento comercial. Suspeito foragido.
+2026-02-15,Estelionato,"Rua Paula Bueno, 685 - Taquaral",Relatório de diligência 642: Fraude em ambiente digital reportada. Encaminhado ao DP central.
+2026-02-18,Tráfico de Entorpecentes,"Rua Paula Bueno, 168 - Taquaral",Inquérito Policial nº 776: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-19,Furto,"Avenida Heitor Penteado, 715 - Taquaral",Inquérito Policial nº 982: Objeto subtraído de interior de veículo. Aguardando perícia técnica.
+2026-02-26,Estelionato,"Avenida Francisco Glicério, 2323 - Centro",Auto de constatação 591: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-06,Estelionato,"Avenida Andrade Neves, 735 - Castelo",Ocorrência registrada via COPOM 937: Uso de documento falso para saque bancário. Aguardando perícia técnica.
+2026-02-25,Furto,"Rua Maria Monteiro, 290 - Cambuí",Ocorrência registrada via COPOM 616: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-06,Furto,"Avenida Albino José Barbosa de Oliveira, 3466 - Barão Geraldo",Auto de constatação 685: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-27,Homicídio,"Avenida Alberto Sarmento, 291 - Castelo",Inquérito Policial nº 495: Disparos de arma de fogo em via pública. Investigação em curso.
+2026-02-09,Estelionato,"Avenida Andrade Neves, 2630 - Castelo",Ocorrência registrada via COPOM 335: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-21,Roubo,"Rua Sampaio Ferraz, 560 - Cambuí",Ocorrência registrada via COPOM 458: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-22,Roubo,"Avenida Albino José Barbosa de Oliveira, 541 - Barão Geraldo",Ocorrência registrada via COPOM 998: Roubo de carga em via arterial. Suspeito foragido.
+2026-02-20,Estelionato,"Rua Marechal Deodoro, 1376 - Vila Itapura",Ocorrência registrada via COPOM 408: Venda de terreno inexistente. Aguardando perícia técnica.
+2026-02-22,Roubo,"Avenida Alberto Sarmento, 898 - Castelo",Auto de constatação 935: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-14,Homicídio,"Rua Paula Bueno, 459 - Taquaral",Relatório de diligência 824: Confronto entre grupos rivais. Investigação em curso.
+2026-02-15,Roubo,"Avenida Heitor Penteado, 1389 - Taquaral",Auto de constatação 384: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-27,Homicídio,"Avenida Andrade Neves, 1471 - Castelo",Auto de constatação 913: Crime passional com arma branca. Investigação em curso.
+2026-02-23,Roubo,"Avenida Alberto Sarmento, 521 - Castelo",Ocorrência registrada via COPOM 544: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-21,Homicídio,"Avenida Francisco Glicério, 1913 - Centro",Ocorrência registrada via COPOM 301: Vítima encontrada sem sinais vitais. Aguardando perícia técnica.
+2026-02-23,Furto,"Avenida Francisco Glicério, 579 - Centro",Relatório de diligência 262: Furto de fiação elétrica noturno. Investigação em curso.
+2026-02-07,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 2347 - Taquaral",Relatório de diligência 301: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-26,Tráfico de Entorpecentes,"Avenida Alberto Sarmento, 128 - Castelo",Relatório de diligência 164: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-27,Homicídio,"Avenida Albino José Barbosa de Oliveira, 2511 - Barão Geraldo",Auto de constatação 512: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-26,Homicídio,"Rua Paula Bueno, 124 - Taquaral",Inquérito Policial nº 563: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-10,Roubo,"Rua Marechal Deodoro, 298 - Vila Itapura",Ocorrência registrada via COPOM 603: Subtração de veículo mediante ameaça. Suspeito foragido.
+2026-02-11,Tráfico de Entorpecentes,"Avenida Francisco Glicério, 1894 - Centro",Ocorrência registrada via COPOM 671: Localização de depósito de drogas após denúncia. Suspeito foragido.
+2026-02-18,Estelionato,"Avenida Albino José Barbosa de Oliveira, 478 - Barão Geraldo",Auto de constatação 420: Golpe do falso bilhete premiado. Aguardando perícia técnica.
+2026-02-10,Tráfico de Entorpecentes,"Avenida Anchieta, 995 - Centro",Inquérito Policial nº 362: Indivíduo detido em flagrante com entorpecentes. Investigação em curso.
+2026-02-27,Furto,"Rua Doutor Delfino Cintra, 140 - Vila Itapura",Ocorrência registrada via COPOM 237: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-26,Furto,"Rua Doutor Delfino Cintra, 112 - Vila Itapura",Inquérito Policial nº 657: Furto de fiação elétrica noturno. Suspeito foragido.
+2026-02-09,Estelionato,"Avenida Andrade Neves, 590 - Castelo",Relatório de diligência 876: Venda de terreno inexistente. Suspeito foragido.
+2026-02-16,Roubo,"Avenida Albino José Barbosa de Oliveira, 498 - Barão Geraldo",Ocorrência registrada via COPOM 391: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-04,Homicídio,"Avenida Francisco Glicério, 534 - Centro",Relatório de diligência 997: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-11,Estelionato,"Avenida Francisco Glicério, 2465 - Centro",Ocorrência registrada via COPOM 662: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-10,Furto,"Rua Doutor Delfino Cintra, 217 - Vila Itapura",Inquérito Policial nº 476: Furto de fiação elétrica noturno. Encaminhado ao DP central.
+2026-02-19,Furto,"Rua Sampaio Ferraz, 214 - Cambuí",Inquérito Policial nº 743: Furto de bicicleta em via pública. Aguardando perícia técnica.
+2026-02-23,Roubo,"Avenida Heitor Penteado, 99 - Taquaral",Relatório de diligência 567: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-08,Estelionato,"Avenida Anchieta, 199 - Centro",Inquérito Policial nº 199: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-18,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 734 - Taquaral",Ocorrência registrada via COPOM 554: Indivíduo detido em flagrante com entorpecentes. Investigação em curso.
+2026-02-04,Roubo,"Avenida Alberto Sarmento, 1160 - Castelo",Inquérito Policial nº 974: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-27,Homicídio,"Avenida Andrade Neves, 338 - Castelo",Auto de constatação 612: Disparos de arma de fogo em via pública. Encaminhado ao DP central.
+2026-02-21,Tráfico de Entorpecentes,"Rua Marechal Deodoro, 622 - Vila Itapura",Inquérito Policial nº 954: Venda de entorpecentes em praça pública. Aguardando perícia técnica.
+2026-02-28,Furto,"Avenida Heitor Penteado, 2717 - Taquaral",Relatório de diligência 896: Furto de bicicleta em via pública. Encaminhado ao DP central.
+2026-02-05,Homicídio,"Avenida Brasil, 814 - Guanabara",Auto de constatação 866: Crime passional com arma branca. Encaminhado ao DP central.
+2026-02-13,Homicídio,"Rua Marechal Deodoro, 474 - Vila Itapura",Inquérito Policial nº 864: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-11,Estelionato,"Avenida Albino José Barbosa de Oliveira, 1852 - Barão Geraldo",Auto de constatação 254: Venda de terreno inexistente. Aguardando perícia técnica.
+2026-02-22,Homicídio,"Avenida Albino José Barbosa de Oliveira, 314 - Barão Geraldo",Relatório de diligência 772: Confronto entre grupos rivais. Suspeito foragido.
+2026-02-08,Homicídio,"Avenida Brasil, 1782 - Guanabara",Inquérito Policial nº 344: Vítima encontrada sem sinais vitais. Aguardando perícia técnica.
+2026-02-02,Tráfico de Entorpecentes,"Rua Marechal Deodoro, 1105 - Vila Itapura",Ocorrência registrada via COPOM 498: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-01,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 2297 - Taquaral",Inquérito Policial nº 781: Localização de depósito de drogas após denúncia. Aguardando perícia técnica.
+2026-02-23,Tráfico de Entorpecentes,"Rua Marechal Deodoro, 476 - Vila Itapura",Relatório de diligência 179: Venda de entorpecentes em praça pública. Suspeito foragido.
+2026-02-05,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 2349 - Taquaral",Relatório de diligência 869: Venda de entorpecentes em praça pública. Suspeito foragido.
+2026-02-03,Tráfico de Entorpecentes,"Rua Paula Bueno, 807 - Taquaral",Relatório de diligência 435: Localização de depósito de drogas após denúncia. Aguardando perícia técnica.
+2026-02-25,Tráfico de Entorpecentes,"Rua Maria Monteiro, 1095 - Cambuí",Relatório de diligência 857: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-09,Roubo,"Avenida Brasil, 283 - Guanabara",Inquérito Policial nº 809: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-05,Furto,"Rua Doutor Delfino Cintra, 110 - Vila Itapura",Relatório de diligência 771: Furto de fiação elétrica noturno. Encaminhado ao DP central.
+2026-02-24,Homicídio,"Avenida Albino José Barbosa de Oliveira, 3450 - Barão Geraldo",Auto de constatação 779: Crime passional com arma branca. Encaminhado ao DP central.
+2026-02-17,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 711 - Vila Itapura",Inquérito Policial nº 664: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-23,Furto,"Avenida Heitor Penteado, 2057 - Taquaral",Auto de constatação 901: Furto de bicicleta em via pública. Investigação em curso.
+2026-02-26,Furto,"Rua Marechal Deodoro, 186 - Vila Itapura",Auto de constatação 125: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-02,Roubo,"Avenida Brasil, 136 - Guanabara",Auto de constatação 136: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-02,Furto,"Rua Sampaio Ferraz, 281 - Cambuí",Auto de constatação 703: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-01,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 528 - Barão Geraldo",Inquérito Policial nº 807: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-25,Furto,"Rua Barão de Itapura, 2364 - Guanabara",Auto de constatação 950: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-18,Homicídio,"Rua Maria Monteiro, 1334 - Cambuí",Ocorrência registrada via COPOM 855: Disparos de arma de fogo em via pública. Investigação em curso.
+2026-02-03,Roubo,"Rua Barão de Itapura, 1195 - Guanabara",Inquérito Policial nº 621: Subtração de veículo mediante ameaça. Suspeito foragido.
+2026-02-10,Estelionato,"Avenida Albino José Barbosa de Oliveira, 1561 - Barão Geraldo",Auto de constatação 891: Fraude em ambiente digital reportada. Encaminhado ao DP central.
+2026-02-17,Roubo,"Avenida Alberto Sarmento, 714 - Castelo",Ocorrência registrada via COPOM 148: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-23,Homicídio,"Rua Paula Bueno, 200 - Taquaral",Relatório de diligência 534: Disparos de arma de fogo em via pública. Investigação em curso.
+2026-02-11,Estelionato,"Avenida Albino José Barbosa de Oliveira, 915 - Barão Geraldo",Ocorrência registrada via COPOM 500: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-17,Furto,"Rua Marechal Deodoro, 105 - Vila Itapura",Auto de constatação 277: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-07,Furto,"Avenida Francisco Glicério, 1125 - Centro",Ocorrência registrada via COPOM 145: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-18,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 892 - Vila Itapura",Relatório de diligência 870: Venda de entorpecentes em praça pública. Suspeito foragido.
+2026-02-07,Roubo,"Rua Barão de Itapura, 2731 - Guanabara",Auto de constatação 999: Vítima abordada por dois elementos em motocicleta. Suspeito foragido.
+2026-02-19,Homicídio,"Avenida Andrade Neves, 142 - Castelo",Inquérito Policial nº 295: Confronto entre grupos rivais. Encaminhado ao DP central.
+2026-02-19,Tráfico de Entorpecentes,"Rua Paula Bueno, 442 - Taquaral",Ocorrência registrada via COPOM 453: Apreensão de substâncias análogas à cocaína. Investigação em curso.
+2026-02-21,Homicídio,"Avenida Francisco Glicério, 1991 - Centro",Auto de constatação 252: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-03,Estelionato,"Rua Marechal Deodoro, 357 - Vila Itapura",Inquérito Policial nº 353: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-20,Estelionato,"Avenida Heitor Penteado, 879 - Taquaral",Relatório de diligência 505: Venda de terreno inexistente. Encaminhado ao DP central.
+2026-02-15,Estelionato,"Avenida Albino José Barbosa de Oliveira, 3264 - Barão Geraldo",Ocorrência registrada via COPOM 576: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-28,Roubo,"Avenida Heitor Penteado, 1048 - Taquaral",Inquérito Policial nº 564: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-18,Tráfico de Entorpecentes,"Avenida Brasil, 272 - Guanabara",Inquérito Policial nº 851: Venda de entorpecentes em praça pública. Investigação em curso.
+2026-02-19,Homicídio,"Rua Coronel Quirino, 900 - Cambuí",Auto de constatação 719: Vítima encontrada sem sinais vitais. Aguardando perícia técnica.
+2026-02-06,Furto,"Rua Paula Bueno, 1182 - Taquaral",Auto de constatação 891: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-15,Homicídio,"Avenida Albino José Barbosa de Oliveira, 1985 - Barão Geraldo",Inquérito Policial nº 140: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-23,Furto,"Rua Paula Bueno, 145 - Taquaral",Inquérito Policial nº 688: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-01,Tráfico de Entorpecentes,"Rua Paula Bueno, 267 - Taquaral",Ocorrência registrada via COPOM 636: Indivíduo detido em flagrante com entorpecentes. Encaminhado ao DP central.
+2026-02-08,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 3276 - Barão Geraldo",Relatório de diligência 128: Indivíduo detido em flagrante com entorpecentes. Aguardando perícia técnica.
+2026-02-20,Roubo,"Rua Paula Bueno, 961 - Taquaral",Relatório de diligência 648: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-19,Homicídio,"Rua Maria Monteiro, 564 - Cambuí",Inquérito Policial nº 969: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-22,Estelionato,"Rua Maria Monteiro, 106 - Cambuí",Relatório de diligência 297: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-02,Furto,"Avenida Francisco Glicério, 2242 - Centro",Ocorrência registrada via COPOM 666: Furto de bicicleta em via pública. Encaminhado ao DP central.
+2026-02-10,Estelionato,"Rua Barão de Itapura, 663 - Guanabara",Ocorrência registrada via COPOM 192: Venda de terreno inexistente. Investigação em curso.
+2026-02-14,Homicídio,"Rua Paula Bueno, 341 - Taquaral",Auto de constatação 687: Confronto entre grupos rivais. Encaminhado ao DP central.
+2026-02-07,Roubo,"Avenida Albino José Barbosa de Oliveira, 71 - Barão Geraldo",Ocorrência registrada via COPOM 344: Subtração de veículo mediante ameaça. Suspeito foragido.
+2026-02-14,Furto,"Avenida Heitor Penteado, 2537 - Taquaral",Inquérito Policial nº 527: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-09,Estelionato,"Avenida Albino José Barbosa de Oliveira, 3136 - Barão Geraldo",Relatório de diligência 947: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-05,Furto,"Avenida Andrade Neves, 1579 - Castelo",Inquérito Policial nº 686: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-11,Homicídio,"Avenida Alberto Sarmento, 825 - Castelo",Auto de constatação 627: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-18,Furto,"Avenida Andrade Neves, 1073 - Castelo",Ocorrência registrada via COPOM 509: Furto de bicicleta em via pública. Suspeito foragido.
+2026-02-27,Tráfico de Entorpecentes,"Avenida Alberto Sarmento, 621 - Castelo",Inquérito Policial nº 203: Indivíduo detido em flagrante com entorpecentes. Suspeito foragido.
+2026-02-13,Tráfico de Entorpecentes,"Avenida Andrade Neves, 1029 - Castelo",Inquérito Policial nº 865: Indivíduo detido em flagrante com entorpecentes. Aguardando perícia técnica.
+2026-02-26,Tráfico de Entorpecentes,"Rua Maria Monteiro, 266 - Cambuí",Ocorrência registrada via COPOM 175: Indivíduo detido em flagrante com entorpecentes. Encaminhado ao DP central.
+2026-02-10,Tráfico de Entorpecentes,"Avenida Andrade Neves, 1284 - Castelo",Ocorrência registrada via COPOM 764: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-22,Roubo,"Avenida Alberto Sarmento, 675 - Castelo",Ocorrência registrada via COPOM 798: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-16,Roubo,"Avenida Alberto Sarmento, 540 - Castelo",Inquérito Policial nº 877: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-06,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 460 - Vila Itapura",Relatório de diligência 578: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-03,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 1428 - Barão Geraldo",Ocorrência registrada via COPOM 510: Localização de depósito de drogas após denúncia. Aguardando perícia técnica.
+2026-02-15,Estelionato,"Avenida Anchieta, 21 - Centro",Ocorrência registrada via COPOM 673: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-19,Roubo,"Rua Sampaio Ferraz, 170 - Cambuí",Ocorrência registrada via COPOM 398: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-08,Furto,"Rua Maria Monteiro, 418 - Cambuí",Relatório de diligência 491: Furto de fiação elétrica noturno. Investigação em curso.
+2026-02-09,Estelionato,"Avenida Alberto Sarmento, 791 - Castelo",Inquérito Policial nº 351: Golpe do falso bilhete premiado. Investigação em curso.
+2026-02-07,Tráfico de Entorpecentes,"Rua Paula Bueno, 259 - Taquaral",Relatório de diligência 569: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-04,Estelionato,"Avenida Andrade Neves, 1678 - Castelo",Relatório de diligência 293: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-08,Roubo,"Avenida Heitor Penteado, 906 - Taquaral",Ocorrência registrada via COPOM 457: Roubo de carga em via arterial. Suspeito foragido.
+2026-02-13,Furto,"Avenida Andrade Neves, 1742 - Castelo",Inquérito Policial nº 385: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-23,Estelionato,"Rua Barão de Itapura, 1150 - Guanabara",Relatório de diligência 700: Uso de documento falso para saque bancário. Aguardando perícia técnica.
+2026-02-16,Furto,"Avenida Albino José Barbosa de Oliveira, 2182 - Barão Geraldo",Relatório de diligência 854: Objeto subtraído de interior de veículo. Aguardando perícia técnica.
+2026-02-11,Tráfico de Entorpecentes,"Rua Barão de Itapura, 1822 - Guanabara",Inquérito Policial nº 774: Indivíduo detido em flagrante com entorpecentes. Encaminhado ao DP central.
+2026-02-07,Roubo,"Avenida Albino José Barbosa de Oliveira, 141 - Barão Geraldo",Relatório de diligência 960: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-24,Furto,"Rua Paula Bueno, 1180 - Taquaral",Relatório de diligência 915: Objeto subtraído de interior de veículo. Aguardando perícia técnica.
+2026-02-15,Roubo,"Rua Sampaio Ferraz, 409 - Cambuí",Auto de constatação 348: Roubo de carga em via arterial. Investigação em curso.
+2026-02-06,Furto,"Avenida Anchieta, 877 - Centro",Ocorrência registrada via COPOM 592: Furto de fiação elétrica noturno. Investigação em curso.
+2026-02-17,Estelionato,"Avenida Albino José Barbosa de Oliveira, 662 - Barão Geraldo",Auto de constatação 320: Uso de documento falso para saque bancário. Encaminhado ao DP central.
+2026-02-03,Homicídio,"Rua Maria Monteiro, 202 - Cambuí",Auto de constatação 146: Confronto entre grupos rivais. Suspeito foragido.
+2026-02-23,Roubo,"Avenida Francisco Glicério, 1039 - Centro",Relatório de diligência 409: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-23,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 2442 - Taquaral",Inquérito Policial nº 637: Indivíduo detido em flagrante com entorpecentes. Encaminhado ao DP central.
+2026-02-28,Furto,"Avenida Albino José Barbosa de Oliveira, 1272 - Barão Geraldo",Inquérito Policial nº 843: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-22,Tráfico de Entorpecentes,"Avenida Andrade Neves, 907 - Castelo",Ocorrência registrada via COPOM 829: Apreensão de substâncias análogas à cocaína. Investigação em curso.
+2026-02-20,Tráfico de Entorpecentes,"Rua Maria Monteiro, 1094 - Cambuí",Ocorrência registrada via COPOM 759: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-11,Homicídio,"Rua Sampaio Ferraz, 278 - Cambuí",Relatório de diligência 512: Disparos de arma de fogo em via pública. Encaminhado ao DP central.
+2026-02-27,Homicídio,"Rua Sampaio Ferraz, 538 - Cambuí",Inquérito Policial nº 246: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-08,Furto,"Avenida Heitor Penteado, 921 - Taquaral",Relatório de diligência 169: Furto de fiação elétrica noturno. Aguardando perícia técnica.
+2026-02-04,Homicídio,"Rua Coronel Quirino, 1016 - Cambuí",Inquérito Policial nº 689: Disparos de arma de fogo em via pública. Aguardando perícia técnica.
+2026-02-05,Furto,"Avenida Brasil, 947 - Guanabara",Ocorrência registrada via COPOM 230: Objeto subtraído de interior de veículo. Aguardando perícia técnica.
+2026-02-13,Furto,"Rua Paula Bueno, 500 - Taquaral",Inquérito Policial nº 864: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-09,Tráfico de Entorpecentes,"Rua Coronel Quirino, 857 - Cambuí",Ocorrência registrada via COPOM 971: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-05,Tráfico de Entorpecentes,"Rua Paula Bueno, 1059 - Taquaral",Inquérito Policial nº 162: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-25,Estelionato,"Avenida Francisco Glicério, 1691 - Centro",Auto de constatação 332: Venda de terreno inexistente. Suspeito foragido.
+2026-02-26,Roubo,"Rua Doutor Delfino Cintra, 574 - Vila Itapura",Auto de constatação 818: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-07,Roubo,"Rua Sampaio Ferraz, 90 - Cambuí",Ocorrência registrada via COPOM 418: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-04,Tráfico de Entorpecentes,"Rua Coronel Quirino, 946 - Cambuí",Relatório de diligência 221: Indivíduo detido em flagrante com entorpecentes. Encaminhado ao DP central.
+2026-02-24,Homicídio,"Avenida Heitor Penteado, 668 - Taquaral",Auto de constatação 362: Crime passional com arma branca. Encaminhado ao DP central.
+2026-02-13,Estelionato,"Rua Coronel Quirino, 1262 - Cambuí",Auto de constatação 518: Fraude em ambiente digital reportada. Encaminhado ao DP central.
+2026-02-26,Homicídio,"Rua Doutor Delfino Cintra, 745 - Vila Itapura",Inquérito Policial nº 966: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-11,Tráfico de Entorpecentes,"Avenida Francisco Glicério, 422 - Centro",Relatório de diligência 946: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-09,Tráfico de Entorpecentes,"Rua Paula Bueno, 717 - Taquaral",Relatório de diligência 189: Venda de entorpecentes em praça pública. Investigação em curso.
+2026-02-24,Homicídio,"Avenida Francisco Glicério, 1045 - Centro",Relatório de diligência 248: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-15,Furto,"Rua Marechal Deodoro, 904 - Vila Itapura",Ocorrência registrada via COPOM 448: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-25,Homicídio,"Rua Sampaio Ferraz, 131 - Cambuí",Relatório de diligência 341: Confronto entre grupos rivais. Encaminhado ao DP central.
+2026-02-22,Homicídio,"Avenida Albino José Barbosa de Oliveira, 445 - Barão Geraldo",Auto de constatação 880: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-20,Homicídio,"Avenida Andrade Neves, 2217 - Castelo",Auto de constatação 828: Disparos de arma de fogo em via pública. Investigação em curso.
+2026-02-23,Furto,"Rua Doutor Delfino Cintra, 423 - Vila Itapura",Relatório de diligência 594: Furto de fiação elétrica noturno. Investigação em curso.
+2026-02-21,Roubo,"Avenida Heitor Penteado, 2107 - Taquaral",Inquérito Policial nº 666: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-26,Roubo,"Avenida Albino José Barbosa de Oliveira, 1790 - Barão Geraldo",Ocorrência registrada via COPOM 364: Vítima abordada por dois elementos em motocicleta. Investigação em curso.
+2026-02-21,Estelionato,"Avenida Heitor Penteado, 668 - Taquaral",Auto de constatação 442: Venda de terreno inexistente. Encaminhado ao DP central.
+2026-02-02,Furto,"Avenida Albino José Barbosa de Oliveira, 1798 - Barão Geraldo",Auto de constatação 418: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-04,Furto,"Rua Doutor Delfino Cintra, 884 - Vila Itapura",Relatório de diligência 712: Furto de fiação elétrica noturno. Investigação em curso.
+2026-02-21,Roubo,"Avenida Albino José Barbosa de Oliveira, 1021 - Barão Geraldo",Inquérito Policial nº 968: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-19,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 431 - Taquaral",Inquérito Policial nº 482: Venda de entorpecentes em praça pública. Aguardando perícia técnica.
+2026-02-22,Tráfico de Entorpecentes,"Rua Barão de Itapura, 629 - Guanabara",Ocorrência registrada via COPOM 444: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-23,Estelionato,"Avenida Albino José Barbosa de Oliveira, 1195 - Barão Geraldo",Inquérito Policial nº 782: Golpe do falso bilhete premiado. Aguardando perícia técnica.
+2026-02-23,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 1892 - Barão Geraldo",Auto de constatação 353: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-23,Furto,"Rua Sampaio Ferraz, 545 - Cambuí",Inquérito Policial nº 620: Furto de bicicleta em via pública. Investigação em curso.
+2026-02-28,Homicídio,"Avenida Alberto Sarmento, 1198 - Castelo",Auto de constatação 886: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-27,Homicídio,"Avenida Brasil, 2011 - Guanabara",Auto de constatação 524: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-24,Estelionato,"Avenida Heitor Penteado, 1866 - Taquaral",Relatório de diligência 325: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-03,Estelionato,"Rua Barão de Itapura, 1718 - Guanabara",Inquérito Policial nº 484: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-04,Homicídio,"Avenida Brasil, 706 - Guanabara",Relatório de diligência 218: Confronto entre grupos rivais. Investigação em curso.
+2026-02-12,Roubo,"Avenida Alberto Sarmento, 207 - Castelo",Auto de constatação 527: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-11,Furto,"Avenida Alberto Sarmento, 435 - Castelo",Ocorrência registrada via COPOM 958: Furto de bicicleta em via pública. Aguardando perícia técnica.
+2026-02-06,Tráfico de Entorpecentes,"Avenida Alberto Sarmento, 647 - Castelo",Auto de constatação 527: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-01,Furto,"Rua Sampaio Ferraz, 406 - Cambuí",Relatório de diligência 682: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-12,Estelionato,"Rua Coronel Quirino, 318 - Cambuí",Relatório de diligência 674: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-01,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 371 - Barão Geraldo",Ocorrência registrada via COPOM 808: Indivíduo detido em flagrante com entorpecentes. Aguardando perícia técnica.
+2026-02-04,Homicídio,"Avenida Albino José Barbosa de Oliveira, 536 - Barão Geraldo",Ocorrência registrada via COPOM 434: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-24,Homicídio,"Avenida Francisco Glicério, 33 - Centro",Ocorrência registrada via COPOM 289: Disparos de arma de fogo em via pública. Encaminhado ao DP central.
+2026-02-03,Furto,"Avenida Francisco Glicério, 22 - Centro",Auto de constatação 796: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-12,Furto,"Rua Doutor Delfino Cintra, 558 - Vila Itapura",Auto de constatação 167: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-22,Furto,"Avenida Alberto Sarmento, 738 - Castelo",Auto de constatação 741: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-14,Tráfico de Entorpecentes,"Avenida Brasil, 1539 - Guanabara",Relatório de diligência 758: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-11,Furto,"Rua Coronel Quirino, 1212 - Cambuí",Ocorrência registrada via COPOM 105: Furto de fiação elétrica noturno. Suspeito foragido.
+2026-02-27,Furto,"Avenida Brasil, 267 - Guanabara",Inquérito Policial nº 877: Furto de fiação elétrica noturno. Aguardando perícia técnica.
+2026-02-26,Estelionato,"Rua Doutor Delfino Cintra, 525 - Vila Itapura",Inquérito Policial nº 682: Venda de terreno inexistente. Aguardando perícia técnica.
+2026-02-24,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 1265 - Taquaral",Inquérito Policial nº 676: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-04,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 521 - Vila Itapura",Relatório de diligência 106: Apreensão de substâncias análogas à cocaína. Investigação em curso.
+2026-02-15,Homicídio,"Avenida Alberto Sarmento, 81 - Castelo",Inquérito Policial nº 255: Disparos de arma de fogo em via pública. Aguardando perícia técnica.
+2026-02-08,Tráfico de Entorpecentes,"Avenida Brasil, 1815 - Guanabara",Relatório de diligência 779: Venda de entorpecentes em praça pública. Investigação em curso.
+2026-02-18,Roubo,"Avenida Anchieta, 582 - Centro",Relatório de diligência 688: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-17,Estelionato,"Rua Sampaio Ferraz, 614 - Cambuí",Ocorrência registrada via COPOM 920: Venda de terreno inexistente. Investigação em curso.
+2026-02-22,Tráfico de Entorpecentes,"Rua Paula Bueno, 672 - Taquaral",Ocorrência registrada via COPOM 129: Indivíduo detido em flagrante com entorpecentes. Investigação em curso.
+2026-02-02,Tráfico de Entorpecentes,"Avenida Anchieta, 612 - Centro",Ocorrência registrada via COPOM 188: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-09,Roubo,"Rua Doutor Delfino Cintra, 691 - Vila Itapura",Inquérito Policial nº 874: Roubo de carga em via arterial. Investigação em curso.
+2026-02-18,Roubo,"Avenida Albino José Barbosa de Oliveira, 2214 - Barão Geraldo",Auto de constatação 391: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-01,Tráfico de Entorpecentes,"Avenida Anchieta, 853 - Centro",Relatório de diligência 114: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-09,Homicídio,"Avenida Brasil, 1112 - Guanabara",Ocorrência registrada via COPOM 677: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-13,Estelionato,"Avenida Francisco Glicério, 203 - Centro",Ocorrência registrada via COPOM 264: Venda de terreno inexistente. Aguardando perícia técnica.
+2026-02-06,Tráfico de Entorpecentes,"Avenida Alberto Sarmento, 18 - Castelo",Ocorrência registrada via COPOM 300: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-25,Estelionato,"Avenida Heitor Penteado, 1950 - Taquaral",Relatório de diligência 754: Golpe do falso bilhete premiado. Aguardando perícia técnica.
+2026-02-13,Roubo,"Rua Sampaio Ferraz, 663 - Cambuí",Relatório de diligência 665: Vítima abordada por dois elementos em motocicleta. Suspeito foragido.
+2026-02-22,Homicídio,"Rua Marechal Deodoro, 1645 - Vila Itapura",Ocorrência registrada via COPOM 423: Disparos de arma de fogo em via pública. Investigação em curso.
+2026-02-28,Homicídio,"Rua Sampaio Ferraz, 523 - Cambuí",Ocorrência registrada via COPOM 136: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-10,Roubo,"Avenida Andrade Neves, 2315 - Castelo",Auto de constatação 840: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-17,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 2480 - Barão Geraldo",Inquérito Policial nº 986: Indivíduo detido em flagrante com entorpecentes. Suspeito foragido.
+2026-02-11,Homicídio,"Avenida Brasil, 1109 - Guanabara",Ocorrência registrada via COPOM 680: Confronto entre grupos rivais. Suspeito foragido.
+2026-02-02,Roubo,"Avenida Brasil, 1542 - Guanabara",Inquérito Policial nº 711: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-12,Homicídio,"Rua Coronel Quirino, 579 - Cambuí",Auto de constatação 629: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-23,Roubo,"Avenida Andrade Neves, 2430 - Castelo",Ocorrência registrada via COPOM 299: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-12,Furto,"Rua Maria Monteiro, 1061 - Cambuí",Relatório de diligência 474: Furto de fiação elétrica noturno. Investigação em curso.
+2026-02-04,Homicídio,"Avenida Anchieta, 24 - Centro",Auto de constatação 829: Confronto entre grupos rivais. Encaminhado ao DP central.
+2026-02-12,Furto,"Rua Marechal Deodoro, 312 - Vila Itapura",Ocorrência registrada via COPOM 291: Furto de bicicleta em via pública. Aguardando perícia técnica.
+2026-02-14,Homicídio,"Avenida Albino José Barbosa de Oliveira, 3393 - Barão Geraldo",Auto de constatação 636: Confronto entre grupos rivais. Investigação em curso.
+2026-02-20,Roubo,"Rua Barão de Itapura, 618 - Guanabara",Inquérito Policial nº 624: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-13,Homicídio,"Avenida Andrade Neves, 1775 - Castelo",Ocorrência registrada via COPOM 126: Crime passional com arma branca. Suspeito foragido.
+2026-02-11,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 2703 - Barão Geraldo",Ocorrência registrada via COPOM 240: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-07,Estelionato,"Avenida Anchieta, 742 - Centro",Auto de constatação 440: Uso de documento falso para saque bancário. Aguardando perícia técnica.
+2026-02-22,Estelionato,"Avenida Brasil, 1587 - Guanabara",Auto de constatação 990: Venda de terreno inexistente. Investigação em curso.
+2026-02-19,Estelionato,"Rua Sampaio Ferraz, 273 - Cambuí",Auto de constatação 140: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-05,Furto,"Avenida Alberto Sarmento, 116 - Castelo",Inquérito Policial nº 950: Furto de bicicleta em via pública. Suspeito foragido.
+2026-02-17,Estelionato,"Avenida Alberto Sarmento, 515 - Castelo",Relatório de diligência 107: Uso de documento falso para saque bancário. Aguardando perícia técnica.
+2026-02-07,Roubo,"Avenida Andrade Neves, 2349 - Castelo",Relatório de diligência 204: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-20,Furto,"Rua Sampaio Ferraz, 240 - Cambuí",Inquérito Policial nº 818: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-16,Tráfico de Entorpecentes,"Avenida Andrade Neves, 197 - Castelo",Inquérito Policial nº 112: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-07,Estelionato,"Avenida Brasil, 896 - Guanabara",Inquérito Policial nº 576: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-06,Estelionato,"Rua Coronel Quirino, 687 - Cambuí",Inquérito Policial nº 959: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-02,Roubo,"Avenida Anchieta, 430 - Centro",Ocorrência registrada via COPOM 524: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-05,Homicídio,"Avenida Andrade Neves, 1342 - Castelo",Inquérito Policial nº 587: Confronto entre grupos rivais. Suspeito foragido.
+2026-02-06,Homicídio,"Avenida Alberto Sarmento, 1118 - Castelo",Inquérito Policial nº 466: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-23,Estelionato,"Avenida Albino José Barbosa de Oliveira, 2734 - Barão Geraldo",Ocorrência registrada via COPOM 104: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-27,Estelionato,"Avenida Albino José Barbosa de Oliveira, 814 - Barão Geraldo",Ocorrência registrada via COPOM 655: Golpe do falso bilhete premiado. Aguardando perícia técnica.
+2026-02-10,Roubo,"Rua Doutor Delfino Cintra, 648 - Vila Itapura",Relatório de diligência 222: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-18,Roubo,"Avenida Brasil, 107 - Guanabara",Ocorrência registrada via COPOM 255: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-09,Homicídio,"Rua Barão de Itapura, 390 - Guanabara",Ocorrência registrada via COPOM 927: Confronto entre grupos rivais. Suspeito foragido.
+2026-02-27,Tráfico de Entorpecentes,"Rua Paula Bueno, 1026 - Taquaral",Auto de constatação 741: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-10,Tráfico de Entorpecentes,"Rua Paula Bueno, 488 - Taquaral",Inquérito Policial nº 327: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-04,Estelionato,"Avenida Alberto Sarmento, 964 - Castelo",Ocorrência registrada via COPOM 365: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-16,Roubo,"Rua Marechal Deodoro, 230 - Vila Itapura",Auto de constatação 428: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-22,Furto,"Rua Sampaio Ferraz, 186 - Cambuí",Relatório de diligência 699: Furto de bicicleta em via pública. Suspeito foragido.
+2026-02-01,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 504 - Vila Itapura",Relatório de diligência 605: Localização de depósito de drogas após denúncia. Suspeito foragido.
+2026-02-09,Furto,"Avenida Alberto Sarmento, 364 - Castelo",Inquérito Policial nº 110: Subtração de pertences em residência sem arrombamento. Aguardando perícia técnica.
+2026-02-17,Estelionato,"Rua Doutor Delfino Cintra, 101 - Vila Itapura",Ocorrência registrada via COPOM 964: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-11,Homicídio,"Rua Sampaio Ferraz, 493 - Cambuí",Inquérito Policial nº 182: Confronto entre grupos rivais. Suspeito foragido.
+2026-02-28,Roubo,"Avenida Albino José Barbosa de Oliveira, 2643 - Barão Geraldo",Auto de constatação 506: Vítima abordada por dois elementos em motocicleta. Encaminhado ao DP central.
+2026-02-26,Roubo,"Avenida Albino José Barbosa de Oliveira, 2356 - Barão Geraldo",Relatório de diligência 506: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-06,Roubo,"Avenida Albino José Barbosa de Oliveira, 2812 - Barão Geraldo",Inquérito Policial nº 569: Vítima abordada por dois elementos em motocicleta. Encaminhado ao DP central.
+2026-02-16,Roubo,"Rua Doutor Delfino Cintra, 542 - Vila Itapura",Ocorrência registrada via COPOM 563: Roubo de carga em via arterial. Suspeito foragido.
+2026-02-18,Estelionato,"Rua Sampaio Ferraz, 533 - Cambuí",Relatório de diligência 415: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-10,Roubo,"Avenida Heitor Penteado, 2145 - Taquaral",Relatório de diligência 588: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-12,Furto,"Avenida Alberto Sarmento, 710 - Castelo",Inquérito Policial nº 560: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-19,Roubo,"Rua Marechal Deodoro, 522 - Vila Itapura",Inquérito Policial nº 352: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-22,Roubo,"Avenida Francisco Glicério, 1955 - Centro",Relatório de diligência 375: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-20,Estelionato,"Avenida Albino José Barbosa de Oliveira, 2186 - Barão Geraldo",Inquérito Policial nº 415: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-06,Estelionato,"Avenida Albino José Barbosa de Oliveira, 3108 - Barão Geraldo",Inquérito Policial nº 941: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-05,Estelionato,"Avenida Heitor Penteado, 1847 - Taquaral",Relatório de diligência 360: Venda de terreno inexistente. Encaminhado ao DP central.
+2026-02-21,Homicídio,"Rua Sampaio Ferraz, 424 - Cambuí",Inquérito Policial nº 207: Confronto entre grupos rivais. Investigação em curso.
+2026-02-04,Tráfico de Entorpecentes,"Rua Paula Bueno, 1094 - Taquaral",Ocorrência registrada via COPOM 621: Venda de entorpecentes em praça pública. Suspeito foragido.
+2026-02-06,Tráfico de Entorpecentes,"Avenida Francisco Glicério, 880 - Centro",Relatório de diligência 803: Indivíduo detido em flagrante com entorpecentes. Suspeito foragido.
+2026-02-04,Homicídio,"Avenida Heitor Penteado, 1519 - Taquaral",Auto de constatação 435: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-21,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 2666 - Taquaral",Auto de constatação 479: Apreensão de substâncias análogas à cocaína. Investigação em curso.
+2026-02-23,Homicídio,"Avenida Heitor Penteado, 543 - Taquaral",Auto de constatação 436: Crime passional com arma branca. Aguardando perícia técnica.
+2026-02-07,Estelionato,"Avenida Albino José Barbosa de Oliveira, 299 - Barão Geraldo",Inquérito Policial nº 312: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-21,Roubo,"Avenida Albino José Barbosa de Oliveira, 1006 - Barão Geraldo",Auto de constatação 594: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-25,Roubo,"Avenida Albino José Barbosa de Oliveira, 2122 - Barão Geraldo",Inquérito Policial nº 360: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-25,Estelionato,"Avenida Albino José Barbosa de Oliveira, 2264 - Barão Geraldo",Ocorrência registrada via COPOM 887: Fraude em ambiente digital reportada. Encaminhado ao DP central.
+2026-02-20,Homicídio,"Rua Doutor Delfino Cintra, 563 - Vila Itapura",Ocorrência registrada via COPOM 233: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-22,Furto,"Avenida Alberto Sarmento, 315 - Castelo",Relatório de diligência 613: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-12,Furto,"Avenida Heitor Penteado, 222 - Taquaral",Ocorrência registrada via COPOM 446: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-17,Furto,"Avenida Anchieta, 365 - Centro",Inquérito Policial nº 680: Furto de bicicleta em via pública. Investigação em curso.
+2026-02-21,Roubo,"Avenida Brasil, 1308 - Guanabara",Relatório de diligência 863: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-26,Roubo,"Avenida Francisco Glicério, 234 - Centro",Inquérito Policial nº 294: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-25,Furto,"Avenida Andrade Neves, 1033 - Castelo",Auto de constatação 621: Subtração de pertences em residência sem arrombamento. Suspeito foragido.
+2026-02-07,Estelionato,"Rua Marechal Deodoro, 1172 - Vila Itapura",Auto de constatação 439: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-24,Homicídio,"Rua Sampaio Ferraz, 516 - Cambuí",Relatório de diligência 615: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-22,Furto,"Avenida Albino José Barbosa de Oliveira, 1557 - Barão Geraldo",Ocorrência registrada via COPOM 506: Subtração de pertences em residência sem arrombamento. Aguardando perícia técnica.
+2026-02-09,Homicídio,"Avenida Alberto Sarmento, 843 - Castelo",Auto de constatação 848: Confronto entre grupos rivais. Encaminhado ao DP central.
+2026-02-17,Estelionato,"Avenida Anchieta, 718 - Centro",Auto de constatação 665: Venda de terreno inexistente. Encaminhado ao DP central.
+2026-02-19,Tráfico de Entorpecentes,"Rua Marechal Deodoro, 1127 - Vila Itapura",Inquérito Policial nº 628: Venda de entorpecentes em praça pública. Investigação em curso.
+2026-02-10,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 753 - Vila Itapura",Ocorrência registrada via COPOM 812: Localização de depósito de drogas após denúncia. Suspeito foragido.
+2026-02-23,Furto,"Rua Barão de Itapura, 2761 - Guanabara",Inquérito Policial nº 915: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-27,Homicídio,"Avenida Anchieta, 65 - Centro",Ocorrência registrada via COPOM 252: Crime passional com arma branca. Encaminhado ao DP central.
+2026-02-04,Tráfico de Entorpecentes,"Avenida Alberto Sarmento, 538 - Castelo",Ocorrência registrada via COPOM 914: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-17,Roubo,"Avenida Andrade Neves, 242 - Castelo",Relatório de diligência 333: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-24,Homicídio,"Rua Doutor Delfino Cintra, 686 - Vila Itapura",Relatório de diligência 906: Crime passional com arma branca. Aguardando perícia técnica.
+2026-02-19,Estelionato,"Rua Coronel Quirino, 1021 - Cambuí",Inquérito Policial nº 798: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-09,Furto,"Rua Paula Bueno, 1193 - Taquaral",Inquérito Policial nº 390: Furto de fiação elétrica noturno. Encaminhado ao DP central.
+2026-02-18,Roubo,"Avenida Anchieta, 909 - Centro",Relatório de diligência 545: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-04,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 527 - Vila Itapura",Ocorrência registrada via COPOM 528: Localização de depósito de drogas após denúncia. Aguardando perícia técnica.
+2026-02-15,Furto,"Rua Marechal Deodoro, 1791 - Vila Itapura",Inquérito Policial nº 270: Furto de fiação elétrica noturno. Encaminhado ao DP central.
+2026-02-22,Roubo,"Avenida Alberto Sarmento, 626 - Castelo",Relatório de diligência 147: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-11,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 279 - Barão Geraldo",Auto de constatação 355: Venda de entorpecentes em praça pública. Suspeito foragido.
+2026-02-04,Estelionato,"Avenida Heitor Penteado, 2209 - Taquaral",Auto de constatação 101: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-11,Estelionato,"Rua Coronel Quirino, 580 - Cambuí",Ocorrência registrada via COPOM 510: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-20,Estelionato,"Avenida Francisco Glicério, 734 - Centro",Inquérito Policial nº 396: Uso de documento falso para saque bancário. Suspeito foragido.
+2026-02-13,Homicídio,"Avenida Francisco Glicério, 464 - Centro",Ocorrência registrada via COPOM 556: Vítima encontrada sem sinais vitais. Encaminhado ao DP central.
+2026-02-25,Estelionato,"Rua Coronel Quirino, 594 - Cambuí",Inquérito Policial nº 187: Golpe do falso bilhete premiado. Aguardando perícia técnica.
+2026-02-26,Roubo,"Rua Sampaio Ferraz, 24 - Cambuí",Relatório de diligência 668: Assalto a estabelecimento comercial. Encaminhado ao DP central.
+2026-02-03,Furto,"Rua Doutor Delfino Cintra, 363 - Vila Itapura",Relatório de diligência 363: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-04,Roubo,"Avenida Francisco Glicério, 2373 - Centro",Auto de constatação 163: Assalto a estabelecimento comercial. Investigação em curso.
+2026-02-12,Roubo,"Rua Paula Bueno, 269 - Taquaral",Auto de constatação 691: Assalto a estabelecimento comercial. Suspeito foragido.
+2026-02-27,Tráfico de Entorpecentes,"Rua Coronel Quirino, 1639 - Cambuí",Inquérito Policial nº 691: Localização de depósito de drogas após denúncia. Aguardando perícia técnica.
+2026-02-15,Estelionato,"Avenida Andrade Neves, 901 - Castelo",Auto de constatação 427: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-11,Estelionato,"Rua Barão de Itapura, 1346 - Guanabara",Relatório de diligência 675: Venda de terreno inexistente. Suspeito foragido.
+2026-02-25,Homicídio,"Rua Paula Bueno, 751 - Taquaral",Relatório de diligência 588: Crime passional com arma branca. Investigação em curso.
+2026-02-25,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 727 - Taquaral",Auto de constatação 305: Localização de depósito de drogas após denúncia. Aguardando perícia técnica.
+2026-02-22,Roubo,"Rua Barão de Itapura, 2954 - Guanabara",Inquérito Policial nº 846: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-08,Estelionato,"Rua Sampaio Ferraz, 578 - Cambuí",Ocorrência registrada via COPOM 629: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-03,Estelionato,"Avenida Anchieta, 588 - Centro",Ocorrência registrada via COPOM 892: Venda de terreno inexistente. Encaminhado ao DP central.
+2026-02-20,Estelionato,"Rua Marechal Deodoro, 212 - Vila Itapura",Auto de constatação 933: Venda de terreno inexistente. Aguardando perícia técnica.
+2026-02-22,Tráfico de Entorpecentes,"Rua Sampaio Ferraz, 388 - Cambuí",Inquérito Policial nº 620: Venda de entorpecentes em praça pública. Suspeito foragido.
+2026-02-28,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 2623 - Barão Geraldo",Auto de constatação 599: Localização de depósito de drogas após denúncia. Aguardando perícia técnica.
+2026-02-01,Estelionato,"Rua Doutor Delfino Cintra, 703 - Vila Itapura",Inquérito Policial nº 172: Uso de documento falso para saque bancário. Encaminhado ao DP central.
+2026-02-10,Tráfico de Entorpecentes,"Rua Barão de Itapura, 2824 - Guanabara",Auto de constatação 407: Venda de entorpecentes em praça pública. Investigação em curso.
+2026-02-24,Roubo,"Avenida Andrade Neves, 646 - Castelo",Auto de constatação 998: Subtração de veículo mediante ameaça. Suspeito foragido.
+2026-02-01,Homicídio,"Avenida Anchieta, 295 - Centro",Auto de constatação 377: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-13,Homicídio,"Avenida Alberto Sarmento, 778 - Castelo",Ocorrência registrada via COPOM 169: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-27,Estelionato,"Rua Barão de Itapura, 417 - Guanabara",Auto de constatação 724: Uso de documento falso para saque bancário. Suspeito foragido.
+2026-02-07,Homicídio,"Avenida Albino José Barbosa de Oliveira, 2772 - Barão Geraldo",Auto de constatação 181: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-20,Roubo,"Rua Doutor Delfino Cintra, 737 - Vila Itapura",Inquérito Policial nº 695: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-06,Homicídio,"Rua Paula Bueno, 821 - Taquaral",Inquérito Policial nº 598: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-06,Furto,"Avenida Albino José Barbosa de Oliveira, 933 - Barão Geraldo",Relatório de diligência 241: Subtração de pertences em residência sem arrombamento. Encaminhado ao DP central.
+2026-02-10,Furto,"Avenida Brasil, 359 - Guanabara",Auto de constatação 842: Furto de fiação elétrica noturno. Suspeito foragido.
+2026-02-21,Tráfico de Entorpecentes,"Rua Barão de Itapura, 384 - Guanabara",Ocorrência registrada via COPOM 959: Apreensão de substâncias análogas à cocaína. Aguardando perícia técnica.
+2026-02-13,Roubo,"Avenida Brasil, 1426 - Guanabara",Inquérito Policial nº 371: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-26,Tráfico de Entorpecentes,"Rua Barão de Itapura, 967 - Guanabara",Auto de constatação 908: Indivíduo detido em flagrante com entorpecentes. Aguardando perícia técnica.
+2026-02-17,Estelionato,"Avenida Andrade Neves, 1847 - Castelo",Ocorrência registrada via COPOM 519: Uso de documento falso para saque bancário. Encaminhado ao DP central.
+2026-02-25,Furto,"Rua Doutor Delfino Cintra, 488 - Vila Itapura",Auto de constatação 561: Objeto subtraído de interior de veículo. Aguardando perícia técnica.
+2026-02-24,Estelionato,"Avenida Heitor Penteado, 676 - Taquaral",Inquérito Policial nº 969: Venda de terreno inexistente. Suspeito foragido.
+2026-02-26,Homicídio,"Rua Barão de Itapura, 748 - Guanabara",Relatório de diligência 772: Vítima encontrada sem sinais vitais. Suspeito foragido.
+2026-02-19,Furto,"Avenida Albino José Barbosa de Oliveira, 3383 - Barão Geraldo",Ocorrência registrada via COPOM 524: Objeto subtraído de interior de veículo. Suspeito foragido.
+2026-02-04,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 2063 - Taquaral",Ocorrência registrada via COPOM 578: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-28,Homicídio,"Rua Doutor Delfino Cintra, 587 - Vila Itapura",Inquérito Policial nº 281: Disparos de arma de fogo em via pública. Aguardando perícia técnica.
+2026-02-09,Furto,"Rua Barão de Itapura, 477 - Guanabara",Relatório de diligência 662: Furto de bicicleta em via pública. Encaminhado ao DP central.
+2026-02-21,Homicídio,"Rua Doutor Delfino Cintra, 566 - Vila Itapura",Ocorrência registrada via COPOM 486: Disparos de arma de fogo em via pública. Investigação em curso.
+2026-02-08,Furto,"Rua Paula Bueno, 171 - Taquaral",Ocorrência registrada via COPOM 875: Subtração de pertences em residência sem arrombamento. Investigação em curso.
+2026-02-18,Estelionato,"Avenida Albino José Barbosa de Oliveira, 1802 - Barão Geraldo",Ocorrência registrada via COPOM 500: Venda de terreno inexistente. Aguardando perícia técnica.
+2026-02-25,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 2671 - Barão Geraldo",Ocorrência registrada via COPOM 745: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-25,Tráfico de Entorpecentes,"Rua Paula Bueno, 404 - Taquaral",Relatório de diligência 310: Indivíduo detido em flagrante com entorpecentes. Aguardando perícia técnica.
+2026-02-02,Tráfico de Entorpecentes,"Avenida Andrade Neves, 2158 - Castelo",Ocorrência registrada via COPOM 771: Indivíduo detido em flagrante com entorpecentes. Suspeito foragido.
+2026-02-25,Roubo,"Rua Coronel Quirino, 926 - Cambuí",Ocorrência registrada via COPOM 431: Vítima abordada por dois elementos em motocicleta. Investigação em curso.
+2026-02-01,Homicídio,"Rua Paula Bueno, 1053 - Taquaral",Inquérito Policial nº 553: Confronto entre grupos rivais. Investigação em curso.
+2026-02-18,Estelionato,"Rua Barão de Itapura, 2861 - Guanabara",Relatório de diligência 815: Golpe do falso bilhete premiado. Investigação em curso.
+2026-02-02,Roubo,"Avenida Albino José Barbosa de Oliveira, 2223 - Barão Geraldo",Inquérito Policial nº 956: Assalto a estabelecimento comercial. Suspeito foragido.
+2026-02-14,Homicídio,"Rua Sampaio Ferraz, 654 - Cambuí",Auto de constatação 724: Confronto entre grupos rivais. Investigação em curso.
+2026-02-22,Homicídio,"Avenida Brasil, 237 - Guanabara",Auto de constatação 539: Crime passional com arma branca. Encaminhado ao DP central.
+2026-02-21,Homicídio,"Rua Barão de Itapura, 700 - Guanabara",Auto de constatação 326: Confronto entre grupos rivais. Encaminhado ao DP central.
+2026-02-17,Estelionato,"Rua Paula Bueno, 299 - Taquaral",Auto de constatação 346: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-26,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 829 - Vila Itapura",Ocorrência registrada via COPOM 219: Venda de entorpecentes em praça pública. Aguardando perícia técnica.
+2026-02-01,Tráfico de Entorpecentes,"Rua Coronel Quirino, 1782 - Cambuí",Inquérito Policial nº 920: Venda de entorpecentes em praça pública. Investigação em curso.
+2026-02-09,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 429 - Vila Itapura",Inquérito Policial nº 826: Localização de depósito de drogas após denúncia. Encaminhado ao DP central.
+2026-02-27,Estelionato,"Avenida Andrade Neves, 368 - Castelo",Auto de constatação 748: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-21,Tráfico de Entorpecentes,"Rua Paula Bueno, 497 - Taquaral",Inquérito Policial nº 586: Indivíduo detido em flagrante com entorpecentes. Investigação em curso.
+2026-02-17,Roubo,"Rua Sampaio Ferraz, 81 - Cambuí",Inquérito Policial nº 526: Subtração de veículo mediante ameaça. Encaminhado ao DP central.
+2026-02-09,Furto,"Rua Doutor Delfino Cintra, 570 - Vila Itapura",Relatório de diligência 889: Furto de bicicleta em via pública. Aguardando perícia técnica.
+2026-02-25,Estelionato,"Rua Doutor Delfino Cintra, 132 - Vila Itapura",Inquérito Policial nº 146: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-16,Roubo,"Avenida Anchieta, 61 - Centro",Auto de constatação 458: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-27,Furto,"Rua Coronel Quirino, 815 - Cambuí",Auto de constatação 936: Furto de fiação elétrica noturno. Suspeito foragido.
+2026-02-27,Roubo,"Rua Barão de Itapura, 260 - Guanabara",Ocorrência registrada via COPOM 712: Roubo de carga em via arterial. Suspeito foragido.
+2026-02-05,Estelionato,"Avenida Albino José Barbosa de Oliveira, 335 - Barão Geraldo",Ocorrência registrada via COPOM 498: Fraude em ambiente digital reportada. Investigação em curso.
+2026-02-09,Furto,"Avenida Heitor Penteado, 2652 - Taquaral",Auto de constatação 395: Furto de bicicleta em via pública. Encaminhado ao DP central.
+2026-02-23,Estelionato,"Avenida Andrade Neves, 2455 - Castelo",Inquérito Policial nº 283: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-03,Roubo,"Avenida Alberto Sarmento, 458 - Castelo",Inquérito Policial nº 678: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-24,Estelionato,"Rua Paula Bueno, 1131 - Taquaral",Inquérito Policial nº 856: Fraude em ambiente digital reportada. Aguardando perícia técnica.
+2026-02-15,Roubo,"Rua Paula Bueno, 527 - Taquaral",Ocorrência registrada via COPOM 922: Vítima abordada por dois elementos em motocicleta. Encaminhado ao DP central.
+2026-02-19,Furto,"Avenida Albino José Barbosa de Oliveira, 2975 - Barão Geraldo",Relatório de diligência 274: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-28,Roubo,"Avenida Albino José Barbosa de Oliveira, 3433 - Barão Geraldo",Inquérito Policial nº 392: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-03,Roubo,"Rua Coronel Quirino, 373 - Cambuí",Auto de constatação 870: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-23,Tráfico de Entorpecentes,"Avenida Andrade Neves, 2572 - Castelo",Inquérito Policial nº 537: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-07,Estelionato,"Rua Marechal Deodoro, 1718 - Vila Itapura",Auto de constatação 880: Golpe do falso bilhete premiado. Investigação em curso.
+2026-02-08,Furto,"Avenida Heitor Penteado, 2064 - Taquaral",Auto de constatação 884: Furto de fiação elétrica noturno. Aguardando perícia técnica.
+2026-02-19,Estelionato,"Rua Maria Monteiro, 122 - Cambuí",Relatório de diligência 853: Venda de terreno inexistente. Investigação em curso.
+2026-02-17,Roubo,"Avenida Alberto Sarmento, 505 - Castelo",Relatório de diligência 895: Vítima abordada por dois elementos em motocicleta. Encaminhado ao DP central.
+2026-02-05,Estelionato,"Avenida Albino José Barbosa de Oliveira, 3197 - Barão Geraldo",Relatório de diligência 103: Fraude em ambiente digital reportada. Suspeito foragido.
+2026-02-23,Roubo,"Rua Coronel Quirino, 1647 - Cambuí",Ocorrência registrada via COPOM 323: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-22,Tráfico de Entorpecentes,"Rua Paula Bueno, 670 - Taquaral",Relatório de diligência 648: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-23,Furto,"Avenida Albino José Barbosa de Oliveira, 1235 - Barão Geraldo",Relatório de diligência 610: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-25,Estelionato,"Avenida Alberto Sarmento, 504 - Castelo",Inquérito Policial nº 817: Golpe do falso bilhete premiado. Encaminhado ao DP central.
+2026-02-23,Roubo,"Rua Paula Bueno, 310 - Taquaral",Ocorrência registrada via COPOM 957: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-20,Estelionato,"Rua Sampaio Ferraz, 336 - Cambuí",Auto de constatação 515: Uso de documento falso para saque bancário. Investigação em curso.
+2026-02-22,Tráfico de Entorpecentes,"Avenida Francisco Glicério, 1182 - Centro",Auto de constatação 318: Indivíduo detido em flagrante com entorpecentes. Encaminhado ao DP central.
+2026-02-08,Estelionato,"Rua Sampaio Ferraz, 374 - Cambuí",Ocorrência registrada via COPOM 179: Uso de documento falso para saque bancário. Investigação em curso.
+2026-02-24,Roubo,"Rua Marechal Deodoro, 1652 - Vila Itapura",Inquérito Policial nº 525: Assalto a estabelecimento comercial. Suspeito foragido.
+2026-02-03,Roubo,"Rua Sampaio Ferraz, 142 - Cambuí",Inquérito Policial nº 762: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-01,Furto,"Avenida Albino José Barbosa de Oliveira, 1608 - Barão Geraldo",Auto de constatação 104: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-22,Tráfico de Entorpecentes,"Avenida Anchieta, 756 - Centro",Auto de constatação 539: Localização de depósito de drogas após denúncia. Suspeito foragido.
+2026-02-16,Homicídio,"Rua Sampaio Ferraz, 55 - Cambuí",Inquérito Policial nº 650: Disparos de arma de fogo em via pública. Suspeito foragido.
+2026-02-26,Roubo,"Rua Maria Monteiro, 1549 - Cambuí",Inquérito Policial nº 333: Subtração de veículo mediante ameaça. Suspeito foragido.
+2026-02-17,Estelionato,"Rua Paula Bueno, 865 - Taquaral",Relatório de diligência 259: Uso de documento falso para saque bancário. Suspeito foragido.
+2026-02-14,Roubo,"Avenida Albino José Barbosa de Oliveira, 1850 - Barão Geraldo",Ocorrência registrada via COPOM 988: Vítima abordada por dois elementos em motocicleta. Aguardando perícia técnica.
+2026-02-20,Estelionato,"Avenida Albino José Barbosa de Oliveira, 411 - Barão Geraldo",Relatório de diligência 719: Golpe do falso bilhete premiado. Suspeito foragido.
+2026-02-09,Roubo,"Rua Barão de Itapura, 2499 - Guanabara",Relatório de diligência 890: Subtração de veículo mediante ameaça. Aguardando perícia técnica.
+2026-02-22,Furto,"Avenida Francisco Glicério, 2044 - Centro",Inquérito Policial nº 935: Objeto subtraído de interior de veículo. Investigação em curso.
+2026-02-16,Roubo,"Avenida Heitor Penteado, 2313 - Taquaral",Auto de constatação 206: Roubo de carga em via arterial. Aguardando perícia técnica.
+2026-02-14,Furto,"Avenida Brasil, 786 - Guanabara",Relatório de diligência 998: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-27,Estelionato,"Rua Barão de Itapura, 1253 - Guanabara",Auto de constatação 912: Golpe do falso bilhete premiado. Investigação em curso.
+2026-02-03,Furto,"Avenida Albino José Barbosa de Oliveira, 3184 - Barão Geraldo",Inquérito Policial nº 761: Objeto subtraído de interior de veículo. Encaminhado ao DP central.
+2026-02-23,Tráfico de Entorpecentes,"Avenida Andrade Neves, 2588 - Castelo",Auto de constatação 547: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-07,Tráfico de Entorpecentes,"Rua Coronel Quirino, 606 - Cambuí",Auto de constatação 271: Localização de depósito de drogas após denúncia. Investigação em curso.
+2026-02-22,Roubo,"Avenida Alberto Sarmento, 977 - Castelo",Auto de constatação 753: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-26,Homicídio,"Rua Marechal Deodoro, 951 - Vila Itapura",Relatório de diligência 738: Crime passional com arma branca. Suspeito foragido.
+2026-02-22,Roubo,"Rua Doutor Delfino Cintra, 491 - Vila Itapura",Auto de constatação 279: Vítima abordada por dois elementos em motocicleta. Suspeito foragido.
+2026-02-24,Estelionato,"Rua Paula Bueno, 479 - Taquaral",Auto de constatação 344: Venda de terreno inexistente. Encaminhado ao DP central.
+2026-02-06,Roubo,"Avenida Francisco Glicério, 1382 - Centro",Ocorrência registrada via COPOM 857: Roubo de carga em via arterial. Investigação em curso.
+2026-02-24,Estelionato,"Avenida Francisco Glicério, 2238 - Centro",Relatório de diligência 432: Uso de documento falso para saque bancário. Encaminhado ao DP central.
+2026-02-20,Estelionato,"Rua Maria Monteiro, 665 - Cambuí",Ocorrência registrada via COPOM 834: Venda de terreno inexistente. Suspeito foragido.
+2026-02-22,Homicídio,"Avenida Brasil, 2099 - Guanabara",Relatório de diligência 113: Vítima encontrada sem sinais vitais. Investigação em curso.
+2026-02-26,Roubo,"Rua Doutor Delfino Cintra, 502 - Vila Itapura",Relatório de diligência 810: Subtração de veículo mediante ameaça. Investigação em curso.
+2026-02-22,Tráfico de Entorpecentes,"Avenida Andrade Neves, 992 - Castelo",Auto de constatação 486: Indivíduo detido em flagrante com entorpecentes. Investigação em curso.
+2026-02-22,Roubo,"Rua Doutor Delfino Cintra, 722 - Vila Itapura",Relatório de diligência 566: Roubo de carga em via arterial. Encaminhado ao DP central.
+2026-02-27,Roubo,"Avenida Alberto Sarmento, 1137 - Castelo",Inquérito Policial nº 823: Assalto a estabelecimento comercial. Aguardando perícia técnica.
+2026-02-05,Tráfico de Entorpecentes,"Avenida Albino José Barbosa de Oliveira, 1096 - Barão Geraldo",Ocorrência registrada via COPOM 967: Venda de entorpecentes em praça pública. Encaminhado ao DP central.
+2026-02-23,Roubo,"Avenida Albino José Barbosa de Oliveira, 1210 - Barão Geraldo",Auto de constatação 345: Vítima abordada por dois elementos em motocicleta. Encaminhado ao DP central.
+2026-02-28,Tráfico de Entorpecentes,"Avenida Heitor Penteado, 1222 - Taquaral",Relatório de diligência 748: Venda de entorpecentes em praça pública. Aguardando perícia técnica.
+2026-02-10,Estelionato,"Avenida Anchieta, 91 - Centro",Ocorrência registrada via COPOM 245: Uso de documento falso para saque bancário. Investigação em curso.
+2026-02-27,Roubo,"Rua Doutor Delfino Cintra, 553 - Vila Itapura",Ocorrência registrada via COPOM 665: Assalto a estabelecimento comercial. Suspeito foragido.
+2026-02-15,Tráfico de Entorpecentes,"Rua Doutor Delfino Cintra, 78 - Vila Itapura",Ocorrência registrada via COPOM 171: Indivíduo detido em flagrante com entorpecentes. Aguardando perícia técnica.
+2026-02-16,Homicídio,"Rua Coronel Quirino, 1428 - Cambuí",Inquérito Policial nº 845: Confronto entre grupos rivais. Aguardando perícia técnica.
+2026-02-14,Tráfico de Entorpecentes,"Avenida Anchieta, 312 - Centro",Auto de constatação 552: Apreensão de substâncias análogas à cocaína. Encaminhado ao DP central.
+2026-02-18,Roubo,"Avenida Heitor Penteado, 183 - Taquaral",Relatório de diligência 369: Subtração de veículo mediante ameaça. Suspeito foragido.
+2026-02-20,Homicídio,"Avenida Albino José Barbosa de Oliveira, 843 - Barão Geraldo",Inquérito Policial nº 403: Disparos de arma de fogo em via pública. Encaminhado ao DP central.
+2026-02-12,Furto,"Rua Paula Bueno, 107 - Taquaral",Ocorrência registrada via COPOM 362: Furto de bicicleta em via pública. Aguardando perícia técnica.
