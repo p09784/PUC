@@ -1,12 +1,12 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-BR">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description"
-    content="InkSpot — Encontre os melhores tatuadores da sua região. Veja portfólios, avaliações e agende sua sessão.">
-  <title>InkSpot — Encontre Tatuadores Incríveis</title>
+    content="InkSpot â€” Encontre os melhores tatuadores da sua regiÃ£o. Veja portfÃ³lios, avaliaÃ§Ãµes e agende sua sessÃ£o.">
+  <title>InkSpot â€” Encontre Tatuadores IncrÃ­veis</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -15,8 +15,9 @@
   <!-- Navbar -->
   <nav class="navbar" id="navbar">
     <a href="#" class="nav-logo">Ink<span>Spot</span></a>
-    <ul class="nav-links" id="navLinks"><li><a href="Index.html">Início</a></li><li><a href="buscar.html">Artistas</a></li>
-      <li><a href="buscar.html#location">Localização</a></li>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="Index.html">InÃ­cio</a></li>
+      <li><a href="buscar.html">Artistas</a></li>
       <li><a href="#how">Como Funciona</a></li>
       <li><a href="#testimonials">Depoimentos</a></li>
     </ul>
@@ -41,12 +42,12 @@
   <section class="hero" id="hero">
     <div class="hero-bg"></div>
     <div class="hero-content">
-      <div class="hero-badge">Plataforma Nº1 de Tatuagem</div>
-      <h1>Encontre o Artista Perfeito Para Sua Próxima Tatuagem</h1>
-      <p>Conectamos você aos melhores tatuadores do Brasil. Explore estilos, veja portfólios e agende sua sessão com
+      <div class="hero-badge">Plataforma NÂº1 de Tatuagem</div>
+      <h1>Encontre o Artista Perfeito Para Sua PrÃ³xima Tatuagem</h1>
+      <p>Conectamos vocÃª aos melhores tatuadores do Brasil. Explore estilos, veja portfÃ³lios e agende sua sessÃ£o com
         facilidade.</p>
       <div class="hero-actions">
-        <button class="btn-primary" onclick="document.getElementById('artists').scrollIntoView({behavior:'smooth'})">Encontrar Artistas</button>
+        <button class="btn-primary" onclick="window.location.href='buscar.html'">Encontrar Artistas</button>
         <button class="btn-outline" onclick="document.getElementById('how').scrollIntoView({behavior:'smooth'})">Como
           Funciona</button>
       </div>
@@ -57,47 +58,24 @@
         </div>
         <div class="hero-stat">
           <h3>15k+</h3>
-          <p>Sessões Realizadas</p>
+          <p>SessÃµes Realizadas</p>
         </div>
         <div class="hero-stat">
           <h3>4.8</h3>
-          <p>Avaliação Média</p>
+          <p>AvaliaÃ§Ã£o MÃ©dia</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Artists -->
-  <section class="section" id="artists">
-    <div class="section-header fade-in">
-      <span class="section-tag">Artistas em Destaque</span>
-      <h2>Talento Que Marca Para Sempre</h2>
-      <p>Descubra tatuadores incríveis, veja seus trabalhos e entre em contato diretamente.</p>
-    </div>
-    <div class="search-bar fade-in" style="flex-direction: row; flex-wrap: wrap; gap: 8px;">
-      <input type="text" id="searchInput" placeholder="Buscar por nome ou estilo..." style="flex: 2; min-width: 200px;">
-      <input type="text" id="cepInput" placeholder="CEP ou Cidade..." style="flex: 1; min-width: 150px;">
-      <button id="locationBtn" title="Usar localização atual" style="padding: 0 16px; background: var(--bg-glass); border: 1px solid var(--border-glass); border-radius: var(--radius-full); cursor: pointer; color: var(--text-primary); transition: var(--transition);">📍</button>
-      <button id="searchBtn">Buscar</button>
-    </div>
-    <div class="style-filters fade-in">
-      <button class="filter-btn active" data-style="all">Todos</button>
-      <button class="filter-btn" data-style="realismo">Realismo</button>
-      <button class="filter-btn" data-style="aquarela">Aquarela</button>
-      <button class="filter-btn" data-style="geométrico">Geométrico</button>
-      <button class="filter-btn" data-style="fine line">Fine Line</button>
-      <button class="filter-btn" data-style="oriental">Oriental</button>
-      <button class="filter-btn" data-style="old school">Old School</button>
-    </div>
-    <div class="artists-grid" id="artistsGrid"></div>
-  </section>
+
 
   <!-- How It Works -->
   <section class="section" id="how">
     <div class="section-header fade-in">
-      <span class="section-tag">Simples e Rápido</span>
+      <span class="section-tag">Simples e RÃ¡pido</span>
       <h2>Como Funciona</h2>
-      <p>Em poucos passos você encontra o artista ideal e agenda sua sessão.</p>
+      <p>Em poucos passos vocÃª encontra o artista ideal e agenda sua sessÃ£o.</p>
     </div>
     <div class="steps-grid">
       <div class="step-card fade-in">
@@ -107,7 +85,7 @@
             <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
           </svg></div>
         <h3>Explore</h3>
-        <p>Pesquise por estilo, localização ou nome. Use nossos filtros para encontrar exatamente o que procura.</p>
+        <p>Pesquise por estilo, localizaÃ§Ã£o ou nome. Use nossos filtros para encontrar exatamente o que procura.</p>
       </div>
       <div class="step-card fade-in">
         <div class="step-icon"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -121,7 +99,7 @@
             </path>
           </svg></div>
         <h3>Escolha</h3>
-        <p>Veja portfólios completos, avaliações de outros clientes e detalhes sobre cada artista.</p>
+        <p>Veja portfÃ³lios completos, avaliaÃ§Ãµes de outros clientes e detalhes sobre cada artista.</p>
       </div>
       <div class="step-card fade-in">
         <div class="step-icon"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -129,7 +107,7 @@
             <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
           </svg></div>
         <h3>Conecte-se</h3>
-        <p>Entre em contato direto via WhatsApp para discutir sua ideia e agendar sua sessão.</p>
+        <p>Entre em contato direto via WhatsApp para discutir sua ideia e agendar sua sessÃ£o.</p>
       </div>
       <div class="step-card fade-in">
         <div class="step-icon"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -139,7 +117,7 @@
             </polygon>
           </svg></div>
         <h3>Realize</h3>
-        <p>Chegou o dia! Vá ao estúdio e transforme sua ideia em uma obra de arte permanente.</p>
+        <p>Chegou o dia! VÃ¡ ao estÃºdio e transforme sua ideia em uma obra de arte permanente.</p>
       </div>
     </div>
   </section>
@@ -148,13 +126,13 @@
   <section class="section" id="testimonials">
     <div class="section-header fade-in">
       <span class="section-tag">O Que Dizem</span>
-      <h2>Histórias de Quem Confia</h2>
+      <h2>HistÃ³rias de Quem Confia</h2>
       <p>Veja depoimentos reais de clientes que encontraram seu artista ideal aqui.</p>
     </div>
     <div class="testimonials-grid">
       <div class="testimonial-card fade-in">
-        <div class="testimonial-stars">★★★★★</div>
-        <blockquote>"Encontrei a Camila pelo InkSpot e foi a melhor decisão. Minha tattoo de aquarela ficou simplesmente
+        <div class="testimonial-stars">â˜…â˜…â˜…â˜…â˜…</div>
+        <blockquote>"Encontrei a Camila pelo InkSpot e foi a melhor decisÃ£o. Minha tattoo de aquarela ficou simplesmente
           perfeita, exatamente como eu sonhava!"</blockquote>
         <div class="testimonial-author">
           <div class="testimonial-author-avatar">M</div>
@@ -165,20 +143,20 @@
         </div>
       </div>
       <div class="testimonial-card fade-in">
-        <div class="testimonial-stars">★★★★★</div>
-        <blockquote>"Plataforma incrível! Consegui comparar vários artistas de realismo e escolhi o Rafael. O resultado
+        <div class="testimonial-stars">â˜…â˜…â˜…â˜…â˜…</div>
+        <blockquote>"Plataforma incrÃ­vel! Consegui comparar vÃ¡rios artistas de realismo e escolhi o Rafael. O resultado
           superou todas as expectativas."</blockquote>
         <div class="testimonial-author">
           <div class="testimonial-author-avatar">P</div>
           <div class="testimonial-author-info">
             <p>Pedro Henrique</p>
-            <p>São Paulo, SP</p>
+            <p>SÃ£o Paulo, SP</p>
           </div>
         </div>
       </div>
       <div class="testimonial-card fade-in">
-        <div class="testimonial-stars">★★★★★</div>
-        <blockquote>"Como tatuadora, o InkSpot revolucionou meu negócio. Recebi clientes de outras cidades que
+        <div class="testimonial-stars">â˜…â˜…â˜…â˜…â˜…</div>
+        <blockquote>"Como tatuadora, o InkSpot revolucionou meu negÃ³cio. Recebi clientes de outras cidades que
           encontraram meu trabalho pela plataforma."</blockquote>
         <div class="testimonial-author">
           <div class="testimonial-author-avatar">A</div>
@@ -193,7 +171,7 @@
 
   <!-- CTA -->
   <section class="cta-section fade-in">
-    <h2>É Tatuador? Assine para Divulgar</h2>
+    <h2>Ã‰ Tatuador? Assine para Divulgar</h2>
     <p>Mostre seu trabalho para milhares de pessoas e receba clientes diretamente no seu WhatsApp.</p>
     <button class="btn-primary" onclick="openAuth('register')">Ver Planos de Assinatura</button>
   </section>
@@ -206,9 +184,8 @@
         <p>A plataforma que conecta artistas talentosos a pessoas que buscam a tatuagem perfeita.</p>
       </div>
       <div class="footer-col">
-        <h4>Navegação</h4>
+        <h4>NavegaÃ§Ã£o</h4>
         <a href="buscar.html">Artistas</a>
-        <a href="buscar.html#location">Localização</a>
         <a href="#how">Como Funciona</a>
         <a href="#testimonials">Depoimentos</a>
       </div>
@@ -228,7 +205,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <span>© 2026 InkSpot. Todos os direitos reservados.</span>
+      <span>Â© 2026 InkSpot. Todos os direitos reservados.</span>
       <div class="footer-socials">
         <a href="#" aria-label="Instagram"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"
             stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">

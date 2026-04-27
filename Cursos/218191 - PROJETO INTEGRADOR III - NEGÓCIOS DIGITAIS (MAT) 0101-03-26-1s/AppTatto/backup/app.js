@@ -131,11 +131,7 @@ const navToggle = document.getElementById('navToggle');
 const navLinks = document.getElementById('navLinks');
 const artistsGrid = document.getElementById('artistsGrid');
 
-const stateSelect = document.getElementById('stateSelect');
-const citySelect = document.getElementById('citySelect');
-const locationSearchBtn = document.getElementById('locationSearchBtn');
-const popularCitiesGrid = document.getElementById('popularCitiesGrid');
-const locationResults = document.getElementById('locationResults');
+// Removed unused location DOM elements
 const searchInput = document.getElementById('searchInput');
 const searchBtn = document.getElementById('searchBtn');
 const modalOverlay = document.getElementById('modalOverlay');
@@ -182,56 +178,7 @@ function renderStars(rating) {
   return '★'.repeat(full) + (half ? '½' : '') + '☆'.repeat(5 - full - half);
 }
 
-// ── Render Location Section ──
-function initLocationSearch() {
-  // Populate States
-  const states = Object.keys(locationData).sort();
-  stateSelect.innerHTML = '<option value="">Selecione o estado</option>' + 
-    states.map(s => `<option value="${s}">${s}</option>`).join('');
-
-  stateSelect.addEventListener('change', () => {
-    const state = stateSelect.value;
-    if (state) {
-      const cities = Array.from(locationData[state]).sort();
-      citySelect.innerHTML = '<option value="">Selecione a cidade</option>' + 
-        cities.map(c => `<option value="${c}">${c}</option>`).join('');
-      citySelect.disabled = false;
-    } else {
-      citySelect.innerHTML = '<option value="">Selecione a cidade</option>';
-      citySelect.disabled = true;
-    }
-  });
-
-
-
-  locationSearchBtn.addEventListener('click', () => {
-    searchByLocation(citySelect.value, stateSelect.value);
-  });
-}
-
-function searchByLocation(city, state) {
-  if (!state) return;
-  
-  let q = state;
-  if (city) q = `${city}, ${state}`;
-
-  const filtered = artists.filter(a => a.location.toLowerCase().includes(q.toLowerCase()));
-  
-  locationResults.innerHTML = `
-    <div style="margin-top: 32px;">
-      <h3 style="margin-bottom: 24px;">Resultados para ${q} (${filtered.length})</h3>
-      <div class="artists-grid">
-        ${renderArtistsHTML(filtered)}
-      </div>
-    </div>
-  `;
-  locationResults.classList.add('active');
-  observeFadeIns();
-  bindCardClicks(locationResults);
-  
-  locationResults.scrollIntoView({ behavior: 'smooth', block: 'start' });
-}
-
+// Removed Render Location Section
 // Helper to generate HTML for artist cards without updating artistsGrid
 function renderArtistsHTML(list) {
   return list.map(a => `
@@ -334,18 +281,20 @@ function handleSearch() {
   const q = searchInput ? searchInput.value.toLowerCase() : '';
   const cepBtn = document.getElementById('cepInput');
   const cepQ = cepBtn ? cepBtn.value.toLowerCase() : '';
+  const cidadeBtn = document.getElementById('cidadeInput');
+  const cidadeQ = cidadeBtn ? cidadeBtn.value.toLowerCase() : '';
   
-  if (!q && !cepQ) {
+  if (!q && !cepQ && !cidadeQ) {
     if (artistsGrid) renderArtists(artists);
     return;
   }
   
-  const filtered = artists.filter(a => 
-    a.name.toLowerCase().includes(q) ||
-    a.location.toLowerCase().includes(q) ||
-    a.styles.some(s => s.toLowerCase().includes(q)) ||
-    (cepQ && a.location.toLowerCase().includes(cepQ))
-  );
+  const filtered = artists.filter(a => {
+    const matchNameStyle = q === '' || a.name.toLowerCase().includes(q) || a.styles.some(s => s.toLowerCase().includes(q));
+    const matchCep = cepQ === '' || true; // Currently CEP logic is mock as we don't have CEP in data
+    const matchCidade = cidadeQ === '' || a.location.toLowerCase().includes(cidadeQ);
+    return matchNameStyle && matchCep && matchCidade;
+  });
   if (artistsGrid) renderArtists(filtered);
 }
 if (searchBtn) searchBtn.addEventListener('click', handleSearch);
@@ -353,6 +302,23 @@ if (searchInput) searchInput.addEventListener('keydown', e => { if (e.key === 'E
 
 const cepInput = document.getElementById('cepInput');
 if (cepInput) cepInput.addEventListener('keydown', e => { if (e.key === 'Enter') handleSearch(); });
+
+const cidadeInput = document.getElementById('cidadeInput');
+if (cidadeInput) cidadeInput.addEventListener('keydown', e => { if (e.key === 'Enter') handleSearch(); });
+
+const locationBtn = document.getElementById('locationBtn');
+if (locationBtn) {
+  const locationSvg = `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle></svg>`;
+  const loadingSvg = `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="animation: pulse 1s infinite;"><path d="M21 12a9 9 0 1 1-6.219-8.56"></path></svg>`;
+  locationBtn.addEventListener('click', () => {
+    locationBtn.innerHTML = loadingSvg;
+    setTimeout(() => {
+      locationBtn.innerHTML = locationSvg;
+      if (cidadeInput) cidadeInput.value = 'São Paulo';
+      handleSearch();
+    }, 1000);
+  });
+}
 
 // ── Filters ──
 filterBtns.forEach(btn => {
@@ -383,5 +349,4 @@ function observeFadeIns() {
 
 // ── Init ──
 if (artistsGrid) renderArtists(artists);
-if (document.getElementById('stateSelect')) initLocationSearch();
 observeFadeIns();
