@@ -331,21 +331,20 @@ function bindCardClicks(container = document) {
 
 // ── Search ──
 function handleSearch() {
-  const q = searchInput ? searchInput.value.toLowerCase() : '';
+  const q = searchInput ? searchInput.value.toLowerCase().trim() : '';
   const cepBtn = document.getElementById('cepInput');
-  const cepQ = cepBtn ? cepBtn.value.toLowerCase() : '';
+  const cepQ = cepBtn ? cepBtn.value.toLowerCase().trim() : '';
   
   if (!q && !cepQ) {
     if (artistsGrid) renderArtists(artists);
     return;
   }
   
-  const filtered = artists.filter(a => 
-    a.name.toLowerCase().includes(q) ||
-    a.location.toLowerCase().includes(q) ||
-    a.styles.some(s => s.toLowerCase().includes(q)) ||
-    (cepQ && a.location.toLowerCase().includes(cepQ))
-  );
+  const filtered = artists.filter(a => {
+    const matchQ = !q || a.name.toLowerCase().includes(q) || a.styles.some(s => s.toLowerCase().includes(q));
+    const matchCep = !cepQ || a.location.toLowerCase().includes(cepQ);
+    return matchQ && matchCep;
+  });
   if (artistsGrid) renderArtists(filtered);
 }
 if (searchBtn) searchBtn.addEventListener('click', handleSearch);
